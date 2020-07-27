@@ -53,8 +53,13 @@
           <img src="/bernays.png" />
           <img src="/honestly.png" />
         </div>
-        <p>Methods and phraseology devised 100 years ago are still being uttered today, verbatim, in marketing meetings everywhere: Ulitmate, Family, Sexy, Delicious, Dopamine, Oxytocin, Adrenaline, etc.</p>
-        <p>The next time you see a bogus rich kid like Bezos or Zukerberg or Musk pretending to be a genius, remember that all their wealth comes from selling ads that cause depression and then kissing the hands of facists who are right now, in 2020, operating concentration camps.</p>
+        <p>Methods and phraseology devised 100 years ago are still being uttered today, verbatim, in marketing meetings everywhere: Ultimate, Family, Sexy, Delicious, Dopamine, Oxytocin, Adrenaline, etc.</p>
+        <p>The next time you see a bogus rich kid like Bezos or Zukerberg or Musk pretending to be a genius, remember that all their wealth comes from:
+          <ul>
+           <li>selling fast ads for mass plastic</li>
+           <li>instilling depression/anxiety in USA teenagers</li>
+           <li>kissing the hands of facists who are right now, in 2020, operating concentration camps.</li>
+          </ul>
         <div class=" items-start">
           <img src="concentration_camps.png" />
           <img src="xi.png" />
