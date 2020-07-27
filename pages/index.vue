@@ -13,11 +13,11 @@
       </div>
       <div>
         <p>As usual, we're lucky the nerds had a head-start before business moved in. If begun just this year, in today's economic climate, the WP mission would be considered quixotic or maybe even terrorism. This is tragic because it is this very potential to share new information at no cost that inspired the real heroes to first design this virtual space we've now all taken refuge in:</p>
-        <span class="flex">
+        <span class="flex flex-wrap">
         <img src="/douglace.png" />
         <iframe width="560" height="315" src="https://www.youtube.com/embed/M5PgQS3ZBWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </span>
-        <span class="flex items-start">
+        <span class="flex flex-wrap items-start">
           <img src="kay_bio.png" />
           <iframe width="560" height="315" src="https://www.youtube.com/embed/6ZdxiQoOBgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <img id="moon" src="moon.png" />
@@ -53,13 +53,13 @@
         </ul>
         <img id="bribe" src="/bribe.png" class="mb-8" />
         <p>Zuckerberg set the precedent for this, and it’s now the philosophy of the Bay Area and the greater American Economy: put a lock on everything and start building your <strong>passive</strong> income.  This money is defined by having been obtained without doing any work. Young men in San Francisco recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with no real skills are entiled to vast sums of money for having the “vision” or "courage" to horde and plagiarize the basic inventions of their scientific predecessors and sell out every pixel of our minds with hypnotic imagery to make us feel hungry and sad. 
-        <div class="flex mb-6">
+        <div class="flex flex-wrap mb-6">
           <img src="/bernays.png" />
           <img src="/honestly.png" />
         </div>
         <p>Methods and phraseology devised 100 years ago are still being uttered today, verbatim, in marketing meetings everywhere: Ulitmate, Family, Sexy, Delicious, Dopamine, Oxytocin, Adrenaline, etc.</p>
         <p>The next time you see a bogus rich kid like Bezos or Zukerberg or Musk pretending to be a genius, remember that all their wealth comes from selling ads that cause depression and then kissing the hands of facists who are right now, in 2020, operating concentration camps.</p>
-        <div class="flex flex-col items-start">
+        <div class="flex flex-wrap items-start">
           <img src="concentration_camps.png" />
           <img src="xi.png" />
           <img src="sandberg.png" />
@@ -172,6 +172,11 @@ a {
   color: blue;
   @apply p-2;
   border: 2px solid #6ec36e;
-  white-space: nowrap;
+}
+.container {
+  max-width: 100%;
+}
+iframe {
+  max-width: 100%;
 }
 </style>
