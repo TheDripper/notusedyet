@@ -4,14 +4,15 @@
       <p :key="index">{{ word }}</p>
     </div>-->
     <div class="container flex flex-col items-center mx-auto p-6">
+      <h1 id="rumi" class="text-xl uppercase tracking-wide py-12"><a href="/rumi">Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a></h1>
       <div>
-        <p>As I write code for $$$ in the VC-funded horse-race that is the Tech Industry in 2020, I've been reflecting on one quiet but radical protestor who is out in the parkling lot handing out free copies of the good book: WordPress.</p>
+        <p>As I write code for $$$ in the VC-funded horse-race that is the Tech Industry in 2020, I've been reflecting on one quiet but radical protestor who is out in the parking lot, handing out free copies of the good book: WordPress.</p>
       </div>
       <div>
-        <p>When WordPress began in 2003, The Internet was still largely uncolonized and inhabited by nerds. Back then, the WordPress mission  <strong>to create a free and open source publishing platform for The Internet</strong> seemed like esoteric gibberish to anybody who wasn't actively publishing or reading content, i.e. not that many people when compared to our current COVID era, where the maintenance of our physical bodies is the last thing that hasn't yet been abstracted to an online software layer. I pray that this last citadel of sweat and poop and hair remains ours forever, amen.</p>
+        <p>When WordPress began in 2003, The Internet was still largely uncolonized and thus inhabited by nerds. Back then, the WordPress mission <strong>to create a free and open source publishing platform for The Internet</strong> seemed like esoteric gibberish to anybody who wasn't actively publishing or reading content, i.e. not that many people when compared to our current COVID era, where the maintenance of our physical bodies is the last thing that hasn't yet been abstracted to an online software layer. I pray that this last citadel of sweat and poop and hair remains ours forever, amen.</p>
       </div>
       <div>
-        <p>As usual, we're lucky the nerds had a head-start before business moved in. If begun just this year, in today's economic climate, the WP mission would be considered quixotic or maybe even terrorism. This is tragic because it is this very potential to share new information at no cost that inspired the real heroes who created all this in the first place:</p>
+        <p>As usual, we're lucky the nerds had a head-start before business moved in. If begun just this year, in today's economic climate, the WP mission would be considered quixotic or maybe even terrorism. This is tragic because it is this very potential to share new information at no cost that inspired the real heroes to first design this virtual space we've now all taken refuge in:</p>
         <span class="flex">
         <img src="/douglace.png" />
         <iframe width="560" height="315" src="https://www.youtube.com/embed/M5PgQS3ZBWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,7 +33,7 @@
               <li>a board in the town square to post announcements</li>
               <li>an open marketplace for vendors to sell</li>
             </ul>
-          <li>Abstract these fundamental concepts of human culture that are thousands of years old into an online software layer with programming languages you inherited for free from the prior scientific research of the US GOVT. by writing some basic functions to handle trivial, age-old Comp Sci / Web Dev concerns like:</li>
+          <li>Abstract these fundamental concepts of human culture that are thousands of years old into an online software layer- with programming languages you've inherited for free from the prior scientific research of the US GOVT.- by writing some basic functions to handle trivial, age-old Comp Sci / Web Dev concerns like:</li>
             <ul>
               <li>Posting an image to a server</li>
               <li>Posting a string of text to a chat</li>
@@ -44,7 +45,7 @@
         <p>There is no genius here, just young white men cashing in on the basic movements of life itself.</p>
         <p>Behold: a band of wild investors, drunk with bloodthirst for their next unicorn, slaps a SaaS padlock on progress and begins an amphetaminic hype ritual with bright colors and cute cartoon characters and a whole quasi-magical language of metaphor and imagery to obfuscate the fact that they’re just reselling a spreadsheet, or some scripts to pipe data from Vendor A to Vendor B. These technologies were invented in the 80s, but only recently has Wall Street figured out that you can box these things up with bright branding, deploy them to the Bezos-net, and charge VC-funded companies $1000/month "for the service". 
           <img src="saas.png" />
-          Millions of VC dollars later, 500-1000 people are hard at work on a product that has no reason to exist, except to extract illusory wealth out of other VC funded horses. Nobody's really paying taxes on any of this, because jobs ok? Don't make the angry rich boys cripple your state. This dowry bargaining between Silicon Valley and Capitol Hill (i.e. press statements about "incentive" and "pulling jobs out") is now carried out on the front page of NYT, proving that:</p>
+          <p>A few funding rounds later, 500-1000 people are hard at work on a product that has no reason to exist, except to extract illusory wealth out of other VC funded horses. Nobody's really paying taxes on any of this, because jobs ok? Don't make the angry rich boys cripple your state. This dowry bargaining between Silicon Valley and Capitol Hill (i.e. press statements about "incentive" and "pulling jobs out") is now carried out on the front page of NYT, proving that:</p>
         <ul class="mt-8">
          <li>It's not bribery if you say a lot of words first.</li>
          <li>Once their ego has been threatened, Billionare Owners think nothing of sending thousands of Americans home unemployed.</li>
@@ -85,7 +86,7 @@
               <p>Also a <a href="https://codex.wordpress.org/es:Main_Page" target="_blank">multi-lingual</a>, <a href="https://www.youtube.com/results?search_query=wordpress+tutorial+hindi" target="_blank">worldwide</a> community with (currently virtual) <a href="https://www.meetup.com/topics/wordpress/" target="_blank">meetups.</a> It is <strong>so easy</strong> to get help when learning WordPress and this is literally why The Internet was invented: to enable us to learn together.</p>
       </div>
       <div>
-        <p>If you are a small business, non-profit, or activist group looking to begin or update your digital presence, WordPress is the best option because it’s been used and tested by millions for the last 17 years and costs $0/month. You may still have to pay a developer for the labor of getting your templates and plugins configured, but there are <strong> no SaaS-y annual contracts or monthly fees to run the WP core.</strong> Lots of free or cheap plugins serving all common business needs, and at most your paying a WP dev an hourly rate for a few hours of their time, instead of spending weeks in meetings trying to scope a budget with an agency. Thanks to the recent <a href="https://developer.wordpress.org/block-editor/">Gutenberg</a> updates, along with the <a href="https://developer.wordpress.org/rest-api/">REST API</a>, and the awesome work by the contributors on <a href="https://github.com/jaredpalmer/presspack">PressPack</a> we can now use modern build tools like Node Package Manager, Webpack, and PostCSS to make WP as powerful an option as any other platform on the web today.</p>
+        <p>If you are a small business, non-profit, or activist group looking to begin or update your digital presence, WordPress is the best option because it’s been used and tested by millions for the last 17 years and costs $0/month. You may still have to pay a developer for the time/labor of getting your templates and plugins configured, but there are <strong> no SaaS-y annual contracts or monthly fees to run the WP core.</strong> Lots of free or cheap plugins serving all common business needs, and at most your paying a WP dev an hourly rate for a few hours of their time, instead of spending weeks in meetings trying to scope a budget with an agency. Thanks to the recent <a href="https://developer.wordpress.org/block-editor/">Gutenberg</a> updates, along with the <a href="https://developer.wordpress.org/rest-api/">REST API</a>, and the awesome work by the contributors on <a href="https://github.com/jaredpalmer/presspack">PressPack</a> we can now use modern build tools like Node Package Manager, Webpack, and PostCSS to make WP as powerful an option as any other platform on the web today.</p>
       </div>
       <div>
         <p>This is really important and we need to start right now. 
