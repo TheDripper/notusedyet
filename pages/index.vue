@@ -92,7 +92,7 @@
         <img class="mb-6" src="/nasdaq.png" />
       </div>
       <div>
-        <p>Please email me ASAP at tylerhillwebdev@gmail.com</p>
+        <p>If you get stuck on a tutorial or need help doing fixing something online, please email me ASAP at tylerhillwebdev@gmail.com and I will give you whatever time and knowledge that I can, free of charge.</p>
       </div>
       <div>
         <p>Thank you for your time.</p>
