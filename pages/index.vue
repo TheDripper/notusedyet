@@ -79,7 +79,7 @@
       <div>
         <p class="now">GET OFF AWS, NOW.</p>
         <p class="now">STOP STARING AT INSTAGRAM. TURN IT OFF RIGHT NOW FOREVER.</p>
-        <p class="subnow"><span class="magenta">"But amazon is just so easy"</span> - so is handing your life over to a facist corporatocracy, one home-delivered grocery bag at a time.</p>
+        <p class="subnow">"But <span class="magenta">I'm bored</span> amazon is just <span class="magenta">so easy</span>"</span> - so is handing your life over to a facist corporatocracy, one home-delivered grocery bag at a time.</p>
           <img src="market_share.png" />
           <img src="run_rate.png" />
           <img src="oligarch.png" />
