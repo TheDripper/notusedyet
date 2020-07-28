@@ -110,7 +110,7 @@
         <p class="subnow mt-2 magenta">Imagine logging onto Instagram only there were no ads and all the content was small-time niche stuff from weird internet people who have day-jobs and so sacrifice here, making zero dollars on their art and working out of passion and love. Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
         <img class="mb-6" src="/nasdaq.png" />
         <h1 class="blink">--:--:--</h1>
-      <h1 id="rumi" class="w-full text-center text-xl uppercase tracking-wide py-12"><a href="/rumi">Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a></h1>
+      <h1 id="rumi" class="w-full text-center text-xl uppercase tracking-wide py-12"><span class="magenta">Rumi:</span><a href="/rumi">Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a></h1>
       </div>
     </div>
   </div>
