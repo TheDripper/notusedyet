@@ -72,8 +72,8 @@
           </div>
         <img src="/mac.png" />
       </div>
-      <p class="subnow magenta px-8">And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, just google Gary Webb, and ask yourself why a newspaper owned by Jeff Bezos would still be dragging his name in the dirt, even after he killed himself. <strong>Jeff Lean</span> of <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:</p>
-      <img src="jeff_lean.png" />
+      <p class="subnow magenta px-8">And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, just google Gary Webb, and ask yourself why a newspaper owned by Jeff Bezos would still be dragging his name in the dirt, even after he killed himself. <strong>Jeff Leen</span> of <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:</p>
+      <img src="jeff_leen.png" />
       <p>I cried during Journalism class when they told his story and you better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
       <img src="gary_face.png" />
       <img src="gary_1.png" />
