@@ -20,7 +20,7 @@
           <img id="moon" src="moon.png" />
         <p class="mt-6">So a network of terminals and interface hardware that can abstract information into a visual space that's easily understood by children? Miraculous! And in '03, software engineers giving away free code to help eliminate the barrier-to-entry for the WWW? Our future is so bright!</p>
         <h1 class="blink">--:--:--</h1>
-        <p>Act 2: Enter The Business Schools of America, and their hordes of young men who want to make a lot of money really fast.</p>
+        <p>Act 2: Enter The Business Schools of America, and their hordes of young white men who want to make a lot of money really fast.</p>
         <p>These men are starving after the '08 crash cut short the Housing/Derivatives/CDO casino. They are twitching and stuck in a stagnant economy with nothing but slow, stable bonds. Suddenly they whiff the unmistakable lemon-fresh scent of fast money being made in large quantities. It seems to be coming from the Bay Area.</p>
         <p>Here's the plan:</p>
         <ol>
@@ -48,7 +48,7 @@
          <li>This can be published in the newspaper because it is business as usual.</li>
         </ul>
         <img id="bribe" src="/bribe.png" class="mb-8" />
-        <p>Zuckerberg set the precedent for this, and it’s now the philosophy of the Bay Area and the greater American Economy: put a lock on everything and start building your <strong>passive</strong> income.  This money is defined by having been obtained without doing any work. Young men in San Francisco recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with no real skills are entiled to vast sums of money for having the “vision” or "courage" to horde and plagiarize the basic inventions of their scientific predecessors and sell out every pixel of our minds with hypnotic imagery to make us feel hungry and sad. 
+        <p>Zuckerberg set the precedent for this, and it’s now the philosophy of the Bay Area and the greater American Economy: put a lock on everything and start building your <strong>passive</strong> income.  This money is defined by having been obtained without doing any work. Young white men in San Francisco recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with no real skills are entiled to vast sums of money for having the “vision” or "courage" to horde and plagiarize the basic inventions of their scientific predecessors and sell out every pixel of our minds with hypnotic imagery to make us feel hungry and sad. 
         <div class=" mb-6">
           <img src="/bernays.png" />
           <img src="/honestly.png" />
