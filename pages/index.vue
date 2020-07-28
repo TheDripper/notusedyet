@@ -5,7 +5,7 @@
     </div>-->
     <div class="container flex flex-col items-center mx-auto p-6">
       <h1 id="rumi" class="text-xl uppercase tracking-wide py-12"><a href="/rumi">Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a></h1>
-        <p class="magenta">If you get stuck on a tutorial or need help doing fixing something online, please email me ASAP at tylerhillwebdev@gmail.com and I will give you whatever time and knowledge that I can, free of charge.</p>
+        <p class="magenta">If you've got a front-end bug you can't solve or just want to know how to start learning code, please email me ASAP at tylerhillwebdev@gmail.com and I will give you whatever time and knowledge that I can, free of charge.</p>
       <div>
         <p>As I write code for $$$ in the VC-funded horse-race that is the Tech Industry in 2020, I've been reflecting on one quiet but radical protestor who is out in the parking lot, handing out free copies of the good book: WordPress.</p>
       </div>
