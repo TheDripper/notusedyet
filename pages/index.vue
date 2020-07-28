@@ -91,10 +91,7 @@
         <img src="bezos.png" />
         <img src="musk_phone.png" />
         <img src="zuck.png" />
-        <p class="subnow mt-2 magenta">Imagine logging onto Instagram only there were no ads and all the content was small-time niche stuff from weird internet people who have day-jobs and so sacrifice here, making zero dollars on their art and working out of passion and love. Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
-        <img class="mb-6" src="/nasdaq.png" />
-        <h1 class="blink">--:--:--</h1>
-      <h1 id="rumi" class="w-full text-center text-xl uppercase tracking-wide py-12"><span class="magenta">Rumi:</span><a href="/rumi">Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a></h1>
+        
       </div>
       <h1 class="blink w-full">COOL STORY TYLER BUT NOW I'M SAD</h1>
       <div>
@@ -118,6 +115,10 @@
       <div>
         <p>If you are a small business, non-profit, or activist group looking to begin or update your digital presence, WordPress is the best option because it’s been used and tested by millions for the last 17 years and costs $0/month. You may still have to pay a developer for the time/labor of getting your templates and plugins configured, but there are <strong> no SaaS-y annual contracts or monthly fees to run the WP core.</strong> Lots of free or cheap plugins serving all common business needs, and at most you're paying a WP dev an hourly rate for a few hours of their time, instead of spending weeks in meetings trying to scope a budget with an agency. Thanks to the recent <a href="https://developer.wordpress.org/block-editor/">Gutenberg</a> updates, along with the <a href="https://developer.wordpress.org/rest-api/">REST API</a>, and the awesome work by the contributors on <a href="https://github.com/jaredpalmer/presspack" target="_blank">PressPack</a> we can now use modern build tools like Node Package Manager, Webpack, and PostCSS to make WP as powerful an option as any other platform on the web today.</p>
       </div>
+      <p class="subnow mt-2 magenta">Imagine logging onto Instagram only there were no ads and all the content was small-time niche stuff from weird internet people who have day-jobs and so sacrifice here, making zero dollars on their art and working out of passion and love. Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
+        <img class="mb-6" src="/nasdaq.png" />
+        <h1 class="blink">--:--:--</h1>
+      <h1 id="rumi" class="w-full text-center text-xl uppercase tracking-wide py-12"><span class="magenta">Rumi:</span><a href="/rumi">Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a></h1>
       
     </div>
   </div>
