@@ -5,6 +5,7 @@
     </div>-->
     <div class="container flex flex-col items-center mx-auto p-6">
       <h1 id="rumi" class="text-xl uppercase tracking-wide py-12"><a href="/rumi">Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a></h1>
+        <p class="magenta">If you get stuck on a tutorial or need help doing fixing something online, please email me ASAP at tylerhillwebdev@gmail.com and I will give you whatever time and knowledge that I can, free of charge.</p>
       <div>
         <p>As I write code for $$$ in the VC-funded horse-race that is the Tech Industry in 2020, I've been reflecting on one quiet but radical protestor who is out in the parking lot, handing out free copies of the good book: WordPress.</p>
       </div>
@@ -48,7 +49,11 @@
          <li>This can be published in the newspaper because it is business as usual.</li>
         </ul>
         <img id="bribe" src="/bribe.png" class="mb-8" />
-        <p>Zuckerberg set the precedent for this, and it’s now the philosophy of the Bay Area and the greater American Economy: put a lock on everything and start building your <strong>passive</strong> income.  This money is defined by having been obtained without doing any work. Young white men in San Francisco recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with no real skills are entiled to vast sums of money for having the “vision” or "courage" to horde and plagiarize the basic inventions of their scientific predecessors and sell out every pixel of our minds with hypnotic imagery to make us feel hungry and sad. 
+        <p>Zuckerberg set the precedent for this, and it’s now the philosophy of the Bay Area and the greater American Economy: put a lock on everything and start building your <strong>passive</strong> income.  This money is defined by having been obtained without doing any work. Young white men in San Francisco recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with no real skills are entiled to vast sums of money for having the “vision” or "courage" to:</p> 
+          <ul>
+          <li>horde and plagiarize the basic inventions of their scientific predecessors</li>
+          <li>sell out every pixel of our minds with hypnotic imagery to make us feel hungry and sad.</li>
+          </ul>
         <div class=" mb-6">
           <img src="/bernays.png" />
           <img src="/honestly.png" />
@@ -87,21 +92,25 @@
               <p>Also a <a href="https://codex.wordpress.org/es:Main_Page" target="_blank">multi-lingual</a>, <a href="https://www.youtube.com/results?search_query=wordpress+tutorial+hindi" target="_blank">worldwide</a> community with (currently virtual) <a href="https://www.meetup.com/topics/wordpress/" target="_blank">meetups.</a> It is <strong>so easy</strong> to get help when learning WordPress and this is literally why The Internet was invented: to enable us to learn together.</p>
       </div>
       <div>
-        <p>If you are a small business, non-profit, or activist group looking to begin or update your digital presence, WordPress is the best option because it’s been used and tested by millions for the last 17 years and costs $0/month. You may still have to pay a developer for the time/labor of getting your templates and plugins configured, but there are <strong> no SaaS-y annual contracts or monthly fees to run the WP core.</strong> Lots of free or cheap plugins serving all common business needs, and at most your paying a WP dev an hourly rate for a few hours of their time, instead of spending weeks in meetings trying to scope a budget with an agency. Thanks to the recent <a href="https://developer.wordpress.org/block-editor/">Gutenberg</a> updates, along with the <a href="https://developer.wordpress.org/rest-api/">REST API</a>, and the awesome work by the contributors on <a href="https://github.com/jaredpalmer/presspack" target="_blank">PressPack</a> we can now use modern build tools like Node Package Manager, Webpack, and PostCSS to make WP as powerful an option as any other platform on the web today.</p>
+        <p>If you are a small business, non-profit, or activist group looking to begin or update your digital presence, WordPress is the best option because it’s been used and tested by millions for the last 17 years and costs $0/month. You may still have to pay a developer for the time/labor of getting your templates and plugins configured, but there are <strong> no SaaS-y annual contracts or monthly fees to run the WP core.</strong> Lots of free or cheap plugins serving all common business needs, and at most you're paying a WP dev an hourly rate for a few hours of their time, instead of spending weeks in meetings trying to scope a budget with an agency. Thanks to the recent <a href="https://developer.wordpress.org/block-editor/">Gutenberg</a> updates, along with the <a href="https://developer.wordpress.org/rest-api/">REST API</a>, and the awesome work by the contributors on <a href="https://github.com/jaredpalmer/presspack" target="_blank">PressPack</a> we can now use modern build tools like Node Package Manager, Webpack, and PostCSS to make WP as powerful an option as any other platform on the web today.</p>
       </div>
       <div>
-        <p>This is really important and we need to start right now. 
-          We need to start doing our own work and hosting our own content.</p>
-        <p>We need to stop numbly accepting that we give advertising and consumer dollars to US companies that cooperate with foreign leaders who committing real evil on a daily basis, and that the leaders of these companies are allowed to continue hyping their hyper-growth while people are kidnapped and tortured.</p>
-        <p>Imagine logging onto Instagram only there were no ads and all the content was original art and poetry and editorial commentary from weird internet people who have day-jobs and so sacrifice here, making zero dollars on their art and working out of passion and love. Imagine staring at something like this all the time, instead of corporate media. Do you think you'd feel different?</p>
+        <p>This is really important and we need to start right now.</p>
+        <p class="now">GET OFF AWS, NOW.</p>
+        <p class="subnow"><span class="magenta">"But amazon is just so easy"</span> - so is handing your life over to a facist corporatocracy, one home-delivered grocery bag at a time.</p>
+          <img src="market_share.png" />
+          <img src="run_rate.png" />
+          <img src="oligarch.png" />
+          <img src="suspended.png" />
+          <img src="corporatocracy.png" />
+        <p class="subnow">We need to push through this apathy we've cultivated out of self-preservation. We need to stop numbly giving our advertising and consumer dollars to the <span class="subnow magenta">new faces of white supremacy:</span></p>
+        <img src="bezos.png" />
+        <img src="musk_phone.png" />
+        <img src="zuck.png" />
+        <p class="subnow mt-2 magenta">Imagine logging onto Instagram only there were no ads and all the content was small-time niche stuff from weird internet people who have day-jobs and so sacrifice here, making zero dollars on their art and working out of passion and love. Imagine staring at something like this all the time, instead of corporate media. Do you think you'd feel different?</p>
         <img class="mb-6" src="/nasdaq.png" />
-      </div>
-      <div>
-        <p>If you get stuck on a tutorial or need help doing fixing something online, please email me ASAP at tylerhillwebdev@gmail.com and I will give you whatever time and knowledge that I can, free of charge.</p>
-      </div>
-      <div>
-        <p>Thank you for your time.</p>
         <h1 class="blink">--:--:--</h1>
+      <h1 id="rumi" class="w-full text-center text-xl uppercase tracking-wide py-12"><a href="/rumi">Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a></h1>
       </div>
     </div>
   </div>
@@ -179,5 +188,14 @@ a {
 }
 iframe {
   max-width: 100%;
+}
+.now {
+  font-size: 60px;
+}
+.magenta {
+  color: magenta;
+}
+.subnow {
+  font-size: 30px;
 }
 </style>
