@@ -72,7 +72,7 @@
           </div>
         <img src="/mac.png" />
       </div>
-      <p>And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, just google Gary Webb, and ask yourself why a newspaper owned by Jeff Bezos would still be dragging his name in the dirt, even after he killed himself. I cried during Journalism class when they told his story and you better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
+      <p class="subnow magenta px-8">And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, just google Gary Webb, and ask yourself why a newspaper owned by Jeff Bezos would still be dragging his name in the dirt, even after he killed himself. I cried during Journalism class when they told his story and you better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
       <img src="gary_face.png" />
       <img src="gary_1.png" />
       <img src="gary_2.png" />
