@@ -119,7 +119,6 @@
           <img src="concentration_camps.png" />
           <img src="xi.png" />
           <img src="sandberg.png" />
-          <img src="big_deals.png" />
         </div>
         <img src="/mac.png" />
       </div>
