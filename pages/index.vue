@@ -57,6 +57,7 @@
         <div class=" mb-6">
           <img src="/bernays.png" />
           <img src="/honestly.png" />
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/t2j3KhytLNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <p>Methods and phraseology devised 100 years ago are still being uttered today, verbatim, in marketing meetings everywhere: Ultimate, Family, Sexy, Delicious, Dopamine, Oxytocin, Adrenaline, etc.</p>
         <p>The next time you see a bogus rich kid like Bezos or Zukerberg or Musk pretending to be a genius, remember that all their wealth comes from:
@@ -72,16 +73,16 @@
           </div>
         <img src="/mac.png" />
       </div>
-      <p class="subnow magenta px-8">And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, just google Gary Webb, and ask yourself why a newspaper owned by Jeff Bezos would still be dragging his name in the dirt, even after he killed himself. <strong>Jeff Leen</span> of <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:</p>
+      <p class="subnow magenta px-8">And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, just google Gary Webb, and ask yourself why a newspaper owned by Jeff Bezos would still be dragging Gary's name in the dirt, even after he killed himself. <strong>Jeff Leen</strong> of <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:</p>
       <img src="jeff_leen.png" />
-      <p class="subnow magenta px-8">I cried during Journalism class when they told his story and you better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
+      <p class="subnow magenta px-8">Discrediting the truth as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I cried during Journalism class at Laney when they told Gary's story, and so all the pseudo-coding money-freaks who've been choking the Bay Area to death for the last 10 years better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
       <img src="gary_face.png" />
       <img src="gary_1.png" />
       <img src="gary_2.png" />
       <div>
         <p class="now">GET OFF AWS, NOW.</p>
         <p class="now">STOP STARING AT INSTAGRAM. TURN IT OFF RIGHT NOW FOREVER.</p>
-        <p class="subnow">"But <span class="magenta">I'm bored</span> amazon is just <span class="magenta">so easy</span>"</span> - so is handing your life over to a facist corporatocracy, one home-delivered grocery bag at a time.</p>
+        <p class="subnow">"But I'm <span class="magenta">bored</span> and amazon is just <span class="magenta">so easy</span>"</span> - so is handing your life over to a facist corporatocracy, one home-delivered grocery bag at a time.</p>
           <img src="market_share.png" />
           <img src="run_rate.png" />
           <img src="oligarch.png" />
