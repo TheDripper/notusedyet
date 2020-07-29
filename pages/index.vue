@@ -52,7 +52,7 @@
         <p>Zuckerberg set the precedent for this, and it’s now the philosophy of the Bay Area and the greater American Economy: put a lock on everything and start building your <strong>passive</strong> income.  This money is defined by having been obtained without doing any work. Young white men in San Francisco recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with no real skills are entiled to vast sums of money for having the “vision” or "courage" to:</p> 
           <ul>
           <li>horde and plagiarize the basic inventions of their scientific predecessors</li>
-          <li>sell out every pixel of our minds with hypnotic imagery to make us feel hungry and sad.</li>
+          <li>sell out every pixel of our minds with hypnotic imagery to make us feel hungry, nervous, and sad.</li>
           </ul>
         <div class=" mb-6">
           <img src="/bernays.png" />
