@@ -149,17 +149,20 @@
           <span class="magenta">so easy</span>" - so is handing your life over to a facist corporatocracy, one home-delivered grocery bag at a time.
         </p>
         <img src="market_share.png" />
-        <img src="run_rate.png" />
-        <img src="oligarch.png" />
-        <img src="suspended.png" />
-        <img src="corporatocracy.png" />
+        <img src="/run_rate.png" />
+        <img src="/oligarch.png" />
+        <img src="/suspended.png" />
+        <img src="/corporatocracy.png" />
         <p class="subnow">
           We need to push through this apathy we've cultivated out of self-preservation. We need to stop numbly giving our advertising and consumer dollars to the
           <span class="subnow magenta">new faces of white supremacy:</span>
         </p>
-        <img src="bezos.png" />
-        <img src="musk_phone.png" />
-        <img src="zuck.png" />
+        <img src="/bezos.png" />
+        <img src="/musk_phone.png" />
+        <img src="/zuck.png" />
+        <img src="/morpheus_scream.png" />
+        <img src="/morpheus_window.png" />
+        <img src="/morpheus_jump.png" />
       </div>
       <h1 class="blink w-full">COOL STORY TYLER BUT NOW I'M SAD</h1>
       <div>
