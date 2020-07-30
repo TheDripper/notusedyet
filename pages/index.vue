@@ -228,7 +228,8 @@
         class="subnow mt-2 magenta"
       >Imagine logging onto Instagram only there were no ads and all the content was small-time niche stuff from weird internet people who have day-jobs and so sacrifice here, making zero dollars on their art and working out of passion and love. Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
       <img class="mb-6" src="/nasdaq.png" />
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/2fD-C2qg8Is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <img class="mb-6" src="/trinity.png" />
+      <iframe  src="https://www.youtube.com/embed/2fD-C2qg8Is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <h1 class="blink">--:--:--</h1>
       <h1 id="rumi" class="w-full text-center text-xl uppercase tracking-wide py-12">
         <span class="magenta">Rumi:</span>
@@ -259,5 +260,9 @@ export default {
     flex-shrink: 0;
     background: black;
   }
+}
+iframe {
+  width: 100%;
+  min-height: 400px;
 }
 </style>
