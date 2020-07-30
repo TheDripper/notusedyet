@@ -122,12 +122,18 @@
         </div>
         <img src="/mac.png" />
       </div>
-      <p class="subnow magenta px-8">
-        And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, just google Gary Webb, and ask yourself why a newspaper owned by Jeff Bezos would still be dragging Gary's name in the dirt, even after he killed himself.
-        <strong>Jeff Leen</strong> of
+      <p class="subnow px-8 py-32">
+        And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, I implore you: why did <span class="magenta">The Washington Post,</span> a <span class="magenta">Bezos-owned</span> mouthpiece for the rich, which is currently blowing smoke in defense of facists like Trump:</p>
+              <img src="/post_reddit_1.png" />
+      <img src="/post_reddit_2.png" />
+      <a class="subnow mb-32" target="_blank" href="https://www.washingtonpost.com/opinions/2020/04/24/joe-biden-accused-trump-trying-delay-election-he-should-know-better/">Here is where Henry Olsen proves he's a shill for facism, and an idiot.</a>
+        
+        <p class="subnow magenta">Why did this same farce of a newspaper take the time and resources to drag Gary Webb's name in the dirt, even after he killed himself?</p>
+        <p class="subnow"><strong>Jeff Leen</strong> of
         <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:
       </p>
       <img src="jeff_leen.png" />
+
       <p
         class="subnow magenta px-8"
       >Discrediting the truth as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I cried during Journalism class at Laney when they told Gary's story, and so all the pseudo-coding money-freaks who've been choking the Bay Area to death for the last 10 years better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
