@@ -262,7 +262,7 @@ export default {
   }
 }
 iframe {
-  width: 100%;
-  min-height: 400px;
+  width: 800px;
+  height: 600px;
 }
 </style>
