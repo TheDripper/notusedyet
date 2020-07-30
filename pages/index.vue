@@ -243,76 +243,7 @@ export default {
 </script>
 
 <style lang="scss">
-html,
-body {
-  background: cyan;
-  font-family: "vcr";
-}
-@font-face {
-  font-family: "vcr";
-  src: url("/vcr.ttf");
-}
-p {
-  @apply mb-6 text-lg;
-}
-ul {
-  list-style: circle;
-  padding-left: 20px;
-  @apply text-lg mb-6 py-4;
-  ul {
-    list-style: square;
-  }
-}
-.blink {
-  font-size: 60px;
-  color: blue;
-  @apply mx-auto py-8 w-full text-center;
-  animation: blink-animation 2s steps(5, start) infinite;
-  -webkit-animation: blink-animation 2s steps(5, start) infinite;
-}
-@keyframes blink-animation {
-  to {
-    visibility: hidden;
-  }
-}
-@-webkit-keyframes blink-animation {
-  to {
-    visibility: hidden;
-  }
-}
-li {
-  @apply mb-4 text-lg;
-}
 
-ol {
-  list-style: decimal;
-  color: blue;
-  @apply pl-12;
-}
-ul {
-  color: magenta;
-}
-a {
-  text-decoration: underline;
-  color: blue;
-  @apply p-2;
-  border: 2px solid #6ec36e;
-}
-.container {
-  max-width: 100%;
-}
-iframe {
-  max-width: 100%;
-}
-.now {
-  font-size: 60px;
-}
-.magenta {
-  color: magenta;
-}
-.subnow {
-  font-size: 30px;
-}
 .dayjob {
   a {
     color: lime;
