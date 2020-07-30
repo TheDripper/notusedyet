@@ -1,5 +1,5 @@
 <template>
-<div class="flex flex-col justify-center items-center all">
+<div id="rumi">
 <p>Don't unstring the bow.</p>
 <p>I am your four-feathered arrow</p>
 <p>that has not been used yet.</p>
