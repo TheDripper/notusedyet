@@ -171,7 +171,7 @@
         <p class="subnow">This dove-tails nicely into 9/11 as international justification to carry out <span class="magenta">The Crusades 2.0</span> complete with <a href="https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp" target="_blank">Muslim Torture Prisons</a>
         <img class="mt-4" src="/mkultra.png" />
         <img src="/guantanamo_bay_suicide.png" />
-        <p class="subnow">If we could see it, the <span class="magenta">Big Data</span> would show a high correrlation between <span class="magenta">the CIA</span> and <span class="magenta">suicide.</span>
+        <p class="now">If we could see it, the <span class="magenta">Big Data</span> would show a high correrlation between <span class="magenta">the CIA</span> and <span class="magenta">suicide.</span>
         <img src="/i_want_to_believe.png" />
         </p>
 
