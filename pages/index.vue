@@ -54,7 +54,7 @@
           class="mt-6"
         >So a network of terminals and interface hardware that can abstract information into a visual space that's easily understood by children? Miraculous! And in '03, software engineers giving away free code to help eliminate the barrier-to-entry for the WWW? Our future is so bright!</p>
         <h1 class="blink">--:--:--</h1>
-        <p>Act 2: Enter The Business Schools of America, and their hordes of young white men who want to make a lot of money really fast.</p>
+        <p>Act 2: Enter The Business Schools of America, and their hordes of <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">young white men</a> who want to make a lot of money really fast.</p>
         <p>These men are starving after the '08 crash cut short the Housing/Derivatives/CDO casino. They are twitching and stuck in a stagnant economy with nothing but slow, stable bonds. Suddenly they whiff the unmistakable lemon-fresh scent of fast money being made in large quantities. It seems to be coming from the Bay Area.</p>
         <p>Here's the plan:</p>
         <ol>
@@ -74,16 +74,16 @@
           <li>Copywrite this curation of public work as "software" that you have "designed"</li>
           <li>Use this as legal justification to collect a tariff on every human heartbeat while you scroll instagram for things to spend your obscene wealth on.</li>
         </ol>
-        <p>There is no genius here, just young white men cashing in on the basic movements of life itself.</p>
+        <p>There is no genius here, just <span class="magenta">young white men</span> cashing in on the basic movements of life itself.</p>
         <p>
-          Behold: a band of wild investors, drunk with bloodthirst for their next unicorn, slaps a SaaS padlock on progress and begins an amphetaminic hype ritual with bright colors and cute cartoon characters and a whole quasi-magical language of metaphor and imagery to obfuscate the fact that they’re just reselling a spreadsheet, or some scripts to pipe data from Vendor A to Vendor B. These technologies were invented in the 80s, but only recently has Wall Street figured out that you can box these things up with bright branding, deploy them to the Bezos-net, and charge VC-funded companies $1000/month "for the service".
+          Behold: a band of wild investors, drunk with bloodthirst for their next <span class="magenta">unicorn</span>, slaps a <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank">SaaS</a> padlock on progress and begins an amphetaminic <span class="magenta">hype ritual</span> with <span class="magenta">bright colors</span> and cute <span class="magenta">cartoon</span> characters and a whole quasi-magical language of metaphor and imagery to obfuscate the fact that they’re just reselling a <span class="magenta">spreadsheet</span>, or some <span class="magenta">scripts</span> to pipe data from Vendor A to Vendor B. These technologies were <span class="magenta">invented in the 70s</span>, but only recently has Wall Street figured out that you can box these things up with bright branding, deploy them to the <a href="https://aws.amazon.com/" target="_blank">Bezos-net</a>, and charge <span class="magenta">VC-funded</span> companies $1000/month "<span class="magenta">for the service</span>".
           <img
             src="saas.png"
           />
         </p>
         <p>After a few funding rounds from <a href="https://en.wikipedia.org/wiki/Sequoia_Capital" target="_blank">Sequoia Capital</a></p>
         <img src="/sequoia.png" />
-        <p>500-1000 people are hard at work on a <a href="https://www.crunchbase.com/organization/jive-software" target="_blank">"product"</a> that "combines the power of community software, collaboration software, social networking software, and <span class="magenta">social media monitoring</span> offerings into an integrated platform.", <span class="magenta">i.e.</span> everything Engelbart had in '68 (minus <span class="magenta">Big Brother</span>) and was trying to give away for free.</p>
+        <p class="mt-8"><span class="magenta">500-1000 people</span> are hard at work on a <a href="https://www.crunchbase.com/organization/jive-software" target="_blank">"product"</a> that "combines the power of community software, collaboration software, social networking software, and <span class="magenta">social media monitoring</span> offerings into an integrated platform.", <span class="magenta">i.e.</span> everything Engelbart had in '68 (minus <span class="magenta">Big Brother</span>) and was trying to give away for free.</p>
         <img src="/big_brother_1.png" />
         <img src="/big_brother_2.png" />
         <p>These "products" are so vague/redundant and these "companies" (often just 2-3 people w/ personal ties to <span class="magenta">VC, Homeland Security</span> or <span class="magenta">Foreign Diplomacy</span>) are so numerous, I believe they provide lovely cover for <span class="magenta">tax evasion, money laundering (human trafficking)</span>, and probably also for foreign leaders to shuttle money into the US and spread the <span class="magenta">Global Facist Surveillance State.</span></p>
@@ -95,6 +95,7 @@
         <img src="/pakistan_weddings_drone.png" />
         <img src="/pakistan_drone_strikes.png" />
         <p class="subnow py-16">"But they stopped in 2013 you dumb hippie"-<span class="magenta"> Trump removed the legal requirement to report these attacks,</span> told the DOD: <span class="magenta">"OPEN FIRE, BOYS"</span>, and now the Pentagon blandly denies everything until a <span class="magenta">non-profit digs up some corpses and posts iPhone pics</span> as <a href="https://reliefweb.int/sites/reliefweb.int/files/resources/humanitarian-impact-of-drones.pdf" target="_blank">proof.</a></p>
+        <img src="/womens_league_drone_strikes.png" />
         <p class="subnow py-16 magenta">Silicon Valley and Trump both want to sell the USA to Putin/Jingping/Netanyahu/<a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=Jamal+Khashoggi&stick=H4sIAAAAAAAAAONgFuLSz9U3KDfIzqsqUOIEsdOSLcvStfgCUouK8_OCM1NSyxMrixex8nsl5ibmKHhnJBZn5KenZ-5gZQQASVVOhD4AAAA&sa=X&ved=2ahUKEwii1Yqt_ffqAhWqFTQIHSZQAyYQxA0wN3oECAYQBw&biw=1920&bih=978" target="_blank">MBS</a>/Bolsonaro because they all want the same thing: <a href="https://about.crunchbase.com/blog/russian-and-ukrainian-startups-seduce-silicon-valley-investors-telegram-gives-up-blockchain-project-amid-lawsuits/" target="_blank">more customers.</a></p>
         <img src="/us_russia_tech_deals.png" />
         <ul>
@@ -103,6 +104,7 @@
         <img src="/musk_tax_breaks.png" />
         <img src="/musk_tax_deals.png" />
         <img src="/musk_tax_incentives.png" />
+        <img src="/musk_more_breaks.png" />
         <img src="/elon_pulls_out_california.png" />
         <p class="mt-16 subnow">This dowry bargaining between <span class="magenta">Silicon Valley</span> and <span class="magenta">State Governors</span> (i.e. press statements about <span class="magenta">"incentive"</span> and <span class="magenta">"pulling jobs out"</span>) is carried out on the front page, proving that:</p>
         <ul class="mt-8">
@@ -113,7 +115,7 @@
         <img id="bribe" src="/bribe.png" class="mb-8" />
         <p>
           Zuckerberg set the precedent for this, and it’s now the philosophy of the Bay Area and the greater American Economy: put a lock on everything and start building your
-          <strong>passive</strong> income. This money is defined by having been obtained without doing any work. Young white men in San Francisco recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with no real skills are entiled to vast sums of money for having the “entrepreneurial spirit" to:
+          <span class="magenta subnow"><strong>passive</strong></span> income. This money is defined by having been obtained without doing any work. <span class="magenta">Young white men in San Francisco</span> recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with <span class="magenta">no real skills</span> are entiled to vast sums of money for having the “entrepreneurial spirit" to:
         </p>
         <ul>
           <li>horde and plagiarize the basic inventions of their scientific predecessors</li>
@@ -131,8 +133,8 @@
             allowfullscreen
           ></iframe>
         </div>
-        <p>Methods and phraseology devised 100 years ago are still being uttered today, verbatim, in marketing meetings everywhere: Ultimate, Family, Sexy, Delicious, Dopamine, Oxytocin, Adrenaline, etc.</p>
-        <p>The next time you see a bogus rich kid like Bezos or Zukerberg or Musk pretending to be a genius, remember that all their wealth comes from:</p>
+        <p>Methods and phraseology devised 100 years ago are still being uttered today, verbatim, in marketing meetings everywhere: Ultimate, Family, Sexy, Delicious, <span class="magenta">Dopamine, Oxytocin, Adrenaline, etc.</span></p>
+        <p>The next time you see a <span class="magenta">bogus rich kid</span> like <span class="magenta">Bezos</span> or <span class="magenta">Zukerberg</span> or <span class="magenta">Musk</span> pretending to be a genius, remember that all their wealth comes from:</p>
         <ul>
           <li>selling fast ads and mass plastic</li>
           <li>instilling depression/anxiety in USA teenagers</li>
@@ -173,7 +175,7 @@
       <img src="gary_2.png" />
       <p
         class="subnow magenta px-8"
-      >Discrediting the truth as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I cried during Journalism class at Laney when they told Gary's story, and so all the pseudo-coding <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">money-freaks</a> who've been choking the Bay Area to death for the last 10 years better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
+      >Discrediting the truth as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I cried during Journalism class at Laney when they told Gary's story, and so all the pseudo-coding money-freaks who've been choking the Bay Area to death for the last 10 years better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
       <img src="gary_face.png" />
       <div>
         <p class="now">GET OFF AWS, NOW.</p>
