@@ -129,7 +129,7 @@
       <p class="subnow py-16">Trump is a <span class="magenta">proven sexual predator</span> and you'd think The Washington Post <a href="https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape" target="_blank">would know this already</a> but I guess things have changed re: payroll in the last 4 years. </p>
       <a class="subnow mb-32" target="_blank" href="https://www.washingtonpost.com/opinions/2020/04/24/joe-biden-accused-trump-trying-delay-election-he-should-know-better/">Here is where Henry Olsen proves he's either a shill for facism, or just an idiot.</a>
         
-        <p class="subnow magenta">Why did this same farce of a newspaper take the time and resources to drag Gary Webb's name in the dirt, even after he killed himself?</p>
+        <p class="subnow magenta">Why did this same farce of a newspaper take the time and resources to drag <a href="https://en.wikipedia.org/wiki/Gary_Webb" target="_blank">Gary Webb's</a> name through the dirt, even after he killed himself?</p>
         <p class="subnow"><strong>Jeff Leen</strong> of
         <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:
       </p>
