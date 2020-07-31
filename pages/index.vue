@@ -163,9 +163,12 @@
         </div>
         <img src="/mac.png" />
       </div>
-      <p class="subnow px-8 py-32">
-        The <span class="magenta">shiny-tie-wearing pundits</span> that are <span class="magenta">paid to say words for a given number of seconds between commercials</span> will insist this all goes way <span class="magenta">too far</span>, and is <span class="magenta">inappropriate</span> because <span class="magenta">that is their role in <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle" target="_blank">THE SPECTACLE</a></span> but please remember this is the same <span class="magenta">US GOVT</span> that never admitted to <a href="https://en.wikipedia.org/wiki/Project_MKUltra" target="_blank">MKUltra</a>
-        and used 9/11 as international justification to carry out <span class="magenta">The Crusades 2.0</span> complete with <a href="https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp" target="_blank">Muslim Torture Prisons</a>
+      <p class="subnow px-8 pt-32">
+        The <span class="magenta">shiny-tie-wearing pundits</span> that are <span class="magenta">paid to say words for a given number of seconds between commercials</span> will insist this all goes way <span class="magenta">too far</span>, and is <span class="magenta">inappropriate</span> because <span class="magenta">that is their role in <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle" target="_blank">THE SPECTACLE</a></span>
+        <img src="/the_spectacle_bezos_zuckerberg_america.png" />
+        but please remember this is the same <span class="magenta">US GOVT</span> that never admitted to <a href="https://en.wikipedia.org/wiki/Project_MKUltra" target="_blank">MKUltra</a> not to be confused with the <a href="https://en.wikipedia.org/wiki/Edgewood_Arsenal_human_experiments" target="_blank">Edgewood Arsenal human experiments</a> or <a href="https://en.wikipedia.org/wiki/Project_112" target="_blank">Project 112</a>.</p> 
+        <p class="subnow">This is where all the <span class="magenta">opiate-popping chem-trail freaks</span> got their start: my personal theory is the US Govt actively promoted a totally insane story to cover up a much more reasonable and terrifying one.</p>
+        <p class="subnow">This dove-tails nicely into 9/11 as international justification to carry out <span class="magenta">The Crusades 2.0</span> complete with <a href="https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp" target="_blank">Muslim Torture Prisons</a>
         <img class="mt-4" src="/mkultra.png" />
         <img src="/guantanamo_bay_suicide.png" />
         <p class="subnow">If we could see it, the <span class="magenta">Big Data</span> would show a high correrlation between <span class="magenta">the CIA</span> and <span class="magenta">suicide.</span>
