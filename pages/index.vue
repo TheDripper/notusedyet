@@ -143,12 +143,28 @@
         <div class="items-start">
           <img src="concentration_camps.png" />
           <img src="xi.png" />
+          <p class="now magenta">Jingping and Putin are reading <a href="https://en.wikipedia.org/wiki/Adolf_Hitler#World_War_II" target="_blank">line and verse</a> from Hitler's <a href="https://www.theatlantic.com/photo/2011/06/world-war-ii-before-the-war/100089/" target="_blank">Pre-war Playbook</a></p>
+          <img src="/china_galapagos.png" />
+          <img src="/china_hundreds_vessels_galapagos.png" />
+          <img src="/prewar_hitler_jingping.png" />
+          <img src="/russia_ukraine_hitler.png" />
+          <img src="/ukraine_hitler_bezos.png" />
+          <img src="/russia_syria_facebook.png" />
+          <p class="now magenta">But Zuckerberg and Bezos remain <a href="https://www.fool.com/investing/2020/01/23/facebook-banned-in-china-how-it-makes-money-there.aspx" target="_blank">OPEN FOR BUSINESS</a></p>
           <img src="sandberg.png" />
+          <img src="/amazon_china_invest.png" />
+          <img src="/facebook_china_money.png" />
+          <img src="/urumqi_riots.png" />
+          <p class="magenta now py-16">So is <a href="https://www.google.com/search?q=crunchbase+russia&rlz=1C5CHFA_enUS847US847&oq=crunchbase+russia&aqs=chrome..69i57j0j69i64j69i60l2.1755j0j7&sourceid=chrome&ie=UTF-8" target="_blank">The Rest of Silicon Valley</a></p>
+          <img src="/crunchbase_russia.png" />
+          <img src="/crunchbase_russia_search.png" />
+          <img src="/kaspersky_fsb.png" />
+          <p class="magenta now py-32">These men present the facade of conflict because to know they are cooperating would be too plainly dystopian to hide. They bicker for a few seconds to get it online but they are all working together for the same goal: to wield the <strong><a href="https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex">TECHNOLOGY SURVEILLANCE COMPLEX</a></strong> as an iron fist so they can rest in a luxury penthouse and take moderate doses of designer drugs while they watch the world burn under their Gucci loafers.</p>
         </div>
         <img src="/mac.png" />
       </div>
       <p class="subnow px-8 py-32">
-        The <span class="magenta">shiny-tie-wearing pundits</span> will insist this all goes way too far, because <span class="magenta">that is their role in <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle" target="_blank">THE SPECTACLE</a></span> but please remember this is the same <span class="magenta">US GOVT</span> that never admitted to <a href="https://en.wikipedia.org/wiki/Project_MKUltra" target="_blank">MKUltra</a>
+        The <span class="magenta">shiny-tie-wearing pundits</span> that are <span class="magenta">paid to say words for given number of seconds between commercials</span> will insist this all goes way too far, because <span class="magenta">that is their role in <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle" target="_blank">THE SPECTACLE</a></span> but please remember this is the same <span class="magenta">US GOVT</span> that never admitted to <a href="https://en.wikipedia.org/wiki/Project_MKUltra" target="_blank">MKUltra</a>
         and used 9/11 as international justification to carry out <span class="magenta">The Crusades 2.0</span> complete with <a href="https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp" target="_blank">Muslim Torture Prisons</a>
         <img src="/mkultra.png" />
         <img src="/guantanamo_bay_suicide.png" />
@@ -188,6 +204,8 @@
         <img src="market_share.png" />
         <img src="/run_rate.png" />
         <img src="/oligarch.png" />
+        <img src="/robinhood_bezos.png"/>
+        <img src="/bezos_oligarch_robinhood.png"/>
         <img src="/suspended.png" />
         <img src="/corporatocracy.png" />
         <p class="now">
