@@ -81,7 +81,30 @@
             src="saas.png"
           />
         </p>
-        <p>A few funding rounds later, 500-1000 people are hard at work on a product that has no reason to exist, except to extract illusory wealth out of other VC funded horses. Nobody's really paying taxes on any of this, because jobs ok? Don't make the angry rich boys cripple your state. This dowry bargaining between Silicon Valley and Capitol Hill (i.e. press statements about "incentive" and "pulling jobs out") is now carried out on the front page of NYT, proving that:</p>
+        <p>After a few funding rounds from <a href="https://en.wikipedia.org/wiki/Sequoia_Capital" target="_blank">Sequoia Capital</a></p>
+        <img src="/sequoia.png" />
+        <p>500-1000 people are hard at work on a <a href="https://www.crunchbase.com/organization/jive-software" target="_blank">"product"</a> that " combines the power of community software, collaboration software, social networking software, and <span class="magenta">social media monitoring</span> offerings into an integrated platform.", <span class="magenta">i.e.</span> everything Engelbart had in '68 (minus <span class="magenta">Big Brother</span>) and was trying to give away for free.</p>
+        <img src="/big_brother_1.png" />
+        <img src="/big_brother_2.png" />
+        <p>These "products" are so vague/redundant and these "companies" (often just 2-3 people w/ personal ties to <span class="magenta">VC, Homeland Security</span> or <span class="magenta">Foreign Diplomacy</span>) are so numerous, I believe they provide lovely cover for <span class="magenta">tax evasion, money laundering (human trafficking)</span>, and probably also for foreign leaders to shuttle money into the US and spread the <span class="magenta">Global Facist Surveillance State.</span></p>
+        <img src="/intern.png" />
+        <img src="/inqtel.png" />
+        <img src="/drones.png" />
+        <img src="/precursor_crunchbase.png" />
+        <p class="subnow py-16 magenta">Nice try, but a person is no longer a champion for diversity when he sells <a href="https://en.wikipedia.org/wiki/AGM-114_Hellfire" target="_blanks">hellfires, (hmm that Pseudo-Christian Righteous War-Branding tastes so good)</a> to drop on Afghan/Pakistani weddings:</p>
+        <img src="/pakistan_weddings_drone.png" />
+        <img src="/pakistan_drone_strikes.png" />
+        <p class="subnow py-16">"But they stopped in 2013 you dumb hippie"-<span class="magenta"> Trump removed the legal requirement to report</span> these attacks, and told the DOD: <span class="magenta">"OPEN FIRE, BOYS"</span>, and now the Pentagon blandly denies everything until a <span class="magenta">non-profit digs up some corpses and posts iPhone pics</span> as <a href="https://reliefweb.int/sites/reliefweb.int/files/resources/humanitarian-impact-of-drones.pdf" target="_blank">proof.</a></p>
+        <p class="subnow py-16 magenta">Silicon Valley and Trump both want to sell the USA to Putin/Jingping/Netanyahu/<a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=Jamal+Khashoggi&stick=H4sIAAAAAAAAAONgFuLSz9U3KDfIzqsqUOIEsdOSLcvStfgCUouK8_OCM1NSyxMrixex8nsl5ibmKHhnJBZn5KenZ-5gZQQASVVOhD4AAAA&sa=X&ved=2ahUKEwii1Yqt_ffqAhWqFTQIHSZQAyYQxA0wN3oECAYQBw&biw=1920&bih=978" target="_blank">MBS</a>/Bolsonaro because they all want the same thing: <a href="https://about.crunchbase.com/blog/russian-and-ukrainian-startups-seduce-silicon-valley-investors-telegram-gives-up-blockchain-project-amid-lawsuits/" target="_blank">more customers.</a></p>
+        <img src="/us_russia_tech_deals.png" />
+        <ul>
+        </ul>
+        <p>Nobody's really <a href="https://www.goodjobsfirst.org/blog/los-angeles-times-stirs-debate-elon-musk%E2%80%99s-use-subsidies-tesla-spacex-and-solarcity" target="_blank">paying taxes</a> on any of this, because jobs ok? Don't make the <span class="subnow magenta">angry rich boys</span> cripple your state.</p>
+        <img src="/musk_tax_breaks.png" />
+        <img src="/musk_tax_deals.png" />
+        <img src="/musk_tax_incentives.png" />
+        <img src="/elon_pulls_out_california.png" />
+        <p class="mt-16 subnow">This dowry bargaining between <span class="magenta">Silicon Valley</span> and <span class="magenta">State Governors</span> (i.e. press statements about <span class="magenta">"incentive"</span> and <span class="magenta">"pulling jobs out"</span>) is carried out on the front page, proving that:</p>
         <ul class="mt-8">
           <li>It's not bribery if you say a lot of words first.</li>
           <li>Once their ego has been threatened, Billionare Owners think nothing of sending thousands of Americans home unemployed.</li>
@@ -123,24 +146,35 @@
         <img src="/mac.png" />
       </div>
       <p class="subnow px-8 py-32">
-        And for all you tie-wearing pundits out there brushing me off as another paranoid stoner, I implore you: why did <span class="magenta">The Washington Post,</span> a <span class="magenta">Bezos-owned</span> mouthpiece for the rich, which is currently blowing smoke in defense of facists like Trump:</p>
+        The <span class="magenta">shiny-tie-wearing pundits</span> will insist this all goes way too far, because <span class="magenta">that is their role in <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle" target="_blank">THE SPECTACLE</a></span> but please remember this is the same <span class="magenta">US GOVT</span> that never admitted to <a href="https://en.wikipedia.org/wiki/Project_MKUltra" target="_blank">MKUltra</a>
+        and used 9/11 as international justification to carry out <span class="magenta">The Crusades 2.0</span> complete with <a href="https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp" target="_blank">Muslim Torture Prisons</a>
+        <img src="/mkultra.png" />
+        <img src="/guantanamo_bay_suicide.png" />
+        <p class="subnow">If we could see it, the <span class="magenta">Big Data</span> would show a high correrlation between <span class="magenta">the CIA</span> and <span class="magenta">suicide.</span>
+        <img src="/i_want_to_believe.png" />
+        </p>
+
+        
+        
+        <p>So now that we're here let's consider: <span class="magenta">The Washington Post,</span> a <span class="magenta">Bezos-owned</span> mouthpiece for the rich, which is currently blowing smoke in defense of facists like Trump:</p>
               <img src="/post_reddit_1.png" />
       <img src="/post_reddit_2.png" />
       <p class="subnow py-16">Trump is a <span class="magenta">proven sexual predator</span> and you'd think The Washington Post <a href="https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape" target="_blank">would know this already</a> but I guess things have changed re: payroll in the last 4 years. </p>
-      <a class="subnow mb-32" target="_blank" href="https://www.washingtonpost.com/opinions/2020/04/24/joe-biden-accused-trump-trying-delay-election-he-should-know-better/">Here is where Henry Olsen proves he's either a shill for facism, or just an idiot.</a>
-        
+      <a class="subnow mb-32 text-center" target="_blank" href="https://www.washingtonpost.com/opinions/2020/04/24/joe-biden-accused-trump-trying-delay-election-he-should-know-better/">Here is where Henry Olsen proves he's willing to sell his moral dignity<br /> to remain in the graces of The Man.</a>
+      <p>Is <span class="magenta">Democracy Dies in Darkness</span> a personal <a href="https://en.wikipedia.org/wiki/Mantra" target="_blank">Mantra</a> for <span class="magenta">Jeff Bezos?</span> Does he chant it to himself quietly to psyche himself up whenever <span class="magenta">Pooh Bear</span> calls?</p>
+        <img src="/jingping_pooh_bear.png" />
         <p class="subnow magenta">Why did this same farce of a newspaper take the time and resources to drag <a href="https://en.wikipedia.org/wiki/Gary_Webb" target="_blank">Gary Webb's</a> name through the dirt, even after he killed himself?</p>
         <p class="subnow"><strong>Jeff Leen</strong> of
         <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:
       </p>
       <img src="jeff_leen.png" />
       <p class="subnow py-8">Yes, this is an Opinion piece, but the public doesn't make that distinction when they're browsing results on Google, which is exactly the point.</p>
-      <p
-        class="subnow magenta px-8"
-      >Discrediting the truth as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I cried during Journalism class at Laney when they told Gary's story, and so all the pseudo-coding money-freaks who've been choking the Bay Area to death for the last 10 years better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
-      <img src="gary_face.png" />
       <img src="gary_1.png" />
       <img src="gary_2.png" />
+      <p
+        class="subnow magenta px-8"
+      >Discrediting the truth as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I cried during Journalism class at Laney when they told Gary's story, and so all the pseudo-coding <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">money-freaks</a> who've been choking the Bay Area to death for the last 10 years better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
+      <img src="gary_face.png" />
       <div>
         <p class="now">GET OFF AWS, NOW.</p>
         <p class="now">STOP STARING AT INSTAGRAM. TURN IT OFF RIGHT NOW FOREVER.</p>
@@ -154,9 +188,9 @@
         <img src="/oligarch.png" />
         <img src="/suspended.png" />
         <img src="/corporatocracy.png" />
-        <p class="subnow">
-          We need to push through this apathy we've cultivated out of self-preservation. We need to stop numbly giving our advertising and consumer dollars to the
-          <span class="subnow magenta">new faces of white supremacy:</span>
+        <p class="now">
+          We need to push through this <span class="magenta">apathy we've cultivated out of self-preservation</span>. We need to stop numbly giving our advertising and consumer dollars to the
+          <span class="magenta">new faces of white supremacy:</span>
         </p>
         <img src="/bezos.png" />
         <img src="/musk_phone.png" />
@@ -167,8 +201,8 @@
       </div>
       <h1 class="blink w-full">COOL STORY TYLER BUT NOW I'M SAD</h1>
       <div>
-        <p>I was too! The past couple weeks I’ve been yelling to myself alone in the COVID Cave until I wanted to puke.</p>
-        <p>Instead, I'm going back to open source and opening an entry point for anyone trying hard and asking questions in this Brave Virtual World.</p>
+        <p>I was too! The past couple weeks I’ve been yelling to myself alone in the COVID Cave until I wanted to <span class="magenta">puke.</span></p>
+        <p>Instead, I'm going back to <span class="magenta now">open source</span> and opening an entry point for anyone trying hard and asking questions in this <a href="https://en.wikipedia.org/wiki/Brave_New_World" target="_blank">Brave Virtual World.</a></p>
         <p>If you're trying to learn new skills to find a job, WordPress can help:</p>
       </div>
       <div>
@@ -226,8 +260,8 @@
         </p>
       </div>
       <p
-        class="subnow mt-2 magenta"
-      >Imagine logging onto Instagram only there were no ads and all the content was small-time niche stuff from weird internet people who have day-jobs and so sacrifice here, making zero dollars on their art and working out of passion and love. Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
+        class="now mt-2 magenta"
+      >Imagine pulling out your phone only instead of addictive moving billboards you saw small-time niche content from people you know or from weird internet people who have day-jobs and so sacrifice online, making zero dollars on their art and working out of passion and love and insanity. Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
       <img class="mb-6" src="/nasdaq.png" />
       <img class="mb-6" src="/trinity.png" />
       <iframe  src="https://www.youtube.com/embed/2fD-C2qg8Is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
