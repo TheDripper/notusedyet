@@ -83,7 +83,7 @@
         </p>
         <p>After a few funding rounds from <a href="https://en.wikipedia.org/wiki/Sequoia_Capital" target="_blank">Sequoia Capital</a></p>
         <img src="/sequoia.png" />
-        <p>500-1000 people are hard at work on a <a href="https://www.crunchbase.com/organization/jive-software" target="_blank">"product"</a> that " combines the power of community software, collaboration software, social networking software, and <span class="magenta">social media monitoring</span> offerings into an integrated platform.", <span class="magenta">i.e.</span> everything Engelbart had in '68 (minus <span class="magenta">Big Brother</span>) and was trying to give away for free.</p>
+        <p>500-1000 people are hard at work on a <a href="https://www.crunchbase.com/organization/jive-software" target="_blank">"product"</a> that "combines the power of community software, collaboration software, social networking software, and <span class="magenta">social media monitoring</span> offerings into an integrated platform.", <span class="magenta">i.e.</span> everything Engelbart had in '68 (minus <span class="magenta">Big Brother</span>) and was trying to give away for free.</p>
         <img src="/big_brother_1.png" />
         <img src="/big_brother_2.png" />
         <p>These "products" are so vague/redundant and these "companies" (often just 2-3 people w/ personal ties to <span class="magenta">VC, Homeland Security</span> or <span class="magenta">Foreign Diplomacy</span>) are so numerous, I believe they provide lovely cover for <span class="magenta">tax evasion, money laundering (human trafficking)</span>, and probably also for foreign leaders to shuttle money into the US and spread the <span class="magenta">Global Facist Surveillance State.</span></p>
