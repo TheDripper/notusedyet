@@ -134,7 +134,7 @@
         <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:
       </p>
       <img src="jeff_leen.png" />
-
+      <p class="subnow py-8">Yes, this is an Opinion piece, but the public doesn't make that distinction when they're browsing results on Google, which is exactly the point.</p>
       <p
         class="subnow magenta px-8"
       >Discrediting the truth as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I cried during Journalism class at Laney when they told Gary's story, and so all the pseudo-coding money-freaks who've been choking the Bay Area to death for the last 10 years better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
