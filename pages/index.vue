@@ -4,14 +4,21 @@
       <p :key="index">{{ word }}</p>
     </div>-->
     <div class="container flex flex-col items-center mx-auto p-6">
-      <h1 id="rumi" class="text-xl uppercase tracking-wide py-12">
+      <h1 id="rumi" class="text-xl uppercase tracking-wide py-12 now">
         <a
           href="/rumi"
         >Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a>
       </h1>
       <p
-        class="magenta"
-      >If you've got a front-end bug you can't solve or just want to know how to start learning code, please email me ASAP at tylerhillwebdev@gmail.com and I will give you whatever time and knowledge that I can, free of charge.</p>
+        class="now"
+      >If you've got a front-end bug you <span class="magenta">just can't figure out</span> or want to know <span class="magenta">how to start</span> learning code, please email me <span class="magenta">ASAP</span> at tylerhillwebdev@gmail.com and I will give you whatever time and knowledge that I can, <span class="magenta">free of charge.</span></p>
+      <p class="subnow">The <span class="magenta">full editing history of this document</span> is publicly available on <a href="https://github.com/TheDripper/notusedyet" target="_blank">this Git</a> and will continue to be <span class="magenta">logged there in real-time, as published, through <a href="https://en.wikipedia.org/wiki/Version_control">version control.</a></span> Any reproductions of this essay found on another <a href="https://en.wikipedia.org/wiki/Domain_name" target="_blank">domain</a> with edits not reflected in the git history at <a href="https://github.com/TheDripper/notusedyet" target="_blank">https://github.com/TheDripper/notusedyet</a> are <span class="now magenta blink">fake</span> and the publisher/host should be aggressively questioned as to their <span class="magenta">source</span> of the data and their <span class="magenta">relation to me.</span></span></p>
+      <p class="subnow">That said, <span class="now magenta">please contribute info</span>, screenshots, files, /etc<span class="magenta">#!</span> If you have publicly sourced information that <span class="magenta">all users can validate themselves on their machine</span>, <a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request" target="_blank">open a pull request</a> and <span class="magenta">we can all check it out</span> before it's <a href="https://stackoverflow.com/questions/5601931/what-is-the-best-and-safest-way-to-merge-a-git-branch-into-master" target="_blank">merged into master.</a></p>
+      <p class="subnow">If you are inspired to <a href="https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository" class="now">clone this git</a></span> onto your own server to prevent <span class="magenta">corporate thought-control (via denial of <a href="https://en.wikipedia.org/wiki/Internet_service_provider">ISP</a> or <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS/Hosting services</a>): </span>Thank You! However,</p>
+       <p class="now">You are compelled by the <span class="magenta">human honor of your name and word</span> to begin the article/page with this preamble and <span class="magenta">link back to the git.</span></p>
+      <p class="subnow">If you fail to do so, the <span class="magenta">value of your word</span> is <span class="magenta">lost forever</span> in this realm.</p>
+
+
       <div class="flex flex-col items-center justify-center max-w-xl dayjob mb-6">
         <img src="/dayjob.jpg" />
         <a
