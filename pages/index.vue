@@ -177,16 +177,16 @@
 
         
         
-        <p>So now that we're here let's consider: <span class="magenta">The Washington Post,</span> a <span class="magenta">Bezos-owned</span> mouthpiece for the rich, which is currently blowing smoke in defense of facists like Trump:</p>
+        <p>So now that we're in <span class="magenta">real</span> deep let's consider: <span class="magenta">The Washington Post,</span> a <span class="magenta">Bezos-owned</span> mouthpiece for the rich, which is currently blowing smoke in defense of facists like Trump:</p>
               <img src="/post_reddit_1.png" />
       <img src="/post_reddit_2.png" />
       <p class="subnow py-16">Trump is a <span class="magenta">proven sexual predator</span> and you'd think The Washington Post <a href="https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape" target="_blank">would know this already</a> but I guess things have changed re: payroll in the last 4 years. </p>
       <a class="subnow mb-32 text-center" target="_blank" href="https://www.washingtonpost.com/opinions/2020/04/24/joe-biden-accused-trump-trying-delay-election-he-should-know-better/">Here is where Henry Olsen proves he's willing to sell his moral dignity<br /> to remain in the graces of The Man.</a>
-      <p>Is <span class="magenta">Democracy Dies in Darkness</span> a personal <a href="https://en.wikipedia.org/wiki/Mantra" target="_blank">Mantra</a> for <span class="magenta">Jeff Bezos?</span> Does he chant it to himself quietly to psyche himself up whenever <span class="magenta">Pooh Bear</span> calls?</p>
+      <p class="now">Is <span class="magenta">Democracy Dies in Darkness</span> a personal <a href="https://en.wikipedia.org/wiki/Mantra" target="_blank">Mantra</a> for <span class="magenta">Jeff Bezos?</span> Does he <span class="magenta">chant it quietly 3 times</span> to psyche himself up whenever <span class="magenta">Pooh Bear</span> calls?</p>
         <img src="/jingping_pooh_bear.png" />
         <p class="subnow magenta">Why did this same farce of a newspaper take the time and resources to drag <a href="https://en.wikipedia.org/wiki/Gary_Webb" target="_blank">Gary Webb's</a> name through the dirt, even after he killed himself?</p>
         <p class="subnow"><strong>Jeff Leen</strong> of
-        <span class="magenta">The Washington Post</span> can only appeal to a defense I usually hear from men on trial for rape:
+        <span class="magenta">The Bezington Poo</span> can only appeal to a defense I usually hear from men on trial for rape:
       </p>
       <img src="jeff_leen.png" />
       <p class="subnow py-8">Yes, this is an Opinion piece, but the public doesn't make that distinction when they're browsing results on Google, which is exactly the point.</p>
