@@ -186,23 +186,23 @@
         <img src="/jingping_pooh_bear.png" />
         <p class="subnow magenta">Why did this same farce of a newspaper take the time and resources to drag <a href="https://en.wikipedia.org/wiki/Gary_Webb" target="_blank">Gary Webb's</a> name through the dirt, even after he killed himself?</p>
         <p class="subnow"><strong>Jeff Leen</strong> of
-        <span class="magenta">The Bezington Poo</span> can only appeal to a defense I usually hear from men on trial for rape:
+        <span class="magenta">The Bezington Poo</span> can only appeal to a defense I usually hear from <span class="magenta">men on trial for rape</span>:
       </p>
       <img src="jeff_leen.png" />
-      <p class="subnow py-8">Yes, this is an Opinion piece, but the public doesn't make that distinction when they're browsing results on Google, which is exactly the point.</p>
+      <p class="subnow py-8">Yes, this is an Opinion piece, but <span class="magenta">the public doesn't make that distinction</span> when they're browsing <span class="magenta">results on Google</span>, which is exactly the point.</p>
       <img src="gary_1.png" />
       <img src="gary_2.png" />
       <p
-        class="subnow magenta px-8"
-      >Discrediting the truth as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I cried during Journalism class at Laney when they told Gary's story, and so all the pseudo-coding money-freaks who've been choking the Bay Area to death for the last 10 years better hope I'm written off as crazy because I am not going to stop talking about this, every day, all the time, from now on.</p>
+        class="now px-8"
+      >Discrediting the <span class="magenta">truth</span> as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I <span class="magenta">cried</span> during Journalism class at Laney when they told <span class="magenta">Gary's</span> story, and so all the pseudo-coding money-freaks who've taken the <span class="magenta">San Francisco I knew</span> as a kid in the <span class="magenta">90s/00s</span> and turned it into a <span class="magenta">sick, heartbreaking parody</span> for the last <span class="magenta">10+ years</span> better hope I'm written off as <span class="magenta">crazy</span> because I am not going to stop talking about this, every day, all the time, <span class="magenta">from now on.</span></p>
       <img src="gary_face.png" />
       <div>
-        <p class="now">GET OFF AWS, NOW.</p>
-        <p class="now">STOP STARING AT INSTAGRAM. TURN IT OFF RIGHT NOW FOREVER.</p>
+        <p class="now">GET OFF <span class="magenta">AWS</span>, NOW.</p>
+        <p class="now">STOP STARING AT <span class="magenta">INSTAGRAM</span>. TURN IT OFF RIGHT NOW FOREVER.</p>
         <p class="subnow">
           "But I'm
           <span class="magenta">bored</span> and amazon is just
-          <span class="magenta">so easy</span>" - so is handing your life over to a facist corporatocracy, one home-delivered grocery bag at a time.
+          <span class="magenta">so easy</span>" - so is handing your life over to a <span class="magenta">facist corporatocracy</span>, one<span class="magenta"> home-delivered bag of food for your family</span> at a time.
         </p>
         <img src="market_share.png" />
         <img src="/run_rate.png" />
