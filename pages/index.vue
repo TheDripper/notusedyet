@@ -97,10 +97,11 @@
             <li>Posting a <a href="https://en.wikipedia.org/wiki/String_(computer_science)" target="_blank">string</a> of text to a <a href="https://github.com/gorilla/websocket/tree/master/examples/chat" target="_blank">chat</a></li>
             <li><a href="https://github.com/solidusio/solidus" target="_blank">Processing a credit card transaction</a></li>
           </ul>
-          <li>Copywrite this curation of public work as "software" that you have "designed"</li>
-          <li>Use this as legal justification to collect a tariff on every human heartbeat while you scroll instagram for things to spend your obscene wealth on.</li>
+          <li><a href="https://en.wikipedia.org/wiki/Copywriting" target="_blank">Copywrite</a> this curation of <a href="https://en.wikipedia.org/wiki/Creative_Commons" target="_blank">public work</a> as "software" that you have "designed"</li>
+          <li>Use this as <a href="https://ma.tt/2017/09/facebook-dropping-patent-clause/" target="_blank">legal justification</a> to collect a tariff on every human heartbeat.</li>
         </ol>
-        <p>There is no genius here, just <span class="magenta">young white men</span> cashing in on the basic movements of life itself.</p>
+        <img src="/facebook_wordpress_trojan_horse.png"/>
+        <p>There is no genius here, just <span class="magenta">young white men</span> cashing in on the <span class="magenta">basic movements of life</span>.</p>
         <p>
           Behold: a band of wild investors, drunk with bloodthirst for their next <span class="magenta">unicorn</span>, slaps a <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank">SaaS</a> padlock on progress and begins an amphetaminic <span class="magenta">hype ritual</span> with <span class="magenta">bright colors</span> and cute <span class="magenta">cartoon</span> characters and a whole quasi-magical language of metaphor and imagery to obfuscate the fact that they’re just reselling a <span class="magenta">spreadsheet</span>, or some <span class="magenta">scripts</span> to pipe data from Vendor A to Vendor B. These technologies were <span class="magenta">invented in the 70s</span>, but only recently has Wall Street figured out that you can box these things up with bright branding, deploy them to the <a href="https://aws.amazon.com/" target="_blank">Bezos-net</a>, and charge <span class="magenta">VC-funded</span> companies $1000/month "<span class="magenta">for the service</span>".
           <img
