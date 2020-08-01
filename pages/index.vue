@@ -29,7 +29,7 @@
       </div>
       <img src="/discern.png" />
       <div>
-        <p>I write code for $$$ in the <a href="https://en.wikipedia.org/wiki/Venture_capital" data-img="/venture_capital_horse_race.png" target="_blank">VC-funded</a> horse-race that is the Tech Industry in 2020 <span class="magenta">(neigh)</span>, and in this state of isolation I've been reflecting on one quiet but radical protestor who is out in the parking lot, handing out free copies of the good book: <span class="magenta">WordPress</span>.</p>
+        <p>I write code for $$$ in the <a href="https://en.wikipedia.org/wiki/Venture_capital" data-img="/venture_capital_horse_race.png" target="_blank">VC-funded</a> <a href="https://www.crunchbase.com/lists/crunchbase-private-unicorn-company-list/f406c855-fff9-419b-9b44-324e1bfe3081/organization.companies" target="_blank">horse-race</a> that is the <a href="https://angel.co/gambling/" target="_blank">Tech Industry in 2020</a> <span class="magenta">(neigh)</span>, and in this state of isolation I've been reflecting on one quiet but radical protestor who is out in the parking lot, handing out free copies of the good book: <span class="magenta">WordPress</span>.</p>
         <img src="/wordpress.png" />
       </div>
       <div>
