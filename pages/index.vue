@@ -71,7 +71,7 @@
         <img src="/six_months_internet.png" />
         <span class="magenta">Miraculous!</span> And in '03, software engineers giving away <span class="magenta">free code</span> to help eliminate the <a href="https://en.wikipedia.org/wiki/Barriers_to_entry" target="_blank">barrier-to-entry</a> for the WWW? Our <span class="magenta">future</span> is so bright!</p>
         <h1 class="blink">--:--:--</h1>
-        <p>Act 2: Enter The <span class="magenta">Business Schools</span> of America, and their hordes of <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">young white men</a> who want to make <a href="https://en.wikipedia.org/wiki/Total_addressable_market" target="_blank">a lot</a> of money <a href="https://www.google.com/search?q=hypergrowth&rlz=1C5CHFA_enUS847US847&oq=hypergrowth&aqs=chrome..69i57j46j0l6.3331j0j7&sourceid=chrome&ie=UTF-8" target="_blank">really fast</a>.</p>
+        <p>Act 2: Enter The <span class="magenta">Business Schools</span> of America, and their hordes of <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">young white men</a> who want to make a lot of money <a href="https://www.google.com/search?q=hypergrowth&rlz=1C5CHFA_enUS847US847&oq=hypergrowth&aqs=chrome..69i57j46j0l6.3331j0j7&sourceid=chrome&ie=UTF-8" target="_blank">really fast</a>.</p>
         <p>These men are <a href="https://www.google.com/search?q=starving&rlz=1C5CHFA_enUS847US847&oq=starving&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8" target="_blank">starving</a> after the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers" target="_blank">'08 crash</a> cut short the <a href="https://en.wikipedia.org/wiki/All_the_Devils_Are_Here" target="_blank">Housing/Derivatives/CDO casino</a>. They are <a href="https://en.wikipedia.org/wiki/Cocaine#Adverse_effects" target="_blank">twitching</a> and <span class="magenta">stuck</span> in a <a href="https://en.wikipedia.org/wiki/Economic_stagnation" target="_blank">stagnant economy</a> with nothing but <span class="magenta">slow, stable</span> <a href="https://en.wikipedia.org/wiki/Bond_(finance)" target="_blank">bonds</a>.</p>
           <img src="/all_devils_are_here.png" />
          <p>Suddenly the <span class="magenta">wolf pack</span> whiffs the unmistakable <span class="magenta">lemon-fresh</span> scent of <span class="magenta">fast money</span> being made in <span class="magenta">large quantities</span>. It seems to be coming from the <span class="magenta">Bay Area</span>.</p>
@@ -129,17 +129,26 @@
         <img src="/precursor_ventures_drones_cia.png" />
         <img src="/inqtel.png" />
         <img src="/precursor_crunchbase.png" />
-        <p class="subnow py-16 magenta">Nice try, but a person is no longer a champion for diversity when he sells <a href="https://en.wikipedia.org/wiki/AGM-114_Hellfire" target="_blank"><span class="now">hellfires</span>, (hmm that Pseudo-Christian Righteous War-Branding tastes so good)</a> to drop on <a href="https://en.wikipedia.org/wiki/High-value_target" target="_blank">"High-value Targets"</a> like <span class="now">Afghan/Pakistani weddings:</span></p>
+        <p class="subnow py-16 magenta">Nice try, but a person is no longer a champion for diversity when he sells <a href="https://en.wikipedia.org/wiki/AGM-114_Hellfire" target="_blank"><span class="now">hellfires</span>, (mmmhmm, that Pseudo-Christian <span class="now">Righteous War-Branding</span> tastes so good)</a> to drop on <a href="https://en.wikipedia.org/wiki/High-value_target" target="_blank">"High-value Targets"</a> like <span class="now">Afghan/Pakistani <a href="https://www.cnn.com/2019/09/23/asia/afghanistan-wedding-attack-intl/index.html" target="_blank">weddings</a>:</span></p>
         <img src="/pakistan_weddings_drone.png" />
         <img src="/pakistan_drone_strikes.png" />
-        <p class="subnow py-16"><span class="now">"But they stopped in 2013 you dumb hippie"-</span><span class="magenta"> <a href="https://www.bbc.com/news/world-us-canada-47480207" target="_blank">Trump removed the legal requirement to report these attacks,</a></span> told the DOD to <a href="https://www.nytimes.com/2017/09/21/us/politics/trump-drone-strikes-commando-raids-rules.html" target="_blank">open fire.</a>
+        <p class="subnow py-16"><span class="now">"But they <a href="https://www.statista.com/statistics/428351/civilians-killed-from-us-drone-strikes-in-pakistan/" target="_blank">stopped in 2013</a> you <span class="magenta">dumb hippie</span>"-</span><span class="magenta"> <a href="https://www.bbc.com/news/world-us-canada-47480207" target="_blank">Trump removed the legal requirement to report these attacks,</a></span> told the DOD to <a href="https://www.nytimes.com/2017/09/21/us/politics/trump-drone-strikes-commando-raids-rules.html" target="_blank">open fire.</a>
           <img src="/us_drones_kill_families.png" />
           <img src="/trump_revokes_obama_drones_bbc.png" />
           <img src="/trump_more_drone_strikes_obama.png" />
          Now the Pentagon blandly denies <span class="magenta">(if they're even asked)</span> everything until a <span class="magenta">non-profit digs up some corpses and posts iPhone pics</span> as <a href="https://reliefweb.int/sites/reliefweb.int/files/resources/humanitarian-impact-of-drones.pdf" target="_blank">proof.</a></p>
         <img src="/womens_league_drone_strikes.png" />
-        <p class="subnow py-16 magenta">Silicon Valley and Trump both want to sell the USA to Putin/Jingping/Netanyahu/<a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=Jamal+Khashoggi&stick=H4sIAAAAAAAAAONgFuLSz9U3KDfIzqsqUOIEsdOSLcvStfgCUouK8_OCM1NSyxMrixex8nsl5ibmKHhnJBZn5KenZ-5gZQQASVVOhD4AAAA&sa=X&ved=2ahUKEwii1Yqt_ffqAhWqFTQIHSZQAyYQxA0wN3oECAYQBw&biw=1920&bih=978" target="_blank">MBS</a>/Bolsonaro because they all want the same thing: <a href="https://about.crunchbase.com/blog/russian-and-ukrainian-startups-seduce-silicon-valley-investors-telegram-gives-up-blockchain-project-amid-lawsuits/" target="_blank">more customers.</a></p>
-        <img src="/us_russia_tech_deals.png" />
+        <p class="now py-16">Silicon Valley <span class="magenta">and</span> Trump <span class="magenta">both</span> want to sell the USA to </p>
+          <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Vladimir_Putin" target="_blank">Putin</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Winnie-the-Pooh" target="_blank">Jingping</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Benjamin_Netanyahu"target="_blank">Netanyahu</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Mohammed_bin_Salman" target="_blank">MBS</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Jair_Bolsonaro" target="_blank">Bolsonaro</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Bashar_al-Assad" target="_blank">etc.</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Rodrigo_Duterte" target="_blank">etc.</a></li>
+          </ul>
+           <p>because <span class="magenta">(they're all <span class="now">fragile rich boys</span> with <a href="https://en.wikipedia.org/wiki/Antisocial_personality_disorder" target="_blank">deep insecurities</a> which they can only escape through <a href="https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder" target="_blank">absolute control</a>)</span> and because they all want the same thing: <a class="now" href="https://en.wikipedia.org/wiki/Total_addressable_market" target="_blank">more customers.</a></p>
         <ul>
         </ul>
         <p>Nobody's really <a href="https://www.goodjobsfirst.org/blog/los-angeles-times-stirs-debate-elon-musk%E2%80%99s-use-subsidies-tesla-spacex-and-solarcity" target="_blank">paying taxes</a> on any of this, because jobs ok? Don't make the <span class="subnow magenta">angry rich boys</span> cripple your state.</p>
