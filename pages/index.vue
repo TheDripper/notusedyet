@@ -27,6 +27,7 @@
           target="_blank"
         >LinkedIn: I'm a real person!</a>
       </div>
+      <img src="/discern.png" />
       <div>
         <p>As I write code for $$$ in the VC-funded horse-race that is the Tech Industry in 2020, I've been reflecting on one quiet but radical protestor who is out in the parking lot, handing out free copies of the good book: WordPress.</p>
       </div>
@@ -122,7 +123,7 @@
         <img id="bribe" src="/bribe.png" class="mb-8" />
         <p>
           Zuckerberg set the precedent for this, and it’s now the philosophy of the Bay Area and the greater American Economy: put a lock on everything and start building your
-          <span class="magenta subnow"><strong>passive</strong></span> income. This money is defined by having been obtained without doing any work. <span class="magenta">Young white men in San Francisco</span> recite their monthly sums like prayer. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with <span class="magenta">no real skills</span> are entiled to vast sums of money for having the “entrepreneurial spirit" to:
+          <span class="magenta subnow"><strong>passive</strong></span> income. This money is defined by having been obtained without doing any work. <span class="magenta">Young white men in San Francisco</span> recite their monthly sums like <span class="magenta">prayer</span>. Ask yourself what kind of country we become when this is the goal we all strive for, where energetic youngsters with <span class="magenta">no real skills</span> are entiled to vast sums of money for having the “entrepreneurial spirit" to:
         </p>
         <ul>
           <li>horde and plagiarize the basic inventions of their scientific predecessors</li>
@@ -141,7 +142,7 @@
           ></iframe>
         </div>
         <p>Methods and phraseology devised 100 years ago are still being uttered today, verbatim, in marketing meetings everywhere: Ultimate, Family, Sexy, Delicious, <span class="magenta">Dopamine, Oxytocin, Adrenaline, etc.</span></p>
-        <p>The next time you see a <span class="magenta">bogus rich kid</span> like <span class="magenta">Bezos</span> or <span class="magenta">Zukerberg</span> or <span class="magenta">Musk</span> pretending to be a genius, remember that all their wealth comes from:</p>
+        <p>The next time you see a <span class="magenta">bogus rich kid</span> like <span class="magenta">Bezos</span> or <span class="magenta">Zukerberg</span> or <span class="magenta">Musk</span> pretending to be a genius, remember that <span class="magenta">all their wealth</span> comes from:</p>
         <ul>
           <li>selling fast ads and mass plastic</li>
           <li>instilling depression/anxiety in USA teenagers</li>
