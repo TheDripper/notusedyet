@@ -66,8 +66,10 @@
         <img src="/francisco_vico_compsci_hero.png" />
         <span class="magenta">abstract information</span> into a <span class="magenta">visual coordinate system of shapes and colors</span> that's easily understood by children? Miraculous! And in '03, software engineers giving away <span class="magenta">free code</span> to help eliminate the <span class="magenta">barrier-to-entry</span> for the WWW? Our <span class="magenta">future</span> is so bright!</p>
         <h1 class="blink">--:--:--</h1>
-        <p>Act 2: Enter The <span class="magenta">Business Schools</span> of America, and their hordes of <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">young white men</a> who want to make a lot of money <span class="magenta">really fast.</span></p>
-        <p>These men are starving after the '08 crash cut short the Housing/Derivatives/CDO casino. They are twitching and stuck in a stagnant economy with nothing but slow, stable bonds. Suddenly they whiff the unmistakable lemon-fresh scent of fast money being made in large quantities. It seems to be coming from the Bay Area.</p>
+        <p>Act 2: Enter The <span class="magenta">Business Schools</span> of America, and their hordes of <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">young white men</a> who want to make <span class="magenta">a lot</span> of money <span class="magenta">really fast.</span></p>
+        <p>These men are <a href="https://www.google.com/search?q=starving&rlz=1C5CHFA_enUS847US847&oq=starving&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8" target="_blank">starving</a> after the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers" target="_blank">'08 crash</a> cut short the <a href="https://en.wikipedia.org/wiki/All_the_Devils_Are_Here" target="_blank">Housing/Derivatives/CDO casino</a>. They are twitching and stuck in a stagnant economy with nothing but slow, stable bonds.</p>
+          <img src="/all_devils_are_here.png" />
+         <p>Suddenly the <span class="magenta">wolf pack</span> whiffs the unmistakable <span class="magenta">lemon-fresh</span> scent of <span class="magenta">fast money</span> being made in <span class="magenta">large quantities</span>. It seems to be coming from the <span class="magenta">Bay Area</span>.</p>
         <p>Here's the plan:</p>
         <ol>
           <li>
