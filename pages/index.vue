@@ -46,7 +46,9 @@
           src="https://www.youtube.com/embed/FCiBUawCawo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
-        <img src="/douglace.png" />
+        <img src="/real_heroes_comp_sci.png" />
+        <img src="/grace_hopper_bio.png" />
+        <img src="/annie_easley_compsci_hero.png" />
         <iframe
           width="560"
           height="315"
