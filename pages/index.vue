@@ -49,7 +49,9 @@
         <img src="/real_heroes_comp_sci.png" />
         <img src="/grace_hopper_bio.png" />
         <img src="/annie_easley_compsci_hero.png" />
-        <p>Try to catch <span class="magenta">Alan Kay</span> making shadow puppets at the very start of this video. Also, if you have some time to watch the whole thing, I <span class="magenta">guarantee</span> it will <span class="now magenta">blow your mind</span> no matter your age or background. His work developing the <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank">Graphical User Interface</a> (which you used to navigate to this page) went deep into the roots of vision, learning, and thought. This is what a <span class="magenta">genius</span> looks like:</p>
+        <p>Try to catch <span class="magenta">Alan Kay</span> making shadow puppets at the very start of this video. Also, if you have some time to watch the whole thing, I <span class="magenta">guarantee</span> it will <span class="now magenta">blow your mind</span> no matter your age or background. His work developing the <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank">Graphical User Interface</a> (which you used to navigate to this page) went deep into the roots of vision, learning, and thought.</p>
+        <p>If you're short on time <span class="magenta">(5-10 min)</span>, just jump to <a href="https://youtu.be/6ZdxiQoOBgs?t=2908" target="_blank">48:28</a>.
+        <p>Kay starts talking about <a href="https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development" target="_blank">Piaget</a> and <a href="https://en.wikipedia.org/wiki/Special_relativity" target="_blank">Einstein</a> and outlines research that, <span class="magenta">I argue</span>, suggests the <span class="magenta">classroom model is cripplingly inefficient at teaching code.</span></p>
         <iframe
           width="560"
           height="315"
@@ -80,7 +82,9 @@
               <li><a href="https://en.wikipedia.org/wiki/Currency" target="_blank">coins</a></li>
             </ul>
           </li>
-          <li>Abstract these fundamental concepts of human culture that are thousands of years old into an online software layer- with programming languages you've inherited for free from the prior scientific research of the US GOVT.- by writing some basic functions to handle trivial, age-old Comp Sci / Web Dev concerns like:</li>
+          <li><span class="magenta">Abstract</span> these <span class="magenta">fundamental</span> concepts of human <span class="magenta">culture</span> that are <span class="magenta">thousands of years old</span> into an <span class="magenta">online software layer.</span>
+          Use 
+           with programming languages you've inherited for free from the prior scientific research of the US GOVT.- by writing some basic functions to handle trivial, age-old Comp Sci / Web Dev concerns like:</li>
           <ul>
             <li>Posting an image to a server</li>
             <li>Posting a string of text to a chat</li>

@@ -97,9 +97,6 @@ ol {
   list-style: decimal;
   @apply pl-12;
 }
-ul {
-  color: magenta;
-}
 a {
   text-decoration: underline;
   color: blue;
