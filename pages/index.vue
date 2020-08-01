@@ -69,6 +69,7 @@
         <img src="/francisco_vico_compsci_hero.png" />
         <iframe src="https://www.youtube.com/embed/-x1TFxao0oI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe src="https://www.youtube.com/embed/1a1R9yGXvLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/IRtYp8cma6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <span class="magenta">abstract information</span> into a <a href="https://en.wikipedia.org/wiki/Coordinate_system" target="_blank">visual coordinate system</a> of <a href="https://en.wikipedia.org/wiki/Icon_(computing)" target="_blank">shapes and colors</a> that's easily understood by <a href="https://www.google.com/search?q=youngest+age+use+computer&rlz=1C5CHFA_enUS847US847&oq=youngest+age+use+computer&aqs=chrome..69i57.2981j0j7&sourceid=chrome&ie=UTF-8" target="_blank">children</a>? 
         <img src="/six_months_internet.png" />
         <span class="magenta">Miraculous!</span> And in '03, software engineers giving away <span class="magenta">free code</span> to help eliminate the <a href="https://en.wikipedia.org/wiki/Barriers_to_entry" target="_blank">barrier-to-entry</a> for the WWW? Our <span class="magenta">future</span> is so bright!</p>
@@ -340,7 +341,9 @@
         class="now mt-2 magenta"
       >Imagine pulling out your phone only instead of addictive moving billboards you saw small-time niche content from people you know or from weird internet people who have day-jobs and so sacrifice online, making zero dollars on their art and working out of passion and love and insanity. Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
       <img class="mb-6" src="/nasdaq.png" />
-      <img class="mb-6" src="/trinity.png" />
+      <img id="what_is_smash_the_patriarchy" src="/what_is_smash_the_patriarchy.png" />
+      <img class="mb-6" src="/trinity_smash_police_patriarchy.png" />
+      <img id="does_anyone_else" src="/does_anyone_else.png" />
       <iframe  src="https://www.youtube.com/embed/2fD-C2qg8Is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <h1 class="blink">--:--:--</h1>
       <h1 id="rumi" class="w-full text-center text-xl uppercase tracking-wide py-12">
@@ -365,7 +368,16 @@ export default {
 </script>
 
 <style lang="scss">
-
+#what_is_smash_the_patriarchy {
+  @screen lg {
+    width: 120%;
+  }
+}
+#does_anyone_else {
+  @screen lg {
+    width: 120%;
+  }
+}
 .dayjob {
   a {
     color: lime;
