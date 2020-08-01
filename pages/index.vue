@@ -73,10 +73,11 @@
         <p>Here's the plan:</p>
         <ol>
           <li>
-            Pick a basic feature of any society, e.g.
+            Pick a <span class="magenta">basic</span> feature of <span class="magenta">any society</span>, e.g.
             <ul>
-              <li>a board in the town square to post announcements</li>
-              <li>an open marketplace for vendors to sell</li>
+              <li>a board in the town square to <span class="magenta">post</span> announcements</li>
+              <li>an open <span class="magenta">marketplace</span> for vendors to sell</li>
+              <li><a href="https://en.wikipedia.org/wiki/Currency" target="_blank">coins</a></li>
             </ul>
           </li>
           <li>Abstract these fundamental concepts of human culture that are thousands of years old into an online software layer- with programming languages you've inherited for free from the prior scientific research of the US GOVT.- by writing some basic functions to handle trivial, age-old Comp Sci / Web Dev concerns like:</li>

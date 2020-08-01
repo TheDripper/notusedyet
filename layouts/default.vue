@@ -95,7 +95,6 @@ li {
 
 ol {
   list-style: decimal;
-  color: blue;
   @apply pl-12;
 }
 ul {
