@@ -49,9 +49,7 @@
         <img src="/real_heroes_comp_sci.png" />
         <img src="/grace_hopper_bio.png" />
         <img src="/annie_easley_compsci_hero.png" />
-        <p>Try to catch <span class="magenta">Alan Kay</span> making shadow puppets at the very start of this video. Also, if you have some time to watch the whole thing, I <span class="magenta">guarantee</span> it will <span class="now magenta">blow your mind</span> no matter your age or background. His work developing the <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank">Graphical User Interface</a> (which you used to navigate to this page) went deep into the roots of vision, learning, and thought.</p>
-        <p>If you're short on time <span class="magenta">(5-10 min)</span>, just jump to <a href="https://youtu.be/6ZdxiQoOBgs?t=2908" target="_blank">48:28</a>.
-        <p>Kay starts talking about <a href="https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development" target="_blank">Piaget</a> and <a href="https://en.wikipedia.org/wiki/Special_relativity" target="_blank">Einstein</a> and outlines research that, <span class="magenta">I argue</span>, suggests the <span class="magenta">classroom model is cripplingly inefficient at teaching code.</span></p>
+        <img src="/alan_kay_compsci_hero.png" />
         <iframe
           width="560"
           height="315"
@@ -60,7 +58,10 @@
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
-        <img src="/kay_bio.png" />
+        <p>Try to catch <span class="magenta">Alan Kay</span> making shadow puppets at the very start of this video. Also, if you have some time to watch the whole thing, I <span class="magenta">guarantee</span> it will <span class="now magenta">blow your mind</span> no matter your age or background. His work developing the <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank">Graphical User Interface</a> (which you used to navigate to this page) went deep into the roots of vision, learning, and thought.</p>
+        <p>If you're short on time <span class="magenta">(5-10 min)</span>, just jump to <a href="https://youtu.be/6ZdxiQoOBgs?t=2908" target="_blank">48:28</a>.
+        <p>Kay starts talking about <a href="https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development" target="_blank">Piaget</a> and <a href="https://en.wikipedia.org/wiki/Special_relativity" target="_blank">Einstein</a> and outlines research that, <span class="magenta">I argue</span>, suggests the <span class="magenta">classroom model is cripplingly inefficient at teaching code.</span></p>
+        
         <p
           class="mt-6"
         ><span class="magenta">So.</span> a network of terminals and interface hardware that can abstract information 
