@@ -64,13 +64,13 @@
         
         <p
           class="mt-6"
-        ><span class="magenta">So.</span> a network of terminals and interface hardware that can abstract information 
+        ><span class="magenta">So.</span> a network of terminals and interface hardware that can <span class="magenta">abstract information</span> 
         <img src="/abstraction.png" />
         <img src="/francisco_vico_compsci_hero.png" />
-        <span class="magenta">abstract information</span> into a <span class="magenta">visual coordinate system of shapes and colors</span> that's easily understood by children? Miraculous! And in '03, software engineers giving away <span class="magenta">free code</span> to help eliminate the <span class="magenta">barrier-to-entry</span> for the WWW? Our <span class="magenta">future</span> is so bright!</p>
+        <span class="magenta">abstract information</span> into a <span class="magenta">visual coordinate system of shapes and colors</span> that's easily understood by children? <span class="magenta">Miraculous!</span> And in '03, software engineers giving away <span class="magenta">free code</span> to help eliminate the <span class="magenta">barrier-to-entry</span> for the WWW? Our <span class="magenta">future</span> is so bright!</p>
         <h1 class="blink">--:--:--</h1>
         <p>Act 2: Enter The <span class="magenta">Business Schools</span> of America, and their hordes of <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">young white men</a> who want to make <span class="magenta">a lot</span> of money <span class="magenta">really fast.</span></p>
-        <p>These men are <a href="https://www.google.com/search?q=starving&rlz=1C5CHFA_enUS847US847&oq=starving&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8" target="_blank">starving</a> after the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers" target="_blank">'08 crash</a> cut short the <a href="https://en.wikipedia.org/wiki/All_the_Devils_Are_Here" target="_blank">Housing/Derivatives/CDO casino</a>. They are <span class="magenta">twitching</span> and <span class="magenta">stuck</span> in a stagnant economy with nothing but <span class="magenta">slow, stable</span> <a href="https://en.wikipedia.org/wiki/Bond_(finance)" target="_blank">bonds</a>.</p>
+        <p>These men are <a href="https://www.google.com/search?q=starving&rlz=1C5CHFA_enUS847US847&oq=starving&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8" target="_blank">starving</a> after the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers" target="_blank">'08 crash</a> cut short the <a href="https://en.wikipedia.org/wiki/All_the_Devils_Are_Here" target="_blank">Housing/Derivatives/CDO casino</a>. They are <span class="magenta">twitching</span> and <span class="magenta">stuck</span> in a <a href="https://en.wikipedia.org/wiki/Economic_stagnation" target="_blank">stagnant economy</a> with nothing but <span class="magenta">slow, stable</span> <a href="https://en.wikipedia.org/wiki/Bond_(finance)" target="_blank">bonds</a>.</p>
           <img src="/all_devils_are_here.png" />
          <p>Suddenly the <span class="magenta">wolf pack</span> whiffs the unmistakable <span class="magenta">lemon-fresh</span> scent of <span class="magenta">fast money</span> being made in <span class="magenta">large quantities</span>. It seems to be coming from the <span class="magenta">Bay Area</span>.</p>
         <p>Here's the plan:</p>
@@ -84,8 +84,10 @@
             </ul>
           </li>
           <li><span class="magenta">Abstract</span> these <span class="magenta">fundamental</span> concepts of human <span class="magenta">culture</span> that are <span class="magenta">thousands of years old</span> into an <span class="magenta">online software layer.</span>
-          Use 
-           with programming languages you've inherited for free from the prior scientific research of the US GOVT.- by writing some basic functions to handle trivial, age-old Comp Sci / Web Dev concerns like:</li>
+          Use <a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol" target="_blank">protocols</a> and <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">languages</a> you've inherited <a href="http://www.nbcnews.com/id/5217598/ns/technology_and_science-tech_and_gadgets/t/web-inventor-finally-makes-money-it/#.XyUPdxNKhTY" target="_blank">for free</a> from <a href="https://en.wikipedia.org/wiki/HTML#History" target="_blank">CERN</a>.
+          <img src="/berners_lee_free_www.png" />
+          <img src="/berners_lee_compsci_hero.png" />
+           and write some basic <a href="https://en.wikipedia.org/wiki/Subroutine" target="_blank">functions</a> to handle web dev / comp sci concerns that are now, (thanks to the above), <span class="magenta"> trivial</span>like: </li>
           <ul>
             <li>Posting an image to a server</li>
             <li>Posting a string of text to a chat</li>
