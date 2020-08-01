@@ -101,7 +101,8 @@
           <li>Use this as <a href="https://ma.tt/2017/09/facebook-dropping-patent-clause/" target="_blank">legal justification</a> to collect a tariff on every human heartbeat.</li>
         </ol>
         <img src="/facebook_wordpress_trojan_horse.png"/>
-        <p>There is no genius here, just <span class="magenta">young white men</span> cashing in on the <span class="magenta">basic movements of life</span>.</p>
+        <p class="mt-12"><span class="now">There is <span class="magenta">no genius here</span>,</span> just <span class="magenta">young white men</span> <a href="https://www.brex.com/product/corporate-credit-card/startups/" target="_blank">cashing in</a> on the <a href="https://www.fool.com/investing/2020/06/23/why-googles-us-ad-revenue-will-decline-but-faceboo.aspx" target="_blank">basic movements</a> of <span class="magenta">life</span>.</p>
+        <img src="/nasdaq_human_heartbeat.png" />
         <p>
           Behold: a band of wild investors, drunk with bloodthirst for their next <span class="magenta">unicorn</span>, slaps a <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank">SaaS</a> padlock on progress and begins an amphetaminic <span class="magenta">hype ritual</span> with <span class="magenta">bright colors</span> and cute <span class="magenta">cartoon</span> characters and a whole quasi-magical language of metaphor and imagery to obfuscate the fact that they’re just reselling a <span class="magenta">spreadsheet</span>, or some <span class="magenta">scripts</span> to pipe data from Vendor A to Vendor B. These technologies were <span class="magenta">invented in the 70s</span>, but only recently has Wall Street figured out that you can box these things up with bright branding, deploy them to the <a href="https://aws.amazon.com/" target="_blank">Bezos-net</a>, and charge <span class="magenta">VC-funded</span> companies $1000/month "<span class="magenta">for the service</span>".
           <img
