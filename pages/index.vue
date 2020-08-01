@@ -29,22 +29,21 @@
       </div>
       <img src="/discern.png" />
       <div>
-        <p>As I write code for $$$ in the VC-funded horse-race that is the Tech Industry in 2020, I've been reflecting on one quiet but radical protestor who is out in the parking lot, handing out free copies of the good book: WordPress.</p>
+        <p>I write code for $$$ in the <a href="https://en.wikipedia.org/wiki/Venture_capital" data-img="/venture_capital_horse_race.png" target="_blank">VC-funded</a> horse-race that is the Tech Industry in 2020 <span class="magenta">(neigh)</span>, I've been reflecting on one quiet but radical protestor who is out in the parking lot, handing out free copies of the good book: <span class="magenta">WordPress</span>.</p>
+        <img src="/wordpress.png" />
       </div>
       <div>
         <p>
-          When WordPress began in 2003, The Internet was still largely uncolonized and thus inhabited by nerds. Back then, the WordPress mission
-          <strong>to create a free and open source publishing platform for The Internet</strong> seemed like esoteric gibberish to anybody who wasn't actively publishing or reading content, i.e. not that many people when compared to our current COVID era, where the maintenance of our physical bodies is the last thing that hasn't yet been abstracted to an online software layer. I pray that this last citadel of sweat and poop and hair remains ours forever, amen.
+          When WordPress began in 2003, <span class="magenta">The Internet</span> was still largely <span class="magenta">uncolonized</span> and thus inhabited by <span class="magenta">nerds</span>. Back then, the WordPress mission
+          <span class="magenta"><strong>to create a free and open source publishing platform for The Internet</strong></span> seemed like <span class="magenta">esoteric gibberish</span> to anybody who wasn't actively publishing or reading content, i.e. not that many people when compared to our current <span class="magenta">COVID era</span>, where the maintenance of our physical bodies is the last thing that hasn't yet been <span class="magenta">abstracted to an online software layer</span>. I pray that this last citadel of <span class="magenta">sweat</span> and <span class="magenta">poop</span> and <span class="magenta">hair</span> remains ours forever, <span class="magenta">amen.</span>
         </p>
       </div>
       <div>
-        <p>As usual, we're lucky the nerds had a head-start before business moved in. If begun just this year, in today's economic climate, the WP mission would be considered quixotic or maybe even terrorism. This is tragic because it is this very potential to share new information at no cost that inspired the real heroes to first design this virtual space we've now all taken refuge in:</p>
+        <p>As usual, we're lucky the nerds had a head-start before business moved in. If begun just this year, in today's economic climate, the WP mission would be considered quixotic or maybe even <span class="magenta">terrorism</span>. This is tragic because it is this very potential to share new information at no cost that inspired the <span class="magenta">real heroes</span> to first design this virtual space we've now all taken <span class="magenta">refuge</span> in:</p>
         <iframe
           width="560"
           height="315"
-          src="https://www.youtube.com/embed/M5PgQS3ZBWA"
-          frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          src="https://www.youtube.com/embed/FCiBUawCawo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
         <img src="/douglace.png" />
