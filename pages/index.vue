@@ -87,7 +87,7 @@
           Use <a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol" target="_blank">protocols</a> and <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">languages</a> you've inherited <a href="http://www.nbcnews.com/id/5217598/ns/technology_and_science-tech_and_gadgets/t/web-inventor-finally-makes-money-it/#.XyUPdxNKhTY" target="_blank">for free</a> from <a href="https://en.wikipedia.org/wiki/HTML#History" target="_blank">CERN</a>.
           <img src="/berners_lee_free_www.png" />
           <img src="/berners_lee_compsci_hero.png" />
-           and write some basic <a href="https://en.wikipedia.org/wiki/Subroutine" target="_blank">functions</a> to handle web dev / comp sci concerns that are now, (thanks to the above), <span class="magenta"> trivial</span>like: </li>
+           and write some basic <a href="https://en.wikipedia.org/wiki/Subroutine" target="_blank">functions</a> to handle web dev / comp sci concerns that are now, (thanks to the above), <span class="magenta"> trivial </span>like: </li>
           <ul>
             <li>Posting an image to a server</li>
             <li>Posting a string of text to a chat</li>
