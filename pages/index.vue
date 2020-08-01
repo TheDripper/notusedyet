@@ -120,12 +120,14 @@
         <p class="mt-8"><span class="magenta">500-1000 people</span> are hard at work on a <a href="https://www.crunchbase.com/organization/jive-software" target="_blank">"product"</a> that "combines the <span class="magenta">power of community</span> software, <span class="magenta">collaboration software</span>, <span class="magenta">social networking</span> software, and <span class="magenta">social media monitoring</span> offerings into an integrated platform.", <span class="magenta">i.e.</span> everything Engelbart had in '68 (minus <span class="magenta">Big Brother</span>) and was trying to <span class="magenta">give away for free.</span></p>
         <img src="/big_brother_1.png" />
         <img src="/big_brother_2.png" />
-        <p>These "products" are so <span class="magenta">vague/redundant</span> and these "companies" (often just <span class="magenta">2-5 people w/ personal ties</span> to <span class="magenta">VC, <a href="https://about.crunchbase.com/blog/crunchbase-spotlight-014-charles-hudson/" target="_blank">Homeland Security</a></span> or <span class="magenta"><a href="https://en.wikipedia.org/wiki/Ruslan_Fazlyev" target="_blank">Foreign Diplomacy</a></span>) are so numerous, I believe they provide lovely cover for <span class="magenta">tax evasion, money laundering (human trafficking)</span>, and probably also for <a href="https://www.crunchbase.com/organization/israel-defense-forces" target="_blank">foreign entities</a> to shuttle money into the US and spread the <span class="magenta">Global Facist Surveillance State.</span></p>
+        <p>These "products" are so <span class="magenta">vague/redundant</span> and these "companies" (often just <span class="magenta">2-5 people w/ personal ties</span> to <span class="magenta">VC, <a href="https://about.crunchbase.com/blog/crunchbase-spotlight-014-charles-hudson/" target="_blank">Homeland Security</a></span> or <span class="magenta"><a href="https://en.wikipedia.org/wiki/Ruslan_Fazlyev" target="_blank">Foreign Diplomacy</a></span>) are so numerous, I believe they provide lovely cover for <span class="magenta">tax evasion, <a href="https://en.wikipedia.org/wiki/Money_laundering" target="_blank">money laundering</a> (human trafficking)</span>, and probably also for <a href="https://www.crunchbase.com/organization/israel-defense-forces" target="_blank">foreign entities</a> to shuttle money into the US and spread the <span class="magenta">Global Facist Surveillance State.</span></p>
         <img src="/crunchbase_israel_defense_numbers.png" />
         <img src="/crunchbase_israel_defense_force.png" />
-        <img src="/intern.png" />
+        <img src="/ruslan_fazlyev_oligarch_putin.png" />
+        <img src="/ecwid_russian_state.png" />
+        <img src="/ecwid_russia_front.png" />
+        <img src="/precursor_ventures_drones_cia.png" />
         <img src="/inqtel.png" />
-        <img src="/drones.png" />
         <img src="/precursor_crunchbase.png" />
         <p class="subnow py-16 magenta">Nice try, but a person is no longer a champion for diversity when he sells <a href="https://en.wikipedia.org/wiki/AGM-114_Hellfire" target="_blanks">hellfires, (hmm that Pseudo-Christian Righteous War-Branding tastes so good)</a> to drop on Afghan/Pakistani weddings:</p>
         <img src="/pakistan_weddings_drone.png" />
