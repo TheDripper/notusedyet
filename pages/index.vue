@@ -129,7 +129,7 @@
         <img src="/precursor_ventures_drones_cia.png" />
         <img src="/inqtel.png" />
         <img src="/precursor_crunchbase.png" />
-        <p class="subnow py-16 magenta">Nice try, but a person is no longer a champion for diversity when he sells <a href="https://en.wikipedia.org/wiki/AGM-114_Hellfire" target="_blanks">hellfires, (hmm that Pseudo-Christian Righteous War-Branding tastes so good)</a> to drop on Afghan/Pakistani weddings:</p>
+        <p class="subnow py-16 magenta">Nice try, but a person is no longer a champion for diversity when he sells <a href="https://en.wikipedia.org/wiki/AGM-114_Hellfire" target="_blank"><span class="now">hellfires</span>, (hmm that Pseudo-Christian Righteous War-Branding tastes so good)</a> to drop on Afghan/Pakistani weddings:</p>
         <img src="/pakistan_weddings_drone.png" />
         <img src="/pakistan_drone_strikes.png" />
         <p class="subnow py-16">"But they stopped in 2013 you dumb hippie"-<span class="magenta"> Trump removed the legal requirement to report these attacks,</span> told the DOD: <span class="magenta">"OPEN FIRE, BOYS"</span>, and now the Pentagon blandly denies everything until a <span class="magenta">non-profit digs up some corpses and posts iPhone pics</span> as <a href="https://reliefweb.int/sites/reliefweb.int/files/resources/humanitarian-impact-of-drones.pdf" target="_blank">proof.</a></p>
