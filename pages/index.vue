@@ -49,7 +49,7 @@
         <img src="/real_heroes_comp_sci.png" />
         <img src="/grace_hopper_bio.png" />
         <img src="/annie_easley_compsci_hero.png" />
-        <p>Try to catch <span class="magenta">Alan Kay</span> making shadow puppets at the very start of this video. Also, if you have some time to watch the whole thing, I <span class="magenta">guarantee</span> it will <span class="now magenta">blow your mind</span> no matter your age or background. His work developing the <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank">Graphical User Interface</a> (which you used to navigate to this page) went deep into the roots of vision, learning, and thought. This is what a <span class="magenta">genius</span> looks like.</p>
+        <p>Try to catch <span class="magenta">Alan Kay</span> making shadow puppets at the very start of this video. Also, if you have some time to watch the whole thing, I <span class="magenta">guarantee</span> it will <span class="now magenta">blow your mind</span> no matter your age or background. His work developing the <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank">Graphical User Interface</a> (which you used to navigate to this page) went deep into the roots of vision, learning, and thought. This is what a <span class="magenta">genius</span> looks like:</p>
         <iframe
           width="560"
           height="315"
@@ -58,12 +58,15 @@
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
-        <img src="kay_bio.png" />
+        <img src="/kay_bio.png" />
         <p
           class="mt-6"
-        >So a network of terminals and interface hardware that can abstract information into a visual space that's easily understood by children? Miraculous! And in '03, software engineers giving away free code to help eliminate the barrier-to-entry for the WWW? Our future is so bright!</p>
+        ><span class="magenta">So.</span> a network of terminals and interface hardware that can abstract information 
+        <img src="/abstraction.png" />
+        <img src="/francisco_vico_compsci_hero.png" />
+        <span class="magenta">abstract information</span> into a <span class="magenta">visual coordinate system of shapes and colors</span> that's easily understood by children? Miraculous! And in '03, software engineers giving away <span class="magenta">free code</span> to help eliminate the <span class="magenta">barrier-to-entry</span> for the WWW? Our <span class="magenta">future</span> is so bright!</p>
         <h1 class="blink">--:--:--</h1>
-        <p>Act 2: Enter The Business Schools of America, and their hordes of <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">young white men</a> who want to make a lot of money really fast.</p>
+        <p>Act 2: Enter The <span class="magenta">Business Schools</span> of America, and their hordes of <a href="https://en.wikipedia.org/wiki/Patrick_Bateman" target="_blank">young white men</a> who want to make a lot of money <span class="magenta">really fast.</span></p>
         <p>These men are starving after the '08 crash cut short the Housing/Derivatives/CDO casino. They are twitching and stuck in a stagnant economy with nothing but slow, stable bonds. Suddenly they whiff the unmistakable lemon-fresh scent of fast money being made in large quantities. It seems to be coming from the Bay Area.</p>
         <p>Here's the plan:</p>
         <ol>
