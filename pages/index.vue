@@ -49,6 +49,7 @@
         <img src="/real_heroes_comp_sci.png" />
         <img src="/grace_hopper_bio.png" />
         <img src="/annie_easley_compsci_hero.png" />
+        <p>Try to catch <span class="magenta">Alan Kay</span> making shadow puppets at the very start of this video. Also, if you have some time to watch the whole thing, I <span class="magenta">guarantee</span> it will <span class="now magenta">blow your mind</span> no matter your age or background. His work developing the <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank">Graphical User Interface</a> (which you used to navigate to this page) went deep into the roots of vision, learning, and thought. This is what a <span class="magenta">genius</span> looks like.</p>
         <iframe
           width="560"
           height="315"
@@ -58,7 +59,6 @@
           allowfullscreen
         ></iframe>
         <img src="kay_bio.png" />
-        <img id="moon" src="moon.png" />
         <p
           class="mt-6"
         >So a network of terminals and interface hardware that can abstract information into a visual space that's easily understood by children? Miraculous! And in '03, software engineers giving away free code to help eliminate the barrier-to-entry for the WWW? Our future is so bright!</p>
@@ -193,6 +193,7 @@
       <a class="subnow mb-32 text-center" target="_blank" href="https://www.washingtonpost.com/opinions/2020/04/24/joe-biden-accused-trump-trying-delay-election-he-should-know-better/">Here is where Henry Olsen proves he's willing to sell his moral dignity<br /> to remain in the graces of The Man.</a>
       <p class="now">Is <span class="magenta">Democracy Dies in Darkness</span> a personal <a href="https://en.wikipedia.org/wiki/Mantra" target="_blank">Mantra</a> for <span class="magenta">Jeff Bezos?</span> Does he <span class="magenta">chant it quietly 3 times</span> to psyche himself up whenever <span class="magenta">Pooh Bear</span> calls?</p>
         <img src="/jingping_pooh_bear.png" />
+        <img src="/pooh_bear_xerox.png" />
         <p class="subnow magenta">Why did this same farce of a newspaper take the time and resources to drag <a href="https://en.wikipedia.org/wiki/Gary_Webb" target="_blank">Gary Webb's</a> name through the dirt, even after he killed himself?</p>
         <p class="subnow"><strong>Jeff Leen</strong> of
         <span class="magenta">The Bezington Poo</span> can only appeal to a defense I usually hear from <span class="magenta">men on trial for rape</span>:
