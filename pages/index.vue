@@ -346,6 +346,7 @@
       <iframe width="560" height="315" src="https://www.youtube.com/embed/J37Cw3IWnFM?start=593" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p class="now mt-2 magenta">Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/bdJZCaVD1bA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <img src="/live_long_lonely_nights.png" />
       <img class="mb-6" src="/nasdaq.png" />
       <img id="what_is_smash_the_patriarchy" src="/what_is_smash_the_patriarchy.png" />
       <img class="mb-6" src="/trinity_smash_police_patriarchy.png" />
