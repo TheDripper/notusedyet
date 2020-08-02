@@ -106,8 +106,9 @@
         <img src="/facebook_wordpress_trojan_horse.png"/>
         <p class="mt-12"><span class="now">There is <span class="magenta">no genius here</span>,</span> just <span class="magenta">young white men</span> <a href="https://www.brex.com/product/corporate-credit-card/startups/" target="_blank">cashing in</a> on the <a href="https://www.fool.com/investing/2020/06/23/why-googles-us-ad-revenue-will-decline-but-faceboo.aspx" target="_blank">basic movements</a> of <span class="magenta">life</span>.</p>
         <img src="/nasdaq_human_heartbeat.png" />
+        <p class="subnow"><span class="magenta now">Yes Billy,</span> how do we <span class="magenta now">decide between the two</span> with our <span class="magenta now">investment dollars;</span> the question on <span class="magenta">every</span> American's mind <span class="magenta">right now.</span>
         <p>
-          <span class="now magenta">Behold</span>: a band of wild <a href="https://en.wikipedia.org/wiki/Angel_investor" target="_blank">investors</a>, <span class="magenta">drunk with bloodthirst</span> for their next <span class="magenta now"><a href="https://en.wikipedia.org/wiki/Unicorn_(finance)" target="_blank">unicorn</a></span>,
+          <span class="now magenta">Behold</span>: a band of wild <a href="https://en.wikipedia.org/wiki/Angel_investor" target="_blank">investors</a>, <span class="magenta">drunk with bloodthirst</span> for their next <span class="magenta now"><a href="https://en.wikipedia.org/wiki/Unicorn_(finance)" target="_blank">unicorn:</a></span> named for being <span class="magenta">so rare</span> it might not even be real, and which there were <span class="now magenta">465</span> of as of <span class="magenta">April 2020.</span>
           <img src="/unicorns_such_rarity.png" />
            slaps a <span class="now magenta"><a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank">SaaS</a>y padlock on progress</span> and begins an <a href="https://en.wikipedia.org/wiki/Lisdexamfetamine" target="_blank">amphetaminic</a> <span class="magenta">hype ritual</span> with <a href="https://www.salesforce.com/editions-pricing/overview/" target="_blank">bright colors and cute cartoon characters</a> and a whole <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank">quasi-magical</a> language of <a href="https://www.drift.com/blog/what-is-growth-marketing/" target="_blank">metaphor and imagery</a> to <a href="https://en.wikipedia.org/wiki/Obfuscation" target="_blank">obfuscate</a> the fact that they’re just reselling a <span class="magenta">spreadsheet</span>, or some <span class="magenta">scripts</span> to pipe data from <a href="https://zapier.com/pricing" target="_blank">Vendor A to Vendor B.</a></p>
            <img src="/aws_magic_show.png" />
@@ -339,7 +340,10 @@
       </div>
       <p
         class="now mt-2 magenta"
-      >Imagine pulling out your phone only instead of addictive moving billboards you saw small-time niche content from people you know or from weird internet people who have day-jobs and so sacrifice online, making zero dollars on their art and working out of passion and love and insanity. Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
+      >Imagine pulling out your phone only instead of addictive moving billboards you saw small-time niche content from people you know or from weird internet people who have day-jobs and so sacrifice online, making zero dollars on their art and working out of passion and love and insanity.</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/3NnlM-WRIcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/J37Cw3IWnFM?start=593" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p class="now mt-2 magenta">Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
       <img class="mb-6" src="/nasdaq.png" />
       <img id="what_is_smash_the_patriarchy" src="/what_is_smash_the_patriarchy.png" />
       <img class="mb-6" src="/trinity_smash_police_patriarchy.png" />
