@@ -161,7 +161,7 @@
         <img src="/musk_tax_incentives.png" />
         <img src="/musk_more_breaks.png" />
         <img src="/elon_pulls_out_california.png" />
-        <p class="mt-16 subnow">This dowry bargaining between <span class="magenta">Silicon Valley</span> and <span class="magenta">State Governors</span> (i.e. press statements about <span class="magenta">"incentive"</span> and <span class="magenta">"pulling jobs out"</span>) is carried out on the front page, proving that:</p>
+        <p class="mt-16 subnow">This <a href="https://en.wikipedia.org/wiki/Dowry" target="_blank">dowry bargaining</a> between <span class="magenta">Silicon Valley</span> and <span class="magenta">State Governors</span> (i.e. press statements about <span class="magenta">"incentive"</span> and <span class="magenta">"pulling jobs out"</span>) is carried out on the front page, proving that:</p>
         <ul class="mt-8">
           <li>It's not bribery if you say a lot of words first.</li>
           <li>Once their ego has been threatened, Billionare Owners think nothing of sending thousands of Americans home unemployed.</li>
@@ -344,6 +344,7 @@
       >Imagine pulling out your phone only instead of addictive moving billboards you saw small-time niche content from people you know or from weird internet people who have day-jobs and so sacrifice online, making zero dollars on their art and working out of passion and love and insanity.</p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/3NnlM-WRIcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/J37Cw3IWnFM?start=593" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/xFXVLJgZoZs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p class="now mt-2 magenta">Imagine staring at something like this for 10 hours a day, instead of corporate media. Do you think you'd feel different?</p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/bdJZCaVD1bA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <img src="/live_long_lonely_nights.png" />
