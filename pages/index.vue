@@ -253,8 +253,9 @@
       >Discrediting the <span class="magenta">truth</span> as paranoid and delusional was standard pratice before you could just shout FAKE NEWS and be done. I <span class="magenta">cried</span> during Journalism class at Laney when they told <span class="magenta">Gary's</span> story, and so all the pseudo-coding money-freaks who've taken the <span class="magenta">San Francisco I knew</span> as a kid in the <span class="magenta">90s/00s</span> and turned it into a <span class="magenta">sick, heartbreaking parody</span> for the last <span class="magenta">10+ years</span> better hope I'm written off as <span class="magenta">crazy</span> because I am not going to stop talking about this, every day, all the time, <span class="magenta">from now on.</span></p>
       <img src="gary_face.png" />
       <div>
-        <p class="now">GET OFF <span class="magenta">AWS</span>, NOW.</p>
-        <p class="now">STOP STARING AT <span class="magenta">INSTAGRAM</span>. TURN IT OFF RIGHT NOW FOREVER.</p>
+        <p class="now">get off <span class="magenta">AWS</span>, now.</p>
+        <p class="now">stop killing your heart with <span class="magenta">instagram</span>. turn it off right now forever.</p>
+        <p class="now">we can <span class="magenta">build something better </span> that is <span class="magenta">open-source</span> and <span class="magenta">free</span> for <span class="magenta">everyone</span> but we have to <span class="magenta">stop giving these men our money.</span>
         <p class="subnow">
           "But I'm
           <span class="magenta">bored</span> and amazon is just
