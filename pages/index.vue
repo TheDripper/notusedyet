@@ -124,7 +124,7 @@
         <p class="mt-8"><span class="magenta">500-1000 people</span> are hard at work on a <a href="https://www.crunchbase.com/organization/jive-software" target="_blank">"product"</a> that "combines the <span class="magenta">power of community</span> software, <span class="magenta">collaboration software</span>, <span class="magenta">social networking</span> software, and <span class="magenta">social media monitoring</span> offerings into an integrated platform.", <span class="magenta">i.e.</span> everything Engelbart had in '68 (minus <span class="magenta">Big Brother</span>) and was trying to <span class="magenta">give away for free.</span></p>
         <img src="/big_brother_1.png" />
         <img src="/big_brother_2.png" />
-        <p>These "products" are so <span class="magenta">vague/redundant</span> and these "companies" (often just <span class="magenta">2-5 people w/ personal ties</span> to <span class="magenta">VC, <a href="https://about.crunchbase.com/blog/crunchbase-spotlight-014-charles-hudson/" target="_blank">Homeland Security</a></span> or <span class="magenta"><a href="https://en.wikipedia.org/wiki/Ruslan_Fazlyev" target="_blank">Foreign Diplomacy</a></span>) are so numerous, I believe they provide lovely cover for <span class="magenta">tax evasion, <a href="https://en.wikipedia.org/wiki/Money_laundering" target="_blank">money laundering</a> (human trafficking)</span>, and probably also for <a href="https://www.crunchbase.com/organization/israel-defense-forces" target="_blank">foreign entities</a> to shuttle money into the US and spread the <span class="magenta">Global Facist Surveillance State.</span></p>
+        <p>These "products" are so <span class="magenta">vague/redundant</span> and these "companies" (often just <span class="magenta">2-5 people w/ personal ties</span> to <span class="magenta">VC, <a href="https://about.crunchbase.com/blog/crunchbase-spotlight-014-charles-hudson/" target="_blank">Homeland Security</a></span> or <span class="magenta"><a href="https://en.wikipedia.org/wiki/Ruslan_Fazlyev" target="_blank">Foreign Diplomacy</a></span>) are so numerous, I believe they provide lovely cover for <span class="magenta">tax evasion, <a href="https://en.wikipedia.org/wiki/Money_laundering" target="_blank">money laundering</a> (human trafficking)</span>, and probably also for <a href="https://www.crunchbase.com/organization/israel-defense-forces" target="_blank">foreign entities</a> to shuttle money into the US and spread the <span class="magenta">Global Fascist Surveillance State.</span></p>
         <img src="/crunchbase_israel_defense_numbers.png" />
         <img src="/crunchbase_israel_defense_force.png" />
         <img src="/ruslan_fazlyev_oligarch_putin.png" />
@@ -193,7 +193,7 @@
         <ul>
           <li>selling fast ads and mass plastic</li>
           <li>instilling depression/anxiety in USA teenagers</li>
-          <li>kissing the hands of facists who are right now, in 2020, operating concentration camps.</li>
+          <li>kissing the hands of fascists who are right now, in 2020, operating concentration camps.</li>
         </ul>
         <div class="items-start">
           <img src="concentration_camps.png" />
@@ -232,7 +232,7 @@
 
         
         
-        <p>So now that we're in <span class="magenta">real</span> deep let's consider: <span class="magenta">The Washington Post,</span> a <span class="magenta">Bezos-owned</span> mouthpiece for the rich, which is currently blowing smoke in defense of facists like Trump:</p>
+        <p>So now that we're in <span class="magenta">real</span> deep let's consider: <span class="magenta">The Washington Post,</span> a <span class="magenta">Bezos-owned</span> mouthpiece for the rich, which is currently blowing smoke in defense of fascists like Trump:</p>
               <img src="/post_reddit_1.png" />
       <img src="/post_reddit_2.png" />
       <p class="subnow py-16">Trump is a <span class="magenta">proven sexual predator</span> and you'd think The Washington Post <a href="https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape" target="_blank">would know this already</a> but I guess things have changed re: payroll in the last 4 years. </p>
@@ -259,7 +259,7 @@
         <p class="subnow">
           "But I'm
           <span class="magenta">bored</span> and amazon is just
-          <span class="magenta">so easy</span>" - so is handing your life over to a <span class="magenta">facist corporatocracy</span>, one<span class="magenta"> home-delivered bag of food for your family</span> at a time.
+          <span class="magenta">so easy</span>" - so is handing your life over to a <span class="magenta">fascist corporatocracy</span>, one<span class="magenta"> home-delivered bag of food for your family</span> at a time.
         </p>
         <img src="market_share.png" />
         <img src="/run_rate.png" />
