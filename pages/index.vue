@@ -68,7 +68,7 @@
         <img src="/abstraction.png" />
         <img src="/francisco_vico_compsci_hero.png" />
         <iframe src="https://www.youtube.com/embed/-x1TFxao0oI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/1a1R9yGXvLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/InFbBlpDTfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe src="https://www.youtube.com/embed/_9aAKr58svc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <span class="magenta">abstract information</span> into a <a href="https://en.wikipedia.org/wiki/Coordinate_system" target="_blank">visual coordinate system</a> of <a href="https://en.wikipedia.org/wiki/Icon_(computing)" target="_blank">shapes and colors</a> that's easily understood by <a href="https://www.google.com/search?q=youngest+age+use+computer&rlz=1C5CHFA_enUS847US847&oq=youngest+age+use+computer&aqs=chrome..69i57.2981j0j7&sourceid=chrome&ie=UTF-8" target="_blank">children</a>? 
         <img src="/six_months_internet.png" />
