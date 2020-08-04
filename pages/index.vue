@@ -214,7 +214,7 @@
           <img src="/crunchbase_russia.png" />
           <img src="/crunchbase_russia_search.png" />
           <img src="/kaspersky_fsb.png" />
-          <p class="magenta now py-32">These men present the facade of conflict because to know they are cooperating would be too plainly dystopian to hide. They bicker for a few seconds to get it online but they are all working together for the same goal: to wield the <strong><a href="https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex">TECHNOLOGY SURVEILLANCE COMPLEX</a></strong> as an iron fist so they can rest in a luxury penthouse and take moderate doses of designer drugs while they watch the world burn under their Gucci loafers.</p>
+          <p class="magenta now py-32">These men present the facade of conflict because to know they are cooperating would be too plainly dystopian to hide. They bicker for a few seconds to get it online but they are all working together for the same goal: to wield the <strong><a href="https://en.wikipedia.org/wiki/Military%E2%80%93industrial_complex">Venture Capital Surveillance Complex</a></strong> as an iron fist so they can rest in a luxury penthouse and take moderate doses of designer drugs while they watch the world burn under their Gucci loafers.</p>
         </div>
         <img src="/mac.png" />
       </div>
