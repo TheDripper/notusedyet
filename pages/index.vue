@@ -4,6 +4,8 @@
       <p :key="index">{{ word }}</p>
     </div>-->
     <div class="container flex flex-col items-center mx-auto p-6">
+      <p class="subnow magenta">I'm trying to get all the white, male managers/team-leads in VC-funded SF tech companies to send their teams home and refuse to work until Gavin Newsom passes legislation creating a publicly-appointed CA-state Overseer/Auditor for Law Enforcement, similar to OSHA/Food Safety inspectors,  for all PD and Sheriff in California. Also Jingping must end the Uighur camps and Bolsonaro must stop burning the amazon. </p>
+      <p class="subnow magenta">To learn more, search "Tyler Hill" on LinkedIn, @hep_cat on Twitter</p>
       <h1 id="rumi" class="text-xl uppercase tracking-wide py-12 now">
         <a
           href="/rumi"
