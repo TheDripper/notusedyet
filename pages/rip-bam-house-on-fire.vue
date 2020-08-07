@@ -140,6 +140,7 @@
     <div class="slate-resizable-image-embed slate-image-embed__resize-full-width">
       <img
         alt="RICH AF"
+        class="mb-16"
         data-media-urn
         data-li-src="https://media-exp1.licdn.com/dms/image/C5612AQHlYgV23bvQOQ/article-inline_image-shrink_1500_2232/0?e=1602115200&amp;v=beta&amp;t=2qOzNYulRzYYA4Klek3hrHeP5WVhgTHHkJ0MOPcadik"
         src="/white_rich_people.png"
@@ -148,7 +149,7 @@
     <p>White professionals in Silicon Valley need to stop enabling these smiling VC thespians by pretending this economy isn't absolutely sick. Before COVID hit I was working at startup that provided dinner, and every night POC twice my age would haul big heavy racks of food up the elevator and serve me. White Liberals don't really have radar for when everybody light-skinned in the room is in a nice hip outfit and anybody a shade too dark is in a uniform with the logo of the company they work for. Whenever I'd make a comment about this I was met with total shock and silence. There was usually some appeal like "Well I'm glad for the thing Executives/Leadership said about it today at the town hall."</p>
     <p>
       What
-      <em>did</em>ELT say about BLM? This is not verbatim, but at that company, it was to the effect of: "Look, this isn't even about politics. It's just good business. Our customers want it, the team wants it, it's a win-win-win."
+      <em>did</em> ELT say about BLM? This is not verbatim, but at that company, it was to the effect of: "Look, this isn't even about politics. It's just good business. Our customers want it, the team wants it, it's a win-win-win."
     </p>
     <p>
       This is VCs answer to BLM:

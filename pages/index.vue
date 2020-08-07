@@ -1,11 +1,11 @@
 <template>
   <div id="root">
     <div class="slide middle p-6">
+      <p class="subnow">posters && #hashtags != <span class="magenta">solidarity</span></p>
       <p class=" black">
-        I'm trying to get all the
         <span
-          class="magenta"
-        >white, male managers/team-leads in VC-funded SF tech companies</span> to send their teams home and refuse to work until Gavin Newsom passes
+          class="subnow"
+        >White male <span class="magenta">software engineers</span></span> especially <span class="magenta subnow">managers and team-leads</span> for <span class="magenta">VC-funded tech companies</span> in Silicon Valley must <span class="magenta subnow">Strike Now for Black Lives</span> until Gavin Newsom passes
         <span
           class="magenta"
         >legislation creating a publicly-appointed CA-state Overseer/Auditor for Law Enforcement</span>, similar to OSHA/Food Safety inspectors, for all PD and Sheriff in California.
