@@ -97,15 +97,10 @@
       is probably cooperating with the <a href="https://www.google.com/search?q=fsb&rlz=1C5CHFA_enUS847US847&oq=fsb&aqs=chrome..69i57j46j0l6.1678j0j9&sourceid=chrome&ie=UTF-8" target="_blank">FSB</a>, no? Very hard to argue <span class="magenta">this money</span> doesn't eventually end up buying <a href="" target="_blank">Barrel Bombs for Aleppo.</a>
     </p>
     <p>
-      <em>$50M in funding for</em>
-      <strong>
-        <em>another SaaS eCommerce solution</em>
-      </strong>
-      <em>that provides "Online selling solutions for small businesses"?</em>
-      <strong>
-        <em>Sounds super legit</em>
-      </strong>
-      <em>. Even his</em>
+      $50M in funding for
+        another <a href="https://www.google.com/search?q=saas&rlz=1C5CHFA_enUS847US847&oq=saas&aqs=chrome..69i57j69i59j0l6.877j0j7&sourceid=chrome&ie=UTF-8" target="_blank">SaaS</a> <a href="https://www.google.com/search?q=shopify&rlz=1C5CHFA_enUS847US847&oq=shopify&aqs=chrome..69i57j0j69i60l2j69i61j69i65j69i60l2.2834j0j9&sourceid=chrome&ie=UTF-8" target="_blank">eCommerce solution</a> that provides "<span class="magenta">Online selling solutions for small businesses</span>"?</p>
+        <h3 class="shadow">Sounds super legit.</h3>
+      <p>Even his
       <a
         href="https://en.wikipedia.org/wiki/Ruslan_Fazlyev"
         target="_blank"
@@ -113,7 +108,7 @@
       >
         <em>Wikipedia Bio</em>
       </a>
-      <em>reads like it was written by an intern on the FSB Talent Brand team.</em>
+      <em>reads like it was written by an intern on the FSB <a href="https://www.google.com/search?q=talent+brand&rlz=1C5CHFA_enUS847US847&oq=talent+brand&aqs=chrome..69i57j0l7.2621j0j9&sourceid=chrome&ie=UTF-8" target="_blank">Talent Brand</a> team.</em>
     </p>
     <p>
       Actually
