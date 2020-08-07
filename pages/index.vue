@@ -1,6 +1,6 @@
 <template>
   <div id="root">
-    <div class="slide middle p-6">
+    <div class="slide p-6">
       <p class="subnow">posters && #hashtags != <span class="magenta">solidarity</span></p>
       <p class=" black">
         <span
