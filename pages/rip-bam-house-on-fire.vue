@@ -1,19 +1,18 @@
 <template>
   <div dir="ltr" class="reader-article-content p-12">
-    <p>I lived in Oakland for 10 years and about 1.5 of them were spent on Mead Ave. This was 2013, so the Bay Area Housing Crisis was seeing its first wave. I was getting freelance webdev jobs off craigslist by exaggerating my skills on Skype and then googling PHP syntax all night. I needed cheap rent.</p>
+    <p>I lived in Oakland for 10 years and about 1.5 of them were spent on <a href="https://www.google.com/search?q=mead+ave&rlz=1C5CHFA_enUS847US847&oq=mead+ave&aqs=chrome.0.69i59j0l5j46j0.701j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Mead Ave.</a> This was 2013, so the <a href="https://www.google.com/search?q=Bay+Area+Housing+Crisis&rlz=1C5CHFA_enUS847US847&oq=Bay+Area+Housing+Crisis&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8" target="_blank">Bay Area Housing Crisis</a> was seeing its first wave. I was getting freelance webdev jobs off <a href="https://sfbay.craigslist.org/d/web-html-info-design/search/web" target="_blank">craigslist</a> by exaggerating my skills on Skype and then googling <a href="https://www.google.com/search?q=php&rlz=1C5CHFA_enUS847US847&oq=php+&aqs=chrome..69i57j69i59l2j69i60j69i61j69i60l3.2452j0j9&sourceid=chrome&ie=UTF-8" target="_blank">PHP syntax</a> all night. I needed cheap rent.</p>
     <p>
-      At this point I was a 21 year old white kid from Burlingame, so the first time I turned the corner and parked on Mead, my adrenaline was surging. There were 2 or 3 clusters of big, tall, serious-looking black men, sitting on their porch or listening to music by their car. I got out and started looking for the address I'd found on the internet, and within a couple seconds a woman behind me shouted
-      <em>Hey!</em>
+      At this point I was a 21 year old white kid from <a href="https://www.google.com/search?q=burlingame&rlz=1C5CHFA_enUS847US847&oq=burlingame&aqs=chrome..69i57j46j0j46l4j0.943j0j9&sourceid=chrome&ie=UTF-8" target="_blank">Burlingame</a>, so the first time I turned the corner and parked on Mead, my adrenaline was surging. There were 2 or 3 clusters of big, tall, serious-looking black men, sitting on their porch or listening to <a href="https://www.youtube.com/watch?v=e2QKlmMT8II" target="_blank">music</a> by their car. I got out and started looking for the address I'd found on the internet, and within a couple seconds a woman behind me shouted <span class="magenta">Hey!</span>
     </p>
     <p>I jumped and turned around, certain that I'd pissed someone off and they wanted me to go back to my side of town.</p>
     <p>
-      <em>You're gonna get a ticket if you park there, it's street sweeping today.</em> It was an older lady in the top window of the house I'd parked in front of. I noticed the other window had a painting in it: it was a surreal and beautiful portrait of a man with long dreads. I'd later learn she'd painted it, and it was of her friend.
+      <span class="magenta">You're gonna get a ticket if you park there, it's street sweeping today.</span> It was an older lady in the top window of the house I'd parked in front of. I noticed the other window had a painting in it: it was a surreal and beautiful portrait of a man with long dreads. I'd later learn she'd painted it herself, and it was of her friend.
     </p>
-    <p>This experience of fear being met with kindness was repeated often as I came to become their neighbor. I came back that night with a bunch of boxes, it was raining, and the only parking spot was directly in front 5 big dudes, nothing but black clothes on, staring me down as I pulled up.</p>
+    <p>This experience of <span class="magenta">fear being met with kindness</span> was repeated often as I came to become their neighbor. Later that night my (ex) girlfriend and I returned with a bunch of boxes. It was raining, and the only parking spot was directly in front 5 big dudes, nothing but black clothes on, staring me down as I pulled up.</p>
     <p>
-      <em>Sorry if we're creepin' but we just gotta check out who you are...we all have adversaries, y'know?</em> One guy told me when I got out.
-      <em>You need help with these boxes?</em> The whole group started grabbing stuff and helped me and my girlfriend move it in. The first guy told me:
-      <em>don't leave anything in the car, even these empty boxes, cause people will bop the window even if it just looks like maybe something.</em> His name was Bam and he was living in a late 80s Chevy Cavalier in front of the corner store.
+      <span class="magenta">Sorry if we're creepin' but we just gotta check out who you are...<span class="bump">we all have <a href="https://www.google.com/search?q=adversaries&rlz=1C5CHFA_enUS847US847&oq=adver&aqs=chrome.0.69i59j0j69i57j0l4j69i60.7325j0j7&sourceid=chrome&ie=UTF-8" target="_blank">adversaries</a>, y'know?</span></span> one guy told me as he offered a fist bump:
+      <span class="magenta">You need <a href="https://www.google.com/search?q=sean+monterrosa&rlz=1C5CHFA_enUS847US847&oq=Sean+Monterrosa&aqs=chrome.0.0l8.357j0j4&sourceid=chrome&ie=UTF-8" target="_blank">help</a> with these boxes?</span> The whole group started grabbing stuff and helped us move in. The first guy told me:
+      <span class="magenta">don't leave anything in the car, even these empty boxes, cause people will bop the window even if it just looks like maybe something.</span> His name was Bam and he was living in a late 80s Chevy Cavalier in front of the corner store.
     </p>
     <p>
       I drove past Mead Ave when I was moving to San Francisco this last spring. After 5 years of getting told
@@ -373,3 +372,11 @@
     </p>
   </div>
 </template>
+<style scoped lang="scss">
+p {
+  font-size: 30px;
+}
+.bump {
+  font-size: 40px;
+}
+</style>
