@@ -56,7 +56,7 @@ ul {
 .blink {
   font-size: 60px;
   color: blue;
-  @apply mx-auto py-8 w-full text-center;
+  @apply mx-auto py-8 w-full;
   animation: blink-animation 2s steps(5, start) infinite;
   -webkit-animation: blink-animation 2s steps(5, start) infinite;
 }

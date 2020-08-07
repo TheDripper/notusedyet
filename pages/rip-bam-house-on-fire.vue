@@ -1,5 +1,5 @@
 <template>
-  <div dir="ltr" class="reader-article-content p-12">
+  <div dir="ltr" class="reader-article-content p-4 md:p-12">
     <p>I lived in Oakland for 10 years and about 1.5 of them were spent on <a href="https://www.google.com/search?q=mead+ave&rlz=1C5CHFA_enUS847US847&oq=mead+ave&aqs=chrome.0.69i59j0l5j46j0.701j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Mead Ave.</a> This was 2013, so the <a href="https://www.google.com/search?q=Bay+Area+Housing+Crisis&rlz=1C5CHFA_enUS847US847&oq=Bay+Area+Housing+Crisis&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8" target="_blank">Bay Area Housing Crisis</a> was seeing its first wave. I was getting freelance webdev jobs off <a href="https://sfbay.craigslist.org/d/web-html-info-design/search/web" target="_blank">craigslist</a> by exaggerating my skills on Skype and then googling <a href="https://www.google.com/search?q=php&rlz=1C5CHFA_enUS847US847&oq=php+&aqs=chrome..69i57j69i59l2j69i60j69i61j69i60l3.2452j0j9&sourceid=chrome&ie=UTF-8" target="_blank">PHP syntax</a> all night. I needed cheap rent.</p>
     <p>
       At this point I was a 21 year old white kid from <a href="https://www.google.com/search?q=burlingame&rlz=1C5CHFA_enUS847US847&oq=burlingame&aqs=chrome..69i57j46j0j46l4j0.943j0j9&sourceid=chrome&ie=UTF-8" target="_blank">Burlingame</a>, so the first time I turned the corner and parked on Mead, my adrenaline was surging. There were 2 or 3 clusters of big, tall, serious-looking black men, sitting on their porch or listening to <a href="https://www.youtube.com/watch?v=e2QKlmMT8II" target="_blank">music</a> by their car. I got out and started looking for the address I'd found on the internet, and within a couple seconds a woman behind me shouted <span class="magenta">Hey!</span>
@@ -17,21 +17,22 @@
     <p>
       I drove past Mead Ave when I was moving to San Francisco this last spring. 
       For five years, I've been getting told that the team reviewed my skills and I was not a good fit at this time, but please do subscribe to their marketing emails and follow them on Twitter. Toward the end of this marathon of failure, I was confident I <span class="magenta">had the skills</span> listed in the application, but <span class="magenta">still was denied</span>.</p>
-      <p>I believe <span class="magenta">people with degrees want to hire other people with degrees</span>. I have no degree because I <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=G9ItX7PeOMG-0PEPq4OuyAY&q=uc+berkeley+tuition+protests&oq=uc+berkeley+tuition+protests&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgIIADoICCEQFhAdEB46BQghEKABUNzvH1ji9R9g5_wfaABwAngAgAFoiAGEBZIBAzcuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjz14rajorrAhVBHzQIHauBC2kQ4dUDCAw&uact=5" target="_blank"> dropped out of UC Berkeley</a> and learned to write code from <span class="magenta">one single teacher</span> among the <a href="https://laney.edu/" target="_blank">underground heroes at Laney College.</a></p>
+      <p>I believe <span class="magenta">people with degrees want to hire other people with degrees</span>. I have no degree because I <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=G9ItX7PeOMG-0PEPq4OuyAY&q=uc+berkeley+tuition+protests&oq=uc+berkeley+tuition+protests&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgIIADoICCEQFhAdEB46BQghEKABUNzvH1ji9R9g5_wfaABwAngAgAFoiAGEBZIBAzcuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjz14rajorrAhVBHzQIHauBC2kQ4dUDCAw&uact=5" target="_blank"> dropped out of UC Berkeley</a> and learned to write code from <span class="magenta">one wise teacher</span> among the <a href="https://laney.edu/" target="_blank">underground heroes at Laney College.</a></p>
       <p class="magenta py-6">(We write code to manipulate data, provided by the user, to produce the desired output in the most efficient way. We are also lucky to live in a country where we can go to community college instead of <a href="https://www.google.com/search?q=vietnamese+refugee&rlz=1C5CHFA_enUS847US847&oq=vietnamese+refugee&aqs=chrome..69i57j0l7.8223j0j9&sourceid=chrome&ie=UTF-8" target="_blank">re-education camps.</a>)</p>
-      <p>But now in 2020, the demand for front-end development was so intense that I'd <span class="magenta">finally</span> landed a full-time gig at a serious tech company and could afford to walk to work.
+      <p>But now in 2020, the demand for front-end development was so intense that I'd <span class="magenta">finally</span> landed a full-time gig at a serious tech company and could <span class="magenta">afford to walk to work.</span>
     </p>
     <p>
-      As I turned off San Pablo, I noticed the brick wall with the Super Mario street-art, one of many owned by
+      As I turned off San Pablo, I noticed the brick wall with the Super Mario street-art, one of many <span class="magenta">units</span> owned by
       <a
         href="https://www.eastbayexpress.com/oakland/neill-sullivans-oakland/Content?oid=3879812"
         target="_blank"
         rel="nofollow noopener"
-      >Sullivan Management Company</a>, had a new message spray-painted in big radiant sunshine yellow letters: RIP BAM.
+      >Sullivan Management Company</a>, had a new message spray-painted in big radiant sunshine letters: <span class="magenta">RIP BAM.</span>
     </p>
     <div class="slate-resizable-image-embed slate-image-embed__resize-full-width">
       <img
         alt="RIP BAM"
+        title="RIP BAM"
         data-media-urn
         data-li-src="https://media-exp1.licdn.com/dms/image/C5612AQFz6CxfU4Kg7w/article-inline_image-shrink_1000_1488/0?e=1602115200&amp;v=beta&amp;t=ui6WzG7472CgXi8QascH9EAaRFwqdU-ntyyqFK4pmog"
         src="https://media-exp1.licdn.com/dms/image/C5612AQFz6CxfU4Kg7w/article-inline_image-shrink_1000_1488/0?e=1602115200&amp;v=beta&amp;t=ui6WzG7472CgXi8QascH9EAaRFwqdU-ntyyqFK4pmog"
@@ -40,14 +41,14 @@
     <p>
       <br />
     </p>
-    <p>There's a poster in the window of the apartment across the street from mine:</p>
-    <h3>BLACK VOTES MATTER.</h3>
+    <p>There's a <span class="magenta">poster in the window</span> of the apartment across the street from mine:</p>
+    <h3 class="shadow">BLACK VOTES MATTER.</h3>
     <p>
       <a
         href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B"
         target="_blank"
         rel="nofollow noopener"
-      >Princeton proved in 2014 that they don't.</a>
+      >Cambridge proved in 2014 that they don't.</a>
     </p>
     <div class="slate-resizable-image-embed slate-image-embed__resize-full-width">
       <img
@@ -58,11 +59,11 @@
       />
     </div>
     <p>
-      <strong>Please vote</strong>, don't misunderstand me: we need the written evidence of the voters' intentions, and we as a country need to notice what police and federal troops do at the polls, as this is our canary in the coal mine. (Although, a lot of people have been seeing dead birds since the Patriot Act.)
+      <span class="bump magenta">Please vote</span>, don't misunderstand me: we need <span class="magenta">written documentation</span> of the voters' intentions, and we as a country need to notice what <span class="magenta">police and federal troops</span> do at the polls, as this is our <span class="magenta">canary</span> in the coal mine. (Although, a lot of people have been seeing <span class="magenta">dead birds</span> since the <a href="https://www.google.com/search?q=patriot+act&rlz=1C5CHFA_enUS847US847&oq=patriot+act&aqs=chrome..69i57j46j0l5j46.4758j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Patriot Act</a>.)
     </p>
-    <p>But this implicit rebuttal to the BLM call illustrates the SF Tech attitude toward BLM: use cleverness and intellectualism to drown out your obvious shame at being super rich while your country literally falls apart. There's always some lengthy explanation full of high-concept words about "raising awareness". These quickly turn to nonsense as soon as you</p>
+    <p>But this <span class="magenta">implicit rebuttal to the BLM call</span> illustrates the SF Tech attitude toward BLM: use cleverness and <a href="https://www.google.com/search?q=intellectualism&rlz=1C5CHFA_enUS847US847&oq=intel&aqs=chrome.0.69i59j46j0l5j69i61.1753j0j9&sourceid=chrome&ie=UTF-8" target="_blank">intellectualism</a> to drown out your obvious <span class="magenta">shame from being <a href="https://www.google.com/search?q=average+salary+software+engineer+bay+area&rlz=1C5CHFA_enUS847US847&oq=average+salary+software&aqs=chrome.0.0j69i57j0l6.3509j0j7&sourceid=chrome&ie=UTF-8" target="_blank">super rich</a></span> while your country literally falls apart. There's always some lengthy explanation full of high-concept words about "<span class="magenta">raising awareness</span>". These quickly turn to nonsense as soon as you</p>
     <p>
-      <strong>MAXIMUM TRIGGER WARNING</strong>
+      <h3 class="shadow blink">MAXIMUM TRIGGER WARNING</h3>
     </p>
     <p>
       <a
@@ -72,7 +73,7 @@
     </p>
     <p>
       OR (
-      <strong>no violence, just as sad as it gets)</strong>
+      <strong>no violence, just <span class="magenta">as sad as it gets</span>)</strong>
     </p>
     <p>
       <a
@@ -82,7 +83,7 @@
       >look into the faces of these refugees fleeing the Syrian Civil War which is now 10 years old and is funded by men doing business with Silicon Valley VCs.</a>*
     </p>
     <p>
-      <em>*This last item will be vehemently denied with sage, shiny calm by the VC suits: they will use a lot of words. But I posit: a Russian internet millionaire with a</em>
+      <em>*This last item will be denied with sage and barely contained <a href="https://www.google.com/search?q=vehemence&rlz=1C5CHFA_enUS847US847&oq=vehemence&aqs=chrome..69i57j0l4j46l2j0.424j1j7&sourceid=chrome&ie=UTF-8" target="_blank">vehemence</a> by the VC <span class="magenta">suits</span>: they will use <span class="magenta">a lot of words</span>. But I posit: a <span class="magenta">Russian internet millionaire</span> with a</em>
       <a href="https://www.linkedin.com/in/aznakai/" target="_blank">
         <em>super sketchy linkedin</em>
       </a>
@@ -91,14 +92,9 @@
         href="https://www.crunchbase.com/organization/ecwid"
         target="_blank"
         rel="nofollow noopener"
-      >
-        <em>operating a VC-funded startup fronting as Californian but is actually based in Russia</em>
+      >founder a VC-funded startup, fronting as Californian but actually based in Russia
       </a>
-      <em>is probably cooperating with the FSB, no? Very hard to argue this money doesn't eventually end up buying</em>
-      <strong>
-        <em>Barrel Bombs for Aleppo</em>
-      </strong>
-      <em>.</em>
+      is probably cooperating with the <a href="https://www.google.com/search?q=fsb&rlz=1C5CHFA_enUS847US847&oq=fsb&aqs=chrome..69i57j46j0l6.1678j0j9&sourceid=chrome&ie=UTF-8" target="_blank">FSB</a>, no? Very hard to argue <span class="magenta">this money</span> doesn't eventually end up buying <a href="" target="_blank">Barrel Bombs for Aleppo.</a>
     </p>
     <p>
       <em>$50M in funding for</em>
@@ -377,9 +373,23 @@
 </template>
 <style scoped lang="scss">
 p {
-  font-size: 30px;
+  font-size: 20px;
+  @screen md {
+    font-size: 30px;
+  }
 }
 .bump {
   font-size: 40px;
+}
+.shadow {
+  color: white;
+  text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
+    5px -5px 0 #000;
+}
+h3 {
+  font-size: 34px;
+  @screen md {
+    font-size: 60px;
+  }
 }
 </style>
