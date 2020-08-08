@@ -4,6 +4,9 @@
       <img id="customer" class="scroll" src="/customer.jpg" />
       <img id="dayjob" src="/dayjob.jpg" />
       <img id="end" src="/end.jpg" />
+      <img id="customer" class="scroll" src="/customer.jpg" />
+      <img id="dayjob" src="/dayjob.jpg" />
+      <img id="end" src="/end.jpg" />
     </div>
     <div class="flex">
       <a
