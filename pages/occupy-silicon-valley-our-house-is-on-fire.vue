@@ -1111,3 +1111,10 @@ li {
   text-shadow: none !important;
 }
 </style>
+<script>
+export default {
+  middleware({ store, redirect }) {
+    return redirect('/occupy-venture-capital-our-house-is-on-fire')
+  }
+}
+</script>
