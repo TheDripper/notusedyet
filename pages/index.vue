@@ -21,24 +21,36 @@
         <span class="magenta">LGBTQ</span>, and Bolsonaro stops committing Genocide of
         <span class="magenta">Indigenous Peoples</span> in the Amazon so he can burn it for beef.
       </p>
-      <p class="">
+      <p class="subnow">
         No more
         <span class="magenta">unicorns.</span>
       </p>
-      <p class="">
+      <p class="subnow">
         Our
         <span class="magenta">house</span> is on
-        <span class="magenta">fire.</span>
+        <span class="magenta"><a href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=greta+thunberg&aqs=chrome..69i57j46j0l6.2564j0j7&sourceid=chrome&ie=UTF-8" target="_blank">fire.</a></span>
       </p>
-      <p class="">
+      <p>
         To learn more, search
-        <span class="magenta">@hep_cat</span> on Twitter, or read this essay:
+        <span class="magenta">@hep_cat</span> on Twitter, or <span class="magenta subnow blink">read this essay</span>:
       </p>
-      <h1 class=" text-center">
+      <h1 class="shadow text-center">
         <a
+          id="occupy_silicon_valley"
           href="/rip-bam-house-on-fire"
-        >The World is Heartbroken: Venture Capital must put Profits On Hold until we Value Human Life Again</a>
+        >White Men must Occupy Silicon Valley until we Value Human Life Again</a>
       </h1>
     </div>
   </div>
 </template>
+<style lang="scss" scoped>
+#occupy_silicon_valley {
+  color: white !important;
+  border: none !important;
+  font-size: 40px;
+  @apply uppercase;
+  @screen md {
+    font-size: 60px;
+  }
+}
+</style>

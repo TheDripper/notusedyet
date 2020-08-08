@@ -106,4 +106,10 @@ iframe {
 .middle {
   @apply flex flex-col items-center justify-center;
 }
+.shadow {
+  color: white;
+  text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
+    5px -5px 0 #000;
+  box-shadow: none !important;
+}
 </style>
