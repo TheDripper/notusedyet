@@ -1,7 +1,10 @@
 <template>
   <div dir="ltr" class="reader-article-content p-4 md:p-12">
-    <div class="flex flex-col md:flex-row">
-      </div>
+    <div id="tyler" class="flex flex-col md:flex-row">
+      <img id="customer" src="/customer.jpg" />
+      <img id="dayjob" src="/dayjob.jpg" />
+      <img id="end" src="/end.jpg" />
+    </div>
     <p>
       I lived in Oakland for 10 years and about 1.5 of them were spent on
       <a
@@ -966,5 +969,17 @@ h3 {
 }
 li {
   font-size: 40px;
+}
+#end {
+  filter: saturate(743%) hue-rotate(-56deg);
+}
+#customer {
+  filter: saturate(993%) hue-rotate(-220deg) contrast(200%);
+}
+#tyler {
+  img {
+    flex-shrink: 1;
+    width: 33%;
+  }
 }
 </style>
