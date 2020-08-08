@@ -592,10 +592,7 @@
         href="https://www.google.com/search?q=nasdaq+gains+2020&rlz=1C5CHFA_enUS847US847&oq=nasdaq+gains+2020&aqs=chrome..69i57j0.4344j1j7&sourceid=chrome&ie=UTF-8"
         target="_blank"
       >NASDAQ has continued to see record gains</a> in the face of
-      <a
-        href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=uighur+re+education+camps&spell=1&sa=X&ved=2ahUKEwjKlJaMuorrAhV3FTQIHbUqAsYQBSgAegQIDhAo&biw=1612&bih=916"
-        target="_blank"
-      >absolute tragedy</a> worldwide. This should make us all
+      <span class="magenta">absolute tragedy</span> worldwide. This should make us all
       <span class="magenta">deeply disturbed</span>. It is hard, numerical
       <span class="magenta">proof</span> that the diversity and inclusion efforts,
       <a
