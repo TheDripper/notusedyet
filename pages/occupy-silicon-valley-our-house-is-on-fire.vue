@@ -33,7 +33,11 @@
       </a>
     </div>
     <p>
-      I lived in <a href="https://www.google.com/maps/@37.8062135,-122.298747,3a,15y,64.05h,99.08t/data=!3m6!1e1!3m4!1sMi0BjyLhPrJnt_JkSS9vBg!2e0!7i16384!8i8192" target="_blank">Oakland</a> for 10 years and about 1.5 of them were spent on
+      I lived in
+      <a
+        href="https://www.google.com/maps/@37.8062135,-122.298747,3a,15y,64.05h,99.08t/data=!3m6!1e1!3m4!1sMi0BjyLhPrJnt_JkSS9vBg!2e0!7i16384!8i8192"
+        target="_blank"
+      >Oakland</a> for 10 years and about 1.5 of them were spent on
       <a
         href="https://www.google.com/search?q=mead+ave&rlz=1C5CHFA_enUS847US847&oq=mead+ave&aqs=chrome.0.69i59j0l5j46j0.701j0j7&sourceid=chrome&ie=UTF-8"
         target="_blank"
@@ -935,7 +939,7 @@
         >international partners</a>.
       </li>
     </ul>
-    <h3 class="blink shadow uppercase">No more unicorns. Our house is on fire.</h3>
+    <h3 class="blink shadow uppercase">No more unicorns. Our house is on <a id="greta_thunberg_is_fire" href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8" target="_blank">fire.</a></h3>
     <img alt="No alt text provided for this image" src="/nasdaq_fam.png" />
     <img alt="No alt text provided for this image" src="/nike_of_the_mind.png" />
     <img alt="No alt text provided for this image" src="/nasdaq.png" />
@@ -958,18 +962,78 @@
       src="https://www.youtube.com/watch?v=HXRUSqMIf2A"
     ></iframe>
     <h1 id="rumi" class="text-xl uppercase tracking-wide py-12 now">
-        <a
-          href="/rumi"
-        >Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a>
-      </h1>
-      <p
+      <a
+        href="/rumi"
+      >Don't unstring the bow. I am your four-feathered arrow that has not been used yet.</a>
+    </h1>
+    <p class="now">
+      If you've got a front-end bug you
+      <span class="magenta">just can't figure out</span> or want to know
+      <span class="magenta">how to start</span> learning code, please email me
+      <span class="magenta">ASAP</span> at
+      <span class="magenta">tylerhillwebdev@gmail.com</span> and I will give you whatever time and knowledge that I can,
+      <span class="magenta">free of charge.</span>
+    </p>
+    <p class="subnow">
+      The
+      <span class="magenta">full editing history of this document</span> is publicly available on
+      <a href="https://github.com/TheDripper/notusedyet" target="_blank">this Git</a> and will continue to be
+      <span class="magenta">
+        logged there in real-time, as published, through
+        <a href="https://en.wikipedia.org/wiki/Version_control" target="_blank">version control.</a>
+      </span> Any reproductions of this essay found on another
+      <a href="https://en.wikipedia.org/wiki/Domain_name" target="_blank">domain</a> with edits not reflected in the commit history at
+      <a
+        href="https://github.com/TheDripper/notusedyet"
+        target="_blank"
+      >https://github.com/TheDripper/notusedyet</a> are
+      <span class="now magenta blink">fake</span> and the
+      <span class="magenta">publisher/host</span> should be aggressively
+      <span class="magenta">(non-violently)</span> questioned as to their
+      <span class="magenta">source</span> of the data and their
+      <span class="magenta">relation to me.</span>
+    </p>
+    <p class="subnow">
+      That said,
+      <span class="now magenta">please contribute info</span>, screenshots, files, /etc
+      <span class="magenta">#!</span> If I got something wrong here, it was a
+      <span class="magenta">genuine</span> mistake and please do correct me with
+      <span class="magenta">evidence</span> I can
+      <span class="magenta">validate</span>. If you have publicly sourced information that
+      <span class="magenta">all users can validate themselves on their machine</span>,
+      <a
+        href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request"
+        target="_blank"
+      >open a pull request</a> and
+      <span class="magenta">we can all check it out</span> before it's
+      <a
+        href="https://stackoverflow.com/questions/5601931/what-is-the-best-and-safest-way-to-merge-a-git-branch-into-master"
+        target="_blank"
+      >merged into master.</a>
+    </p>
+    <p class="subnow">
+      If you are inspired to
+      <a
+        href="https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository"
         class="now"
-      >If you've got a front-end bug you <span class="magenta">just can't figure out</span> or want to know <span class="magenta">how to start</span> learning code, please email me <span class="magenta">ASAP</span> at <span class="magenta">tylerhillwebdev@gmail.com</span> and I will give you whatever time and knowledge that I can, <span class="magenta">free of charge.</span></p>
-      <p class="subnow">The <span class="magenta">full editing history of this document</span> is publicly available on <a href="https://github.com/TheDripper/notusedyet" target="_blank">this Git</a> and will continue to be <span class="magenta">logged there in real-time, as published, through <a href="https://en.wikipedia.org/wiki/Version_control" target="_blank">version control.</a></span> Any reproductions of this essay found on another <a href="https://en.wikipedia.org/wiki/Domain_name" target="_blank">domain</a> with edits not reflected in the commit history at <a href="https://github.com/TheDripper/notusedyet" target="_blank">https://github.com/TheDripper/notusedyet</a> are <span class="now magenta blink">fake</span> and the <span class="magenta">publisher/host</span> should be aggressively <span class="magenta">(non-violently)</span> questioned as to their <span class="magenta">source</span> of the data and their <span class="magenta">relation to me.</span></span></p>
-      <p class="subnow">That said, <span class="now magenta">please contribute info</span>, screenshots, files, /etc<span class="magenta">#!</span> If I got something wrong here, it was a <span class="magenta">genuine</span> mistake and please do correct me with <span class="magenta">evidence</span> I can <span class="magenta">validate</span>. If you have publicly sourced information that <span class="magenta">all users can validate themselves on their machine</span>, <a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request" target="_blank">open a pull request</a> and <span class="magenta">we can all check it out</span> before it's <a href="https://stackoverflow.com/questions/5601931/what-is-the-best-and-safest-way-to-merge-a-git-branch-into-master" target="_blank">merged into master.</a></p>
-      <p class="subnow">If you are inspired to <a href="https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository" class="now">clone this git</a></span> onto your own server to prevent <span class="magenta">corporate thought-control (via denial of <a href="https://en.wikipedia.org/wiki/Internet_service_provider">ISP</a> or <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS/Hosting services</a>): </span>Thank You! However,</p>
-       <p class="now">You are compelled by the <span class="magenta">human honor of your name and word</span> to begin the article/page with this preamble and <span class="magenta">link back to the git.</span></p>
-      <p class="subnow">If you <span class="magenta">(intentionally)</span> fail to do so, the <span class="magenta">value of your word</span> is <span class="magenta">lost forever</span> in this realm.</p>
+      >clone this git</a> onto your own server to prevent
+      <span class="magenta">
+        corporate thought-control (via denial of
+        <a href="https://en.wikipedia.org/wiki/Internet_service_provider">ISP</a> or
+        <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS/Hosting services</a>):
+      </span>Thank You! However,
+    </p>
+    <p class="now">
+      You are compelled by the
+      <span class="magenta">human honor of your name and word</span> to begin the article/page with this preamble and
+      <span class="magenta">link back to the git.</span>
+    </p>
+    <p class="subnow">
+      If you
+      <span class="magenta">(intentionally)</span> fail to do so, the
+      <span class="magenta">value of your word</span> is
+      <span class="magenta">lost forever</span> in this realm.
+    </p>
   </div>
 </template>
 <style scoped lang="scss">
@@ -1041,5 +1105,11 @@ li {
 }
 #big_brother_new_season {
   height: 11vw;
+}
+#greta_thunberg_is_fire {
+  color: magenta !important;
+  border: none !important;
+  text-decoration: none !important;
+  text-shadow: none !important;
 }
 </style>
