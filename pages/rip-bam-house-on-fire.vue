@@ -140,7 +140,7 @@
     </p>
     <p>
       This <a href="https://www.globenewswire.com/news-release/2020/08/03/2071670/0/en/Top-Tech-Companies-Join-Forces-to-Push-for-Diversity-and-Inclusion-at-Vendor-Organizations.html" target="_blank">farce of concern from VC Unicorns</a> is one of the reasons I'm so bitter and high-strung all the time. I've actually lost friendships because people get tired of hearing me rant. I'll hear McConnell say about 5 words and I'm tweaking the whole night; I can
-      <em>feel</em>that voice. This is not just some Story on the Feed for me. It is a constant droning agony in my heart that makes me want to punch windows.
+      <span class="magenta">feel</span> that <a href="https://www.c-span.org/video/?472810-2/senator-mcconnell-protests-us" target="_blank">voice</a>. This is not just some Story on the Feed for me. It is a constant droning agony in my heart that makes me want to punch windows.
     </p>
     <p>We had shootings a lot on Mead, usually nobody hits anything. But when they do, you can tell: everything is totally still and silent, because whoever was outside is dead. This lasts for a few seconds before the tires peel out, then each porches' front door opening and each neighbor looking down to see the 2 bodies on the corner by the Boys &amp; Girls club, totally still. We are making an excruciating and familiar procession to keep watch until OPD throws up the tape.</p>
     <p>This might have been just another bad night, blurred impossibly with all the others.</p>
