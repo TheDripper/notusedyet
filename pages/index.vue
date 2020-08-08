@@ -38,7 +38,7 @@
         <a
           id="occupy_silicon_valley"
           href="/rip-bam-house-on-fire"
-        >White Men must Occupy Silicon Valley until we Value Human Life Again</a>
+        >White Men must Occupy Silicon Valley to prove Black Lives Matter</a>
       </h1>
     </div>
   </div>

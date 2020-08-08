@@ -1,5 +1,7 @@
 <template>
   <div dir="ltr" class="reader-article-content p-4 md:p-12">
+    <div class="flex flex-col md:flex-row">
+      </div>
     <p>
       I lived in Oakland for 10 years and about 1.5 of them were spent on
       <a
