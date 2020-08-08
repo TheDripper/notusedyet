@@ -1,6 +1,6 @@
 <template>
   <div dir="ltr" class="reader-article-content p-4 md:p-12">
-    <div id="tyler" class="flex">
+    <div id="tyler" class="flex" style="background-image:url(/dayjob.jpg);">
       <img id="customer" class="scroll" src="/customer.jpg" />
       <img id="dayjob" src="/dayjob.jpg" />
       <img id="end" src="/end.jpg" />
@@ -8,7 +8,7 @@
       <img id="dayjob" src="/dayjob.jpg" />
       <img id="end" src="/end.jpg" />
     </div>
-    <div class="flex">
+    <div id="social_commerce_surveillance" class="flex">
       <a
         id="linkedin_logo_oligarchy"
         href="https://www.linkedin.com/in/tyler-hill-liberate-the-internet/"
@@ -18,6 +18,18 @@
       </a>
       <a id="twitter_logo_oligarchy" href="https://twitter.com/Hep_Cat" target="_blank">
         <div style="background-image:url(/twitter_logo_oligarchy.png);"></div>
+      </a>
+    </div>
+    <div id="big_brother_new_season" class="flex mb-12">
+      <a id="twitter_logo_oligarchy" href="https://twitter.com/Hep_Cat" target="_blank">
+        <div style="background-image:url(/twitter_logo_oligarchy.png);"></div>
+      </a>
+      <a
+        id="linkedin_logo_oligarchy"
+        href="https://www.linkedin.com/in/tyler-hill-liberate-the-internet/"
+        target="_blank"
+      >
+        <div style="background-image:url(/linkedin_logo_oligarchy.jpg);"></div>
       </a>
     </div>
     <p>
@@ -993,7 +1005,8 @@ li {
 }
 #tyler {
   max-width: 100%;
-  overflow-y: scroll;
+  overflow: hidden;
+  background-size: 25vw;
   @screen md {
     img {
       width: 33%;
@@ -1008,7 +1021,7 @@ li {
   div {
     background-size: 22vw;
     width: 50vw;
-    height: 44vw;
+    height: 100%;
   }
 }
 #twitter_logo_oligarchy {
@@ -1017,9 +1030,16 @@ li {
   div {
     background-size: 22vw;
     width: 50vw;
-    height: 44vw;
+    height: 100%;
   }
-  filter: saturate(1093%) hue-rotate(-1300deg) contrast(229%) invert(120%) brightness(10.5);
+  filter: saturate(1093%) hue-rotate(-1300deg) contrast(229%) invert(120%)
+    brightness(10.5);
   border: none !important;
+}
+#social_commerce_surveillance {
+  height: 11vw;
+}
+#big_brother_new_season {
+  height: 11vw;
 }
 </style>

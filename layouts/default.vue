@@ -61,7 +61,7 @@ ul {
   -webkit-animation: blink-animation 2s steps(5, start) infinite;
 }
 .scroll {
-  animation: scroll 5s linear infinite;
+  animation: scroll 5s steps(5, start) infinite;
 }
 @keyframes scroll {
   to {
