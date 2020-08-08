@@ -33,7 +33,7 @@
       </a>
     </div>
     <p>
-      I lived in Oakland for 10 years and about 1.5 of them were spent on
+      I lived in <a href="https://www.google.com/maps/@37.8062135,-122.298747,3a,15y,64.05h,99.08t/data=!3m6!1e1!3m4!1sMi0BjyLhPrJnt_JkSS9vBg!2e0!7i16384!8i8192" target="_blank">Oakland</a> for 10 years and about 1.5 of them were spent on
       <a
         href="https://www.google.com/search?q=mead+ave&rlz=1C5CHFA_enUS847US847&oq=mead+ave&aqs=chrome.0.69i59j0l5j46j0.701j0j7&sourceid=chrome&ie=UTF-8"
         target="_blank"
