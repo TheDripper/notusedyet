@@ -166,30 +166,10 @@
       This is Silicon Valley's answer to BLM:
       <span class="magenta bump">Thank God black rights are #trending right now so we can be on the right side of history while our <a href="https://www.google.com/search?q=TAM&rlz=1C5CHFA_enUS847US847&oq=TAM&aqs=chrome.0.69i59j46j0j46j0j46j0.584j0j9&sourceid=chrome&ie=UTF-8" target="_blank">TAM</a> remains unscathed.</span>
     </p>
-    <p><a href="https://www.google.com/search?q=nasdaq+gains+2020&rlz=1C5CHFA_enUS847US847&oq=nasdaq+gains+2020&aqs=chrome..69i57j0.4344j1j7&sourceid=chrome&ie=UTF-8" target="_blank">NASDAQ has continued to see record gains</a> in the face of <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=uighur+re+education+camps&spell=1&sa=X&ved=2ahUKEwjKlJaMuorrAhV3FTQIHbUqAsYQBSgAegQIDhAo&biw=1612&bih=916" target="_blank">absolute tragedy</a> worldwide. This should make us all <span class="magenta">deeply disturbed</span>. It is hard, numerical <span class="magenta">proof</span> that the diversity and inclusion efforts, <a href="https://www.globenewswire.com/news-release/2020/08/03/2071670/0/en/Top-Tech-Companies-Join-Forces-to-Push-for-Diversity-and-Inclusion-at-Vendor-Organizations.html" target="_blank">so proudly broadcast</a> by sf bay area tech startups, are <a href="https://www.google.com/search?q=tokenism&rlz=1C5CHFA_enUS847US847&oq=token&aqs=chrome.0.69i59j46j0j46j0l2j69i60l2.3049j0j7&sourceid=chrome&ie=UTF-8" target="_blank">tokenism</a>: <span class="magenta">nobody has any intention of losing a single dollar about this. If anything, they are plotting how to <a href="https://hbr.org/2008/04/managing-hypergrowth" target="_blank">leverage this against competitors</a>.</span></p>
+    <p><a href="https://www.google.com/search?q=nasdaq+gains+2020&rlz=1C5CHFA_enUS847US847&oq=nasdaq+gains+2020&aqs=chrome..69i57j0.4344j1j7&sourceid=chrome&ie=UTF-8" target="_blank">NASDAQ has continued to see record gains</a> in the face of <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=uighur+re+education+camps&spell=1&sa=X&ved=2ahUKEwjKlJaMuorrAhV3FTQIHbUqAsYQBSgAegQIDhAo&biw=1612&bih=916" target="_blank">absolute tragedy</a> worldwide. This should make us all <span class="magenta">deeply disturbed</span>. It is hard, numerical <span class="magenta">proof</span> that the diversity and inclusion efforts, <a href="https://www.globenewswire.com/news-release/2020/08/03/2071670/0/en/Top-Tech-Companies-Join-Forces-to-Push-for-Diversity-and-Inclusion-at-Vendor-Organizations.html" target="_blank">so proudly broadcast</a> by sf bay area tech startups, are <a href="https://www.google.com/search?q=tokenism&rlz=1C5CHFA_enUS847US847&oq=token&aqs=chrome.0.69i59j46j0j46j0l2j69i60l2.3049j0j7&sourceid=chrome&ie=UTF-8" target="_blank">tokenism</a>: <span class="magenta">nobody has any intention of losing a single dollar about this. If anything, they are plotting how to <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=FgEuX92VNODM0PEPz4WI8A4&q=hyper+growth+market+share&oq=hyper+growth+market+share&gs_lcp=CgZwc3ktYWIQA1C4hAFYuIQBYKiMAWgAcAB4AIABU4gBpAGSAQEymAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjd-PvAu4rrAhVgJjQIHc8CAu4Q4dUDCAw&uact=5" target="_blank">leverage this against competitors</a>.</span></p>
     <p>
-      This pathological blood-thirst for money is further evidenced by their continued willingness to do billion-dollar-business with Russia and China.
-      <em>Yes it's true that</em>
-      <strong>
-        <em>Concentration Camps</em>
-      </strong>
-      <em>for</em>
-      <strong>
-        <em>Religious Minorities</em>
-      </strong>
-      <em>are the</em>
-      <strong>
-        <em>antithesis of our country's battle cry</em>
-      </strong>
-      <em>, but why</em>
-      <strong>
-        <em>shouldn't</em>
-      </strong>
-      <em>we still make</em>
-      <strong>
-        <em>billions of USD per quarter</em>
-      </strong>
-      <em>?</em>
+      This <span class="magenta">pathological blood-thirst for money</span> is further evidenced by their continued willingness to do billion-dollar-business with <a href="https://www.crunchbase.com/organization/kaspersky-lab" target="_blank">Russia</a> and <a href="https://www.google.com/search?q=tik+tok&rlz=1C5CHFA_enUS847US847&oq=tik+tok&aqs=chrome..69i57j0l6j5.1239j0j7&sourceid=chrome&ie=UTF-8" target="_blank">China</a>.</p>
+      <p>Yes it's true that Concentration Camps are <a href="https://www.google.com/search?q=liberation+of+auschwitz&rlz=1C5CHFA_enUS847US847&oq=liberation+of+&aqs=chrome.2.69i57j0l7.4791j0j9&sourceid=chrome&ie=UTF-8" target="_blank">literally</a> the <a href="https://www.google.com/search?q=antithesis&rlz=1C5CHFA_enUS847US847&oq=antithesis&aqs=chrome..69i57j0l7.1440j0j9&sourceid=chrome&ie=UTF-8" target="_blank">antithesis</a> of the USA</p>
     </p>
     <p>
       Meanwhile people like Sheryl Sandberg,
