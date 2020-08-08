@@ -1,9 +1,21 @@
 <template>
   <div dir="ltr" class="reader-article-content p-4 md:p-12">
-    <div id="tyler" class="flex flex-col md:flex-row">
-      <img id="customer" src="/customer.jpg" />
+    <div id="tyler" class="flex">
+      <img id="customer" class="scroll" src="/customer.jpg" />
       <img id="dayjob" src="/dayjob.jpg" />
       <img id="end" src="/end.jpg" />
+    </div>
+    <div class="flex">
+      <a
+        id="linkedin_logo_oligarchy"
+        href="https://www.linkedin.com/in/tyler-hill-liberate-the-internet/"
+        target="_blank"
+      >
+        <div style="background-image:url(/linkedin_logo_oligarchy.jpg);"></div>
+      </a>
+      <a id="twitter_logo_oligarchy" href="https://twitter.com/Hep_Cat" target="_blank">
+        <div style="background-image:url(/twitter_logo_oligarchy.png);"></div>
+      </a>
     </div>
     <p>
       I lived in Oakland for 10 years and about 1.5 of them were spent on
@@ -909,9 +921,9 @@
       </li>
     </ul>
     <h3 class="blink shadow uppercase">No more unicorns. Our house is on fire.</h3>
-      <img alt="No alt text provided for this image" src="/nasdaq_fam.png" />
-      <img alt="No alt text provided for this image" src="/nike_of_the_mind.png" />
-      <img alt="No alt text provided for this image" src="/nasdaq.png" />
+    <img alt="No alt text provided for this image" src="/nasdaq_fam.png" />
+    <img alt="No alt text provided for this image" src="/nike_of_the_mind.png" />
+    <img alt="No alt text provided for this image" src="/nasdaq.png" />
     <iframe
       class="center"
       frameborder="0"
@@ -977,9 +989,34 @@ li {
   filter: saturate(993%) hue-rotate(-220deg) contrast(200%);
 }
 #tyler {
-  img {
-    flex-shrink: 1;
-    width: 33%;
+  max-width: 100%;
+  overflow-y: scroll;
+  @screen md {
+    img {
+      width: 33%;
+    }
   }
+}
+#linkedin_logo_oligarchy {
+  transform: rotate(180deg);
+  filter: saturate(993%) hue-rotate(-220deg) contrast(200%);
+  border: none !important;
+  padding: 0 !important;
+  div {
+    background-size: 22vw;
+    width: 50vw;
+    height: 44vw;
+  }
+}
+#twitter_logo_oligarchy {
+  transform: rotate(180deg);
+  padding: 0 !important;
+  div {
+    background-size: 22vw;
+    width: 50vw;
+    height: 44vw;
+  }
+  filter: saturate(1093%) hue-rotate(-1300deg) contrast(229%) invert(120%) brightness(10.5);
+  border: none !important;
 }
 </style>

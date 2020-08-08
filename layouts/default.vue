@@ -60,6 +60,14 @@ ul {
   animation: blink-animation 2s steps(5, start) infinite;
   -webkit-animation: blink-animation 2s steps(5, start) infinite;
 }
+.scroll {
+  animation: scroll 5s linear infinite;
+}
+@keyframes scroll {
+  to {
+    margin-left: -700px;
+  }
+}
 @keyframes blink-animation {
   to {
     visibility: hidden;
@@ -82,7 +90,7 @@ a {
   text-decoration: underline;
   color: blue;
   @apply p-2;
-  border: 2px solid #6ec36e;
+  border: 2px solid #00ff00;
 }
 .container {
   max-width: 100%;
