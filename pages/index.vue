@@ -117,14 +117,14 @@
         >Nia Wilson</a>
       </h3>
       <span class="magenta">and now</span>
-      <a
+      <h3><a
         href="https://www.google.com/search?q=breonna+taylor&rlz=1C5CHFA_enUS847US847&oq=breonna+taylor&aqs=chrome.0.69i59j0l5j69i60l2.3679j0j9&sourceid=chrome&ie=UTF-8"
         target="_blank"
-      >Breonna Taylor</a>
-      <a
+      >Breonna Taylor</a></h3>
+      <h3><a
         href="https://www.google.com/search?q=george+floyd&rlz=1C5CHFA_enUS847US847&oq=george+floyd&aqs=chrome..69i57j46j0l5j69i60.3212j0j9&sourceid=chrome&ie=UTF-8"
         target="_blank"
-      >George Floyd</a>
+      >George Floyd</a></h3>
       and the
       <a
         href="https://www.chicagotribune.com/news/breaking/ct-overnight-shootings-05272020-20200527-ehwgqp6qxjg6hb3declx7mnyji-story.html"
