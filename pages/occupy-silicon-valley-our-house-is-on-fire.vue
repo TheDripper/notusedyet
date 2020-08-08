@@ -508,7 +508,8 @@
         target="_blank"
       >Marvin Gaye</a> to
       <a href="https://www.youtube.com/watch?v=PivWY9wn5ps" target="_blank">Michael Jackson</a> to
-      <a href="https://www.youtube.com/watch?v=_JZom_gVfuw" target="_blank">Biggie</a>. On Friday night, we'd just wander between
+      <a href="https://www.youtube.com/watch?v=_JZom_gVfuw" target="_blank">Biggie</a>.</p>
+      <p><span class="magenta">The block was always spotless</span>, because Edgar, who was a <span class="magenta">veteran</span> like Darrel's <span class="magenta">brother</span> across the street, picked up trash and swept every morning. On Friday night, we'd just wander between
       <span class="magenta">peoples</span> porches and yards and play
       <a
         href="https://www.youtube.com/results?search_query=good+kid+maad+city"
