@@ -73,7 +73,7 @@
     </p>
     <p>
       OR (
-      <strong>no violence, just <span class="magenta">as sad as it gets</span>)</strong>
+      no violence, just <span class="magenta">as sad as it gets</span>)
     </p>
     <p>
       <a
@@ -169,7 +169,7 @@
     <p><a href="https://www.google.com/search?q=nasdaq+gains+2020&rlz=1C5CHFA_enUS847US847&oq=nasdaq+gains+2020&aqs=chrome..69i57j0.4344j1j7&sourceid=chrome&ie=UTF-8" target="_blank">NASDAQ has continued to see record gains</a> in the face of <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=uighur+re+education+camps&spell=1&sa=X&ved=2ahUKEwjKlJaMuorrAhV3FTQIHbUqAsYQBSgAegQIDhAo&biw=1612&bih=916" target="_blank">absolute tragedy</a> worldwide. This should make us all <span class="magenta">deeply disturbed</span>. It is hard, numerical <span class="magenta">proof</span> that the diversity and inclusion efforts, <a href="https://www.globenewswire.com/news-release/2020/08/03/2071670/0/en/Top-Tech-Companies-Join-Forces-to-Push-for-Diversity-and-Inclusion-at-Vendor-Organizations.html" target="_blank">so proudly broadcast</a> by sf bay area tech startups, are <a href="https://www.google.com/search?q=tokenism&rlz=1C5CHFA_enUS847US847&oq=token&aqs=chrome.0.69i59j46j0j46j0l2j69i60l2.3049j0j7&sourceid=chrome&ie=UTF-8" target="_blank">tokenism</a>: <span class="magenta">nobody has any intention of losing a single dollar about this. If anything, they are plotting how to <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=FgEuX92VNODM0PEPz4WI8A4&q=hyper+growth+market+share&oq=hyper+growth+market+share&gs_lcp=CgZwc3ktYWIQA1C4hAFYuIQBYKiMAWgAcAB4AIABU4gBpAGSAQEymAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjd-PvAu4rrAhVgJjQIHc8CAu4Q4dUDCAw&uact=5" target="_blank">leverage this against competitors</a>.</span></p>
     <p>
       This <span class="magenta">pathological blood-thirst for money</span> is further evidenced by their continued willingness to do billion-dollar-business with <a href="https://www.crunchbase.com/organization/kaspersky-lab" target="_blank">Russia</a> and <a href="https://www.google.com/search?q=tik+tok&rlz=1C5CHFA_enUS847US847&oq=tik+tok&aqs=chrome..69i57j0l6j5.1239j0j7&sourceid=chrome&ie=UTF-8" target="_blank">China</a>.</p>
-      <p>Yes it's true that Concentration Camps are <a href="https://www.google.com/search?q=liberation+of+auschwitz&rlz=1C5CHFA_enUS847US847&oq=liberation+of+&aqs=chrome.2.69i57j0l7.4791j0j9&sourceid=chrome&ie=UTF-8" target="_blank">literally</a> the <a href="https://www.google.com/search?q=antithesis&rlz=1C5CHFA_enUS847US847&oq=antithesis&aqs=chrome..69i57j0l7.1440j0j9&sourceid=chrome&ie=UTF-8" target="_blank">antithesis</a> of the USA</p>
+      <p>Yes it's true that <a href="https://www.google.com/search?q=uighur+re+education+camps&rlz=1C5CHFA_enUS847US847&oq=u&aqs=chrome.0.69i59l3j69i60l4j69i65.2237j0j9&sourceid=chrome&ie=UTF-8" target="_blank">Concentration Camps</a> are <a href="https://www.google.com/search?q=liberation+of+auschwitz&rlz=1C5CHFA_enUS847US847&oq=liberation+of+&aqs=chrome.2.69i57j0l7.4791j0j9&sourceid=chrome&ie=UTF-8" target="_blank">literally</a> the <a href="https://www.google.com/search?q=antithesis&rlz=1C5CHFA_enUS847US847&oq=antithesis&aqs=chrome..69i57j0l7.1440j0j9&sourceid=chrome&ie=UTF-8" target="_blank">antithesis</a> of the USA, but we <a href="https://www.google.com/search?q=revenue+cycle+management&rlz=1C5CHFA_enUS847US847&oq=revenue+cycle+manage&aqs=chrome.0.0l2j69i57j0l5.2215j1j9&sourceid=chrome&ie=UTF-8" target="_blank">already forecasted our revenue for the fiscal year</a> and we can't bring it down because <a href="https://www.google.com/search?q=hyperscale+spending&rlz=1C5CHFA_enUS847US847&oq=spending+hype&aqs=chrome.1.69i57j0l2.10675j1j9&sourceid=chrome&ie=UTF-8" target="_blank">the money is already spent.</a></p>
     </p>
     <p>
       Meanwhile people like Sheryl Sandberg,
@@ -177,131 +177,131 @@
         href="https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html"
         target="_blank"
         rel="nofollow noopener"
-      >who please recall sold the 2016 election to Putin to maintain #hypergrowth and is a big part of why Trump is president</a>, are struggling to read cue-cards about resilience from underneath the pile of money that is falling from the sky.
+      >who please recall sold the 2016 election to Putin to maintain #hypergrowth and is a big part of why Trump is president</a>, are struggling to read cue-cards about <span class="magenta">resilience</span> from underneath the <span class="magenta">pile of money</span> that has fallen from the sky.
     </p>
-    <p>I am 100% deadass about the following.</p>
-    <h2>
-      <strong>posters &amp;&amp; #hashtags != solidarity.</strong>
-    </h2>
-    <h2>White male software engineers in Silicon Valley must strike now for black lives.</h2>
+    <p>I am 100% <a href="https://www.google.com/search?q=deadass&rlz=1C5CHFA_enUS847US847&oq=deadass&aqs=chrome.0.69i59j0l7.968j0j9&sourceid=chrome&ie=UTF-8" target="_blank">deadass</a> about the following.</p>
+    <h3 class="shadow uppercase blink">
+      posters &amp;&amp; #hashtags != solidarity.
+    </h3>
+    <p class="bump"><span class="magenta">White male</span> software engineers in <span class="magenta">Silicon Valley</span> must strike now for <span class="magenta">black lives</span>.</p>
     <p>
-      <strong>No more OKRs, no more Zoom/Slack/Jira/Asana/Airtable/Workday/Carta.</strong>Tell anyone working around you that
-      <strong>Black Lives Matter</strong>and to
-      <strong>log out of work</strong> until Gavin Newsom and CA Assembly/Senate pass legislation creating a
-      <strong>publicly-appointed Overseer/Auditor for Law Enforcement</strong>, similar to OSHA/Food Safety inspectors. All PD / Sheriffs in the State of CA would be required to submit an annual report, covering shooting deaths, excessive force complaints, etc. The Overseer and a small staff would then
-      <strong>audit these reports and surface any issues</strong> to the Assembly, the Senate, and the Governor.
+      No more <a href="https://www.google.com/search?q=okr&rlz=1C5CHFA_enUS847US847&oq=okr&aqs=chrome.0.0j46j0l5.687j0j7&sourceid=chrome&ie=UTF-8" target="_blank">OKRs</a>, no more <a href="https://www.google.com/search?q=saas+startup+financial+model&rlz=1C5CHFA_enUS847US847&oq=saas+startup&aqs=chrome.2.69i57j0l7.6242j0j9&sourceid=chrome&ie=UTF-8" target="_blank">Zoom / Slack / Jira / Asana / Airtable / Workday / Carta</a>.Tell <span class="magenta">anyone working around you</span> that
+      <span class="magenta bump">Black Lives Matter</span> and to
+      <span class="magenta">log out of work</span> until <span class="magenta bump"><a href="https://govapps.gov.ca.gov/gov40mail/" target="_blank">Gavin Newsom</a> and <a href="http://findyourrep.legislature.ca.gov/" target="_blank">CA Assembly/Senate</a> pass legislation creating a
+      publicly-appointed Overseer/Auditor for Law Enforcement</span>, similar to <a href="https://www.google.com/search?q=osha&rlz=1C5CHFA_enUS847US847&oq=osha&aqs=chrome.0.69i59l2j46j0l4.1721j0j4&sourceid=chrome&ie=UTF-8" target="_blank">OSHA</a>/ <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=yQcuX9TjD7vB0PEP65mF0Ag&q=ca+state+food+safety&oq=ca+state+food+safety&gs_lcp=CgZwc3ktYWIQAzIECAAQHjoECAAQRzoECAAQDToGCAAQBxAeOggIABAIEAcQHjoICAAQBxAFEB5QqzxY_z1g_T5oAHABeACAAVeIAfEBkgEBM5gBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiU7LrywYrrAhW7IDQIHetMAYoQ4dUDCAw&uact=5" target="_blank">Food Safety</a> inspectors. All PD / Sheriffs in the State of CA would be required to submit an annual report, covering <a href="https://mappingpoliceviolence.org/" target="_blank">shooting deaths</a>, <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=OQguX7HREeTI0PEP2LOsuAY&q=excessive+force+statistics&oq=excessive+force&gs_lcp=CgZwc3ktYWIQAxgBMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHUABYAGC_LGgAcAF4AIABAIgBAJIBAJgBAKoBB2d3cy13aXrAAQE&sclient=psy-ab" target="_blank">excessive force complaints</a>, etc. The Overseer and a <span class="magenta">small</span> staff would then
+      <a href="https://www.google.com/search?q=audit&rlz=1C5CHFA_enUS847US847&oq=audit&aqs=chrome..69i57j46j0l3j46j69i60j69i61.867j0j9&sourceid=chrome&ie=UTF-8" target="_blank">audit</a> these reports and <span class="magenta">surface any issues</span> to the State Assembly, the State Senate, and the Governor.
     </p>
     <p>
-      If you are a manager, tell your team to direct any questions from leadership to you, and stop assigning tasks. Make sure ELT knows you are a true leader, and that
-      <strong>their beef is with you.</strong>
+      If you are a <a href="https://www.google.com/search?q=diversity+managers+silicon+valley&rlz=1C5CHFA_enUS847US847&oq=diversity+managers+silicon+valley&aqs=chrome..69i57j33.3733j1j7&sourceid=chrome&ie=UTF-8" target="_blank">manager</a>, tell your team to <span class="magenta">direct any questions from leadership to you</span>, and stop assigning tasks. Make sure ELT knows you are a true leader, and that
+      <span class="magenta">their beef is with you</span>.
     </p>
     <p>
       Millions of people around
-      <strong>the world will</strong>
-      <strong>have your back.</strong>
+      <span class="magenta bump">the world will
+      have your back.</span>
     </p>
     <p>
       POC need
-      <strong>real proof from the white professional community</strong> that
-      <strong>we stand in solidarity with the BLM protests,</strong>and we never stop thinking about
-      <strong>Oscar Grant, Michael Brown, Eric Garner, Sandra Bland, Walter Scott, Philando Castile, Nia Wilson</strong>, and now
-      <strong>Breonna Taylor, George Floyd</strong>, and the hundreds of
-      <strong>sisters</strong> and
-      <strong>brothers</strong> and
-      <strong>cousins</strong> that continue to be taken by violence year after year,
-      <strong>decade after decade,</strong> without a headline or a protest.
+      real proof from the white professional community that
+      we stand in solidarity with the BLM protests,and we never stop thinking about
+      Oscar Grant, Michael Brown, Eric Garner, Sandra Bland, Walter Scott, Philando Castile, Nia Wilson, and now
+      Breonna Taylor, George Floyd, and the hundreds of
+      sisters and
+      brothers and
+      cousins that continue to be taken by violence year after year,
+      decade after decade, without a headline or a protest.
     </p>
     <p>
-      <strong>Work will also remain halted for any company that can be traced to Venture Capital in:</strong>
+      Work will also remain halted for any company that can be traced to Venture Capital in:
     </p>
     <ul>
       <li>
-        <strong>China</strong>
+        China
       </li>
       <li>
-        <strong>Russia</strong>
+        Russia
       </li>
       <li>
-        <strong>Poland</strong>
+        Poland
       </li>
       <li>
-        <strong>Brazil</strong>
+        Brazil
       </li>
       <li>
-        <strong>Saudi</strong>
+        Saudi
       </li>
     </ul>
     <h3>
-      <strong>UNTIL</strong>
+      UNTIL
     </h3>
     <ul>
       <li>
-        <strong>Uighur Muslims in Xinjiang</strong>
+        Uighur Muslims in Xinjiang
       </li>
       <li>
-        <strong>Political dissidents in Hong Kong</strong>
+        Political dissidents in Hong Kong
       </li>
       <li>
-        <strong>LGBTQ in Poland</strong>
+        LGBTQ in Poland
       </li>
       <li>
-        <strong>Central/South American refugees at the Southern US Border</strong>
+        Central/South American refugees at the Southern US Border
       </li>
       <li>
-        <strong>Indigenous Peoples in Australia, Canada, Brazil and the US</strong>
+        Indigenous Peoples in Australia, Canada, Brazil and the US
       </li>
       <li>
-        <strong>Journalists, Critics, Medics, and Non-violent Protestors against:</strong>
+        Journalists, Critics, Medics, and Non-violent Protestors against:
       </li>
     </ul>
     <h3>
-      <strong>=&gt; Xi Jingping</strong>
+      =&gt; Xi Jingping
     </h3>
     <h3>
-      <strong>=&gt; Andrzej Duda</strong>
+      =&gt; Andrzej Duda
     </h3>
     <h3>
-      <strong>=&gt; Jair Bolsonaro</strong>
+      =&gt; Jair Bolsonaro
     </h3>
     <h3>
-      <strong>=&gt; MBS</strong>
+      =&gt; MBS
     </h3>
     <h3>
-      <strong>=&gt; al-Assad</strong>
+      =&gt; al-Assad
     </h3>
     <h3>
-      <strong>=&gt; Vladimir Putin</strong>
+      =&gt; Vladimir Putin
     </h3>
     <h3>=&gt; Rodrigo Duterte</h3>
     <h3>
-      <strong>are no longer kidnapped, tortured, imprisoned, murdered, and disappeared.</strong>
+      are no longer kidnapped, tortured, imprisoned, murdered, and disappeared.
     </h3>
     <p>
-      <strong>SaaS</strong> / WWW products are the
-      <strong>ideal target for a strike</strong> because:
+      SaaS / WWW products are the
+      ideal target for a strike because:
     </p>
     <ul>
       <li>
         unlike other investments that require large factories for storage or processing,
         <em>e.g. food distribution or scientific research</em>,
-        <strong>Slack / Jira / Instagram</strong>etc. suffer no damage from being turned off for a few months.
+        Slack / Jira / Instagrametc. suffer no damage from being turned off for a few months.
       </li>
       <li>
         The massive concentration of capital in these companies has allowed them to
-        <strong>step over this crisis</strong> and
-        <strong>maintain record growth</strong> while the majority of us on earth are
-        <strong>struggling to breathe</strong> in the most real sense.
+        step over this crisis and
+        maintain record growth while the majority of us on earth are
+        struggling to breathe in the most real sense.
       </li>
       <li>
-        <strong>We control this capital</strong>. The second we
-        <strong>take our eyes off their ads and stop writing code</strong>, their money
-        <strong>vanishes</strong>. The only damage will be to the
-        <strong>growth forecasts of early-seed white men</strong> in SF and their
-        <strong>international partners</strong>.
+        We control this capital. The second we
+        take our eyes off their ads and stop writing code, their money
+        vanishes. The only damage will be to the
+        growth forecasts of early-seed white men in SF and their
+        international partners.
       </li>
     </ul>
     <h2>
-      <strong>No more unicorns. Our house is on fire.</strong>
+      No more unicorns. Our house is on fire.
     </h2>
     <div class="slate-resizable-image-embed slate-image-embed__resize-full-width">
       <img
@@ -360,6 +360,7 @@ p {
   color: white;
   text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
     5px -5px 0 #000;
+    box-shadow: none !important;
 }
 h3 {
   font-size: 34px;
