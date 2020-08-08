@@ -286,8 +286,8 @@
       <h1 class="shadow text-center">
         <a
           id="occupy_silicon_valley"
-          href="/occupy-silicon-valley-our-house-is-on-fire"
-        >White Men must Occupy Silicon Valley to prove Black Lives Matter</a>
+          href="/occupy-venture-capital-our-house-is-on-fire"
+        >White Men in Silicon Valley must Occupy Venture Capital to prove Black Lives Matter</a>
       </h1>
     </div>
   </div>
