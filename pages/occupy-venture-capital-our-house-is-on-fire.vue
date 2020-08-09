@@ -58,7 +58,7 @@
       <a
         href="https://www.google.com/search?q=burlingame&rlz=1C5CHFA_enUS847US847&oq=burlingame&aqs=chrome..69i57j46j0j46l4j0.943j0j9&sourceid=chrome&ie=UTF-8"
         target="_blank"
-      >Burlingame</a>, so the first time I turned the corner and parked on Mead, my adrenaline was surging. There were 2 or 3 clusters of big, tall, serious-looking black men, sitting on their porch or listening to
+      >Burlingame</a>, so the first time I turned <a href="https://en.wikipedia.org/wiki/The_Corner:_A_Year_in_the_Life_of_an_Inner-City_Neighborhood#Critical_response" target="_blank">the corner</a> and parked on Mead, my adrenaline was surging. There were 2 or 3 clusters of big, tall, serious-looking black men, sitting on their porch or listening to
       <a
         href="https://www.youtube.com/watch?v=e2QKlmMT8II"
         target="_blank"
