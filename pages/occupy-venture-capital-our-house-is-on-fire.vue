@@ -54,7 +54,7 @@
       >PHP syntax</a> all night. I needed cheap rent.
     </p>
     <p>
-      At this point I was a 21 year old white kid from
+      At this point I was a 21 year old <a href="/tyler_hill_white_kid.jpg" target="_blank">white kid</a> from
       <a
         href="https://www.google.com/search?q=burlingame&rlz=1C5CHFA_enUS847US847&oq=burlingame&aqs=chrome..69i57j46j0j46l4j0.943j0j9&sourceid=chrome&ie=UTF-8"
         target="_blank"
