@@ -47,7 +47,7 @@ p {
 }
 ul {
   list-style: circle;
-  padding-left: 20px;
+  padding-left: 40px;
   @apply text-lg mb-6 py-4;
   ul {
     list-style: square;

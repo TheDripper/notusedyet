@@ -1,6 +1,6 @@
 <template>
   <div id="root">
-    <div class="slide p-3">
+    <div class="slide p-1">
       <p id="hashtags_do_not_equal_solidarity" class="subnow">
         posters && #hashtags !=
         <span class="magenta">solidarity</span>
@@ -191,7 +191,7 @@
           >Saudi</a>
         </li>
       </ul>
-      <h3>UNTIL</h3>
+      <h3 class="bump magenta shadow">UNTIL</h3>
       <ul>
         <li>
           <a
@@ -238,7 +238,7 @@
       <h3 class="shadow uppercase">=&gt; Vladimir Putin</h3>
       <h3 class="shadow uppercase">=&gt; Rodrigo Duterte</h3>
       <h3 class="magenta">are no longer kidnapped, tortured, imprisoned, murdered, and disappeared.</h3>
-      <h3>SaaS startups are the ideal target for a strike because:</h3>
+      <h3><a href="https://www.google.com/search?q=saas+pricing+models&rlz=1C5CHFA_enUS847US847&oq=saas+pricing&aqs=chrome.1.69i57j0l7.6457j0j7&sourceid=chrome&ie=UTF-8" target="_blank">SaaS</a> startups are the ideal target for a <span class="magenta">strike</span> because:</h3>
       <ul>
         <li>
           unlike other investments that require large factories for storage or processing,
@@ -255,8 +255,8 @@
             target="_blank"
           >massive concentration of capital</a> in these companies has allowed them to
           <span class="magenta">step over this crisis</span> and
-          maintain record growth while the majority of us on earth are
-          struggling to
+          <span class="magenta">maintain record growth</span> while the majority of us on <span class="magenta">earth</span> are
+          <span class="magenta">struggling</span> to
           <span
             class="magenta"
           >breathe</span> in the most real sense.
@@ -268,8 +268,8 @@
           >We control this capital.</a> The second we
           <span class="magenta">take our eyes off</span> their
           <span class="magenta">ads</span> and
-          <span class="magenta">stop writing code</span>, their money
-          <span class="magenta">vanishes</span>. The only damage will be to the
+          <span class="magenta">stop writing code</span>, their 
+          <span class="magenta">money vanishes</span>. The <span class="magenta">only damage</span> will be to the
           <a
             href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=zhsuX6PPM6CS0PEP692D-Ac&q=nasdaq+etf+growth+forecast&oq=nasdaq+etf+growth+forecast&gs_lcp=CgZwc3ktYWIQAzIFCAAQzQIyBQgAEM0CMgUIABDNAjIFCAAQzQI6BAgAEEc6BggAEAgQHlDpYFj4Z2DLamgAcAF4AIABYYgBowSSAQE3mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwij7sP-1IrrAhUgCTQIHevuAH8Q4dUDCAw&uact=5"
             target="_blank"
@@ -280,8 +280,13 @@
           >international partners</a>.
         </li>
       </ul>
-      <h3 class="blink shadow uppercase">
+      <h3 class="blink shadow uppercase bump">
         No more unicorns. Our house is on
+        <a
+          id="greta_thunberg_is_fire"
+          href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8"
+          target="_blank"
+        >fire.</a>No more unicorns. Our house is on
         <a
           id="greta_thunberg_is_fire"
           href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8"
@@ -343,7 +348,19 @@ h3 {
   }
 }
 li {
-  font-size: 40px;
+  font-size: 30px;
+  list-style: none;
+  position: relative;
+  &:before {
+    content: '#!';
+    color: magenta;
+    position: absolute;
+    left: -34px;
+    top: 0;
+    animation: blink-animation 2s steps(5, start) infinite;
+    transform: scale(1.7);
+
+  }
 }
 #end {
   filter: saturate(743%) hue-rotate(-56deg);
