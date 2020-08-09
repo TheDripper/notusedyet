@@ -1,13 +1,7 @@
 <template>
   <div dir="ltr" class="reader-article-content p-4 md:p-12">
-    <div id="tyler" class="flex" style="background-image:url(/dayjob.jpg);">
-      <img id="customer" class="scroll" src="/customer.jpg" />
-      <img id="dayjob" src="/dayjob.jpg" />
-      <img id="end" src="/end.jpg" />
-      <img id="customer" class="scroll" src="/customer.jpg" />
-      <img id="dayjob" src="/dayjob.jpg" />
-      <img id="end" src="/end.jpg" />
-    </div>
+    <p><span class="magenta">Tyler Hill</span> is a <span class="magenta">Real Person</span> ✅✅✅</p>
+    <img id="dayjob" src="/dayjob.jpg" />
     <div id="social_commerce_surveillance" class="flex">
       <a
         id="linkedin_logo_oligarchy"
@@ -32,6 +26,10 @@
         <div style="background-image:url(/linkedin_logo_oligarchy.jpg);"></div>
       </a>
     </div>
+    <h3 id="begin" class="bump blink my-12">--:--:--</h3>
+    <img src="/wrong_questions_pynchon_wikiquote.png" />
+    <img src="/verify_facts_help_others.gif" />
+    <img src="/wrong_questions_pynchon.gif" />
     <p>
       I lived in
       <a
@@ -508,9 +506,15 @@
         target="_blank"
       >Marvin Gaye</a> to
       <a href="https://www.youtube.com/watch?v=PivWY9wn5ps" target="_blank">Michael Jackson</a> to
-      <a href="https://www.youtube.com/watch?v=_JZom_gVfuw" target="_blank">Biggie</a>.</p>
-      <p><span class="magenta">The block was always spotless</span>, because Edgar, who was a <span class="magenta">veteran</span> like Darrel's <span class="magenta">brother</span> across the street, picked up trash and swept every morning. On Friday night, we'd just wander between
-      <span class="magenta">peoples</span> porches and yards and play
+      <a href="https://www.youtube.com/watch?v=_JZom_gVfuw" target="_blank">Biggie</a>.
+    </p>
+    <p>
+      <span class="magenta">The block was always spotless</span>, because Edgar, who was a
+      <span class="magenta">veteran</span> like Darrel's
+      <span class="magenta">brother</span> across the street, picked up trash and swept every morning. On Friday night, we'd just wander between
+      <span
+        class="magenta"
+      >peoples</span> porches and yards and play
       <a
         href="https://www.youtube.com/results?search_query=good+kid+maad+city"
         target="_blank"
@@ -937,7 +941,14 @@
         >international partners</a>.
       </li>
     </ul>
-    <h3 class="blink shadow uppercase">No more unicorns. Our house is on <a id="greta_thunberg_is_fire" href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8" target="_blank">fire.</a></h3>
+    <h3 class="blink shadow uppercase">
+      No more unicorns. Our house is on
+      <a
+        id="greta_thunberg_is_fire"
+        href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8"
+        target="_blank"
+      >fire.</a>
+    </h3>
     <img alt="No alt text provided for this image" src="/nasdaq_fam.png" />
     <img alt="No alt text provided for this image" src="/nike_of_the_mind.png" />
     <img alt="No alt text provided for this image" src="/nasdaq.png" />
@@ -970,17 +981,28 @@
       <span class="magenta">how to start</span> learning code, please email me
       <span class="magenta">ASAP</span> at
       <span class="magenta">tylerhillwebdev@gmail.com</span> and I will give you whatever time and knowledge that I can,
-      <span class="magenta">free of charge.</span>
+      <span
+        class="magenta"
+      >free of charge.</span>
     </p>
     <p class="subnow">
       The
       <span class="magenta">full editing history of this document</span> is publicly available on
-      <a href="https://github.com/TheDripper/notusedyet" target="_blank">this Git</a> and will continue to be
+      <a
+        href="https://github.com/TheDripper/notusedyet"
+        target="_blank"
+      >this Git</a> and will continue to be
       <span class="magenta">
         logged there in real-time, as published, through
-        <a href="https://en.wikipedia.org/wiki/Version_control" target="_blank">version control.</a>
+        <a
+          href="https://en.wikipedia.org/wiki/Version_control"
+          target="_blank"
+        >version control.</a>
       </span> Any reproductions of this essay found on another
-      <a href="https://en.wikipedia.org/wiki/Domain_name" target="_blank">domain</a> with edits not reflected in the commit history at
+      <a
+        href="https://en.wikipedia.org/wiki/Domain_name"
+        target="_blank"
+      >domain</a> with edits not reflected in the commit history at
       <a
         href="https://github.com/TheDripper/notusedyet"
         target="_blank"
@@ -998,7 +1020,9 @@
       <span class="magenta">genuine</span> mistake and please do correct me with
       <span class="magenta">evidence</span> I can
       <span class="magenta">validate</span>. If you have publicly sourced information that
-      <span class="magenta">all users can validate themselves on their machine</span>,
+      <span
+        class="magenta"
+      >all users can validate themselves on their machine</span>,
       <a
         href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request"
         target="_blank"
@@ -1017,7 +1041,9 @@
       >clone this git</a> onto your own server to prevent
       <span class="magenta">
         corporate thought-control (via denial of
-        <a href="https://en.wikipedia.org/wiki/Internet_service_provider">ISP</a> or
+        <a
+          href="https://en.wikipedia.org/wiki/Internet_service_provider"
+        >ISP</a> or
         <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS/Hosting services</a>):
       </span>Thank You! However,
     </p>
@@ -1081,7 +1107,7 @@ li {
   border: none !important;
   padding: 0 !important;
   div {
-    background-size: 22vw;
+    background-size: 42px;
     width: 50vw;
     height: 100%;
   }
@@ -1090,7 +1116,7 @@ li {
   transform: rotate(180deg);
   padding: 0 !important;
   div {
-    background-size: 22vw;
+    background-size: 77px;
     width: 50vw;
     height: 100%;
   }
@@ -1099,15 +1125,26 @@ li {
   border: none !important;
 }
 #social_commerce_surveillance {
-  height: 11vw;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
 }
 #big_brother_new_season {
-  height: 11vw;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
 }
 #greta_thunberg_is_fire {
   color: magenta !important;
   border: none !important;
   text-decoration: none !important;
   text-shadow: none !important;
+}
+#dayjob {
+  width: 200px;
+}
+#begin {
+  font-size: 60px;
+  color: black !important;
 }
 </style>
