@@ -108,7 +108,7 @@ iframe {
   font-size: 30px;
 }
 .slide {
-  width: 100vw;
+  width: calc(100vw - 3rem);
   height: 100vh;
 }
 .middle {
@@ -116,8 +116,13 @@ iframe {
 }
 .shadow {
   color: white;
-  text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
-    5px -5px 0 #000;
   box-shadow: none !important;
+  text-shadow: 3px 3px 0 #000, -3px -3px 0 #000, -3px 3px 0 #000,
+    3px -3px 0 #000;
+  @screen md {
+    text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
+    5px -5px 0 #000;
+  }
+
 }
 </style>
