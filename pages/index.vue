@@ -1,6 +1,6 @@
 <template>
   <div id="root">
-    <div class="slide p-6">
+    <div class="slide p-3">
       <p id="hashtags_do_not_equal_solidarity" class="subnow">
         posters && #hashtags !=
         <span class="magenta">solidarity</span>
@@ -337,7 +337,7 @@ p {
   font-size: 40px;
 }
 h3 {
-  font-size: 34px;
+  font-size: 32px;
   @screen md {
     font-size: 60px;
   }
