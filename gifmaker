@@ -1,0 +1,1 @@
+ffmpeg -i can.mov -pix_fmt rgb8 -r 10 pick_up_that_can.gif && gifsicle -O3 pick_up_that_can.gif -o pick_up_that_can.gif
