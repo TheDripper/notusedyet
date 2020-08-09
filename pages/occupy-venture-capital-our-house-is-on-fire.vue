@@ -888,13 +888,13 @@
         >Journalists, Critics, Medics, and Non-violent Protestors against:</a>
       </li>
     </ul>
-    <h3 class="shadow uppercase">=&gt; Xi Jingping</h3>
-    <h3 class="shadow uppercase">=&gt; Andrzej Duda</h3>
-    <h3 class="shadow uppercase">=&gt; Jair Bolsonaro</h3>
-    <h3 class="shadow uppercase">=&gt; MBS</h3>
-    <h3 class="shadow uppercase">=&gt; al-Assad</h3>
-    <h3 class="shadow uppercase">=&gt; Vladimir Putin</h3>
-    <h3 class="shadow uppercase">=&gt; Rodrigo Duterte</h3>
+    <h3 class="shadow uppercase"><span class="blink text-white">&gt;</span> Xi Jingping</h3>
+    <h3 class="shadow uppercase"><span class="blink text-white">&gt;</span> Andrzej Duda</h3>
+    <h3 class="shadow uppercase"><span class="blink text-white">&gt;</span> Jair Bolsonaro</h3>
+    <h3 class="shadow uppercase"><span class="blink text-white">&gt;</span> MBS</h3>
+    <h3 class="shadow uppercase"><span class="blink text-white">&gt;</span> al-Assad</h3>
+    <h3 class="shadow uppercase"><span class="blink text-white">&gt;</span> Vladimir Putin</h3>
+    <h3 class="shadow uppercase"><span class="blink text-white">&gt;</span> Rodrigo Duterte</h3>
     <h3 class="magenta">are no longer kidnapped, tortured, imprisoned, murdered, and disappeared.</h3>
     <h3>SaaS startups are the ideal target for a strike because:</h3>
     <ul>
@@ -1143,5 +1143,8 @@ li {
 #begin {
   font-size: 60px;
   color: black !important;
+}
+.text-white {
+  color: white !important;
 }
 </style>
