@@ -280,7 +280,7 @@
           >international partners</a>.
         </li>
       </ul>
-      <h3 class="blink shadow uppercase bump">
+      <h3 id="unicorns" class="blink shadow uppercase">
         No more unicorns. Our house is on
         <a
           id="greta_thunberg_is_fire"
@@ -432,5 +432,9 @@ li {
   position: relative;
   max-width: 800px;
   margin: 0 auto;
+}
+#unicorns {
+  width: 100%;
+  @apply text-right;
 }
 </style>
