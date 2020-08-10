@@ -11,6 +11,14 @@
         <span class="magenta">now</span> for
         <span class="magenta">black lives</span>.
       </p>
+      <h3 class="shadow">
+        <span class="black blink">(i am one)</span>
+      </h3>
+      <div class="relative">
+        <img src="/tyler_hill_white_kid.jpg" />
+        <img id="dayjob" src="/dayjob.jpg" />
+      </div>
+
       <p>
         No more
         <a
@@ -483,5 +491,12 @@ li {
 #unicorns {
   width: 100%;
   @apply text-right;
+}
+#dayjob {
+  @screen md {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
 }
 </style>
