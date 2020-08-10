@@ -114,15 +114,34 @@ iframe {
 .middle {
   @apply flex flex-col items-center justify-center;
 }
+
 .shadow {
   color: white;
-  box-shadow: none !important;
-  text-shadow: 3px 3px 0 #000, -3px -3px 0 #000, -3px 3px 0 #000,
-    3px -3px 0 #000;
-  @screen md {
-    text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
+  text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
     5px -5px 0 #000;
+  box-shadow: none !important;
+  .black {
+    color: black !important;
+    text-shadow: 5px 5px 0 lime, -5px -5px 0 lime, -5px 5px 0 lime,
+      5px -5px 0 lime;
   }
-
+}
+li {
+  font-size: 30px;
+  list-style: none;
+  position: relative;
+  padding-left: 34px;
+  a {
+    border: 5px solid blue !important; 
+  }
+  &:before {
+    content: "#!";
+    color: magenta;
+    position: absolute;
+    left: -34px;
+    top: 0;
+    animation: blink-animation 2s steps(5, start) infinite;
+    transform: scale(1.7);
+  }
 }
 </style>

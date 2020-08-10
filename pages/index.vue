@@ -68,179 +68,195 @@
           have your back.
         </span>
       </p>
-      <p>
-        <a href="https://en.wikipedia.org/wiki/Person_of_color" target="_blank">POC</a> need
-        <span class="magenta">real proof from the white professional community</span> that
-      </p>
-      <h3 class="blink shadow uppercase">we stand in solidarity with the BLM protests</h3>
-      <span class="bump">
-        and we
-        <span class="magenta">never stop fighting</span> for:
-        <h3>
+      <div id="poc_need_proof">
+        <p>
+          <a href="https://en.wikipedia.org/wiki/Person_of_color" target="_blank">POC</a> need
+          <span class="magenta">real proof from the white professional community</span> that
+        </p>
+        <h3 class="blink shadow uppercase">we stand in solidarity with the BLM protests</h3>
+        <span class="bump">
+          and we
+          <span class="magenta">never stop fighting</span> for:
+          <h3>
+            <a
+              href="https://www.google.com/search?q=oscar+grant&rlz=1C5CHFA_enUS847US847&oq=oscar+&aqs=chrome.0.69i59j69i57j69i59j46l2j0j46j69i60.890j0j7&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Oscar Grant</a>
+          </h3>
+          <h3>
+            <a
+              href="https://www.google.com/search?q=michael+brown&rlz=1C5CHFA_enUS847US847&oq=michael+brown&aqs=chrome.0.69i59j0l4j46l2j0.2328j0j7&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Michael Brown</a>
+          </h3>
+          <h3>
+            <a
+              href="https://www.google.com/search?q=eric+garner&rlz=1C5CHFA_enUS847US847&oq=eric+garner&aqs=chrome..69i57j0l7.1833j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Eric Garner</a>
+          </h3>
+          <h3>
+            <a
+              href="https://www.google.com/search?q=sandra+bland&rlz=1C5CHFA_enUS847US847&oq=sandra+bland&aqs=chrome..69i57j0l4j46j0j69i60.2386j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Sandra Bland</a>
+          </h3>
+          <h3>
+            <a
+              href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=hAwuX5b2CraT0PEP1oaqiAM&q=walter+scott+shooting&oq=walter+scott+shooting&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BwgAELEDEEM6BAgAEEM6CAguEMcBEK8BOgIILjoECC4QQ1D9JFiMLmCeMmgAcAB4AIABcIgB1wWSAQM5LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwiWyO-zxorrAhW2CTQIHVaDCjEQ4dUDCAw&uact=5"
+              target="_blank"
+            >Walter Scott</a>
+          </h3>
+          <h3>
+            <a
+              href="https://www.google.com/search?q=philando+castile&rlz=1C5CHFA_enUS847US847&oq=philando&aqs=chrome.0.69i59j69i57j0l6.1290j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Philando Castile</a>
+          </h3>
+          <h3>
+            <a
+              href="https://www.google.com/search?q=nia+wilson&rlz=1C5CHFA_enUS847US847&oq=nia+wilson&aqs=chrome..69i57j46j0l6.1348j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Nia Wilson</a>
+          </h3>
+          <span class="magenta">and now</span>
+          <h3>
+            <a
+              href="https://www.google.com/search?q=breonna+taylor&rlz=1C5CHFA_enUS847US847&oq=breonna+taylor&aqs=chrome.0.69i59j0l5j69i60l2.3679j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Breonna Taylor</a>
+          </h3>
+          <h3>
+            <a
+              href="https://www.google.com/search?q=george+floyd&rlz=1C5CHFA_enUS847US847&oq=george+floyd&aqs=chrome..69i57j46j0l5j69i60.3212j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >George Floyd</a>
+          </h3>
+          <h3>
+            <a
+              href="https://www.google.com/search?q=sean+monterrosa&rlz=1C5CHFA_enUS847US847&oq=Sean+Monterrosa&aqs=chrome.0.69i59j0l7.841j0j7&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Sean Monterrosa</a>
+          </h3>and the
           <a
-            href="https://www.google.com/search?q=oscar+grant&rlz=1C5CHFA_enUS847US847&oq=oscar+&aqs=chrome.0.69i59j69i57j69i59j46l2j0j46j69i60.890j0j7&sourceid=chrome&ie=UTF-8"
+            href="https://www.chicagotribune.com/news/breaking/ct-overnight-shootings-05272020-20200527-ehwgqp6qxjg6hb3declx7mnyji-story.html"
             target="_blank"
-          >Oscar Grant</a>
-        </h3>
-        <h3>
+          >hundreds</a> of
           <a
-            href="https://www.google.com/search?q=michael+brown&rlz=1C5CHFA_enUS847US847&oq=michael+brown&aqs=chrome.0.69i59j0l4j46l2j0.2328j0j7&sourceid=chrome&ie=UTF-8"
+            href="https://www.google.com/search?q=say+her+name&rlz=1C5CHFA_enUS847US847&oq=say+her+name&aqs=chrome.0.0l5j46l2j0.979j0j7&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Michael Brown</a>
-        </h3>
-        <h3>
+          >sisters</a> and
           <a
-            href="https://www.google.com/search?q=eric+garner&rlz=1C5CHFA_enUS847US847&oq=eric+garner&aqs=chrome..69i57j0l7.1833j0j9&sourceid=chrome&ie=UTF-8"
+            href="https://www.google.com/search?q=men+of+color+killed&rlz=1C5CHFA_enUS847US847&oq=men+of+color+killed&aqs=chrome..69i57.3082j0j7&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Eric Garner</a>
-        </h3>
-        <h3>
+          >brothers</a> and
           <a
-            href="https://www.google.com/search?q=sandra+bland&rlz=1C5CHFA_enUS847US847&oq=sandra+bland&aqs=chrome..69i57j0l4j46j0j69i60.2386j0j9&sourceid=chrome&ie=UTF-8"
+            href="https://www.hrc.org/resources/violence-against-the-trans-and-gender-non-conforming-community-in-2020"
             target="_blank"
-          >Sandra Bland</a>
-        </h3>
-        <h3>
+          >cousins</a> that continue to be taken by violence
+          <span class="magenta">year after year</span>,
           <a
-            href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=hAwuX5b2CraT0PEP1oaqiAM&q=walter+scott+shooting&oq=walter+scott+shooting&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BwgAELEDEEM6BAgAEEM6CAguEMcBEK8BOgIILjoECC4QQ1D9JFiMLmCeMmgAcAB4AIABcIgB1wWSAQM5LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwiWyO-zxorrAhW2CTQIHVaDCjEQ4dUDCAw&uact=5"
+            href="https://www.google.com/search?q=tough+on+crime&rlz=1C5CHFA_enUS847US847&oq=tough+on+crime&aqs=chrome.0.0j46j0l6.1080j0j9&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Walter Scott</a>
+          >decade after decade</a>, without a headline or a
+          <span class="magenta">protest</span>.
+        </span>
+        <p>
+          Work will also
+          <span class="magenta">remain halted</span> for any company that can be
+          <span class="magenta">traced to Venture Capital</span> in:
+        </p>
+        <ul>
+          <li>
+            <a
+              href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwS0szMzBg9OKqyFTIyswryMxLBwBK9Qbs&q=xi+jinping&rlz=1C5CHFA_enUS847US847&oq=xi+jing&aqs=chrome.1.69i57j46j69i59j0l3j69i61j69i60.2003j0j7&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >China</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?q=vladimir+putin&rlz=1C5CHFA_enUS847US847&oq=vladimir+putin&aqs=chrome..69i57j46j0l5j69i60.2113j0j7&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Russia</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?q=andrzej+duda&rlz=1C5CHFA_enUS847US847&oq=andrzej+duda&aqs=chrome.0.69i59j46j0l4j69i60l2.6647j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Poland</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?q=jair+bolsonaro&rlz=1C5CHFA_enUS847US847&oq=Jair+Bolsonaro&aqs=chrome.0.0j46j0l5j69i60.2812j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Brazil</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?q=mbs&rlz=1C5CHFA_enUS847US847&oq=mbs&aqs=chrome..69i57j46j0l6.1034j0j7&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Saudi</a>
+          </li>
+        </ul>
+        <h3 class="shadow blink">
+          <span class="black">UNTIL</span>
         </h3>
-        <h3>
-          <a
-            href="https://www.google.com/search?q=philando+castile&rlz=1C5CHFA_enUS847US847&oq=philando&aqs=chrome.0.69i59j69i57j0l6.1290j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Philando Castile</a>
-        </h3>
-        <h3>
-          <a
-            href="https://www.google.com/search?q=nia+wilson&rlz=1C5CHFA_enUS847US847&oq=nia+wilson&aqs=chrome..69i57j46j0l6.1348j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Nia Wilson</a>
-        </h3>
-        <span class="magenta">and now</span>
-        <h3>
-          <a
-            href="https://www.google.com/search?q=breonna+taylor&rlz=1C5CHFA_enUS847US847&oq=breonna+taylor&aqs=chrome.0.69i59j0l5j69i60l2.3679j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Breonna Taylor</a>
-        </h3>
-        <h3>
-          <a
-            href="https://www.google.com/search?q=george+floyd&rlz=1C5CHFA_enUS847US847&oq=george+floyd&aqs=chrome..69i57j46j0l5j69i60.3212j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >George Floyd</a>
-        </h3>
-        <h3><a href="https://www.google.com/search?q=sean+monterrosa&rlz=1C5CHFA_enUS847US847&oq=Sean+Monterrosa&aqs=chrome.0.69i59j0l7.841j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Sean Monterrosa</a></h3>
-        and the
+        <ul>
+          <li>
+            <a
+              href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=ExEuX5D4INix0PEPjt2O8Aw&q=uighur+muslims+xi+jingping&oq=uighur+muslims+xi+jingping&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoFCAAQsQM6BwgAELEDEEM6AggAUJ8lWJozYNw2aAJwAXgAgAFbiAHRB5IBAjE0mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjQzcHgyorrAhXYGDQIHY6uA84Q4dUDCAw&uact=5"
+              target="_blank"
+            >Uighur Muslims in Xinjiang</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?q=hong+kong+protesters&rlz=1C5CHFA_enUS847US847&oq=hong+kong+protesters&aqs=chrome..69i57j0l7.5827j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Protestors and political opposition in Hong Kong</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?q=lgbtq+poland&rlz=1C5CHFA_enUS847US847&oq=lgbtq+poland&aqs=chrome..69i57j0l7.3937j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >LGBTQ in Poland</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=9RYuX9jyMfWx0PEPr_GoqAM&q=us+border+detained&oq=us+border+detained&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgUIABCxAzoLCC4QsQMQxwEQowI6BAgAEEM6BwgAELEDEEM6CAguEMcBEKMCOgIIADoICAAQFhAKEB5Q5j5YjEtg_UtoAHABeACAAVGIAfAEkgEBOZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiYweGu0IrrAhX1GDQIHa84CjUQ4dUDCAw&uact=5"
+              target="_blank"
+            >Central/South American refugees at the Southern US Border</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?q=bolsanaro+amazon&rlz=1C5CHFA_enUS847US847&oq=bolsanaro+amazon&aqs=chrome..69i57j0l7.2373j0j9&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Indigenous Peoples in Australia, Canada, Brazil and the US</a>
+          </li>
+          <li>
+            <a
+              href="https://www.google.com/search?q=russian+journalist&rlz=1C5CHFA_enUS847US847&oq=russian+journalist&aqs=chrome..69i57j0l5j46j0.2947j0j7&sourceid=chrome&ie=UTF-8"
+              target="_blank"
+            >Journalists, Critics, Medics, and Non-violent Protestors against:</a>
+          </li>
+        </ul>
+        <h3 class="shadow uppercase">=&gt; Xi Jingping</h3>
+        <h3 class="shadow uppercase">=&gt; Andrzej Duda</h3>
+        <h3 class="shadow uppercase">=&gt; Jair Bolsonaro</h3>
+        <h3 class="shadow uppercase">=&gt; MBS</h3>
+        <h3 class="shadow uppercase">=&gt; al-Assad</h3>
+        <h3 class="shadow uppercase">=&gt; Vladimir Putin</h3>
+        <h3 class="shadow uppercase">=&gt; Rodrigo Duterte</h3>
+        <h3
+          class="magenta"
+        >are no longer kidnapped, tortured, imprisoned, murdered, and disappeared.</h3>
+      </div>
+      <h3>
         <a
-          href="https://www.chicagotribune.com/news/breaking/ct-overnight-shootings-05272020-20200527-ehwgqp6qxjg6hb3declx7mnyji-story.html"
+          href="https://www.google.com/search?q=saas+pricing+models&rlz=1C5CHFA_enUS847US847&oq=saas+pricing&aqs=chrome.1.69i57j0l7.6457j0j7&sourceid=chrome&ie=UTF-8"
           target="_blank"
-        >hundreds</a> of
-        <a
-          href="https://www.google.com/search?q=say+her+name&rlz=1C5CHFA_enUS847US847&oq=say+her+name&aqs=chrome.0.0l5j46l2j0.979j0j7&sourceid=chrome&ie=UTF-8"
-          target="_blank"
-        >sisters</a> and
-        <a
-          href="https://www.google.com/search?q=men+of+color+killed&rlz=1C5CHFA_enUS847US847&oq=men+of+color+killed&aqs=chrome..69i57.3082j0j7&sourceid=chrome&ie=UTF-8"
-          target="_blank"
-        >brothers</a> and
-        <a
-          href="https://www.hrc.org/resources/violence-against-the-trans-and-gender-non-conforming-community-in-2020"
-          target="_blank"
-        >cousins</a> that continue to be taken by violence
-        <span class="magenta">year after year</span>,
-        <a
-          href="https://www.google.com/search?q=tough+on+crime&rlz=1C5CHFA_enUS847US847&oq=tough+on+crime&aqs=chrome.0.0j46j0l6.1080j0j9&sourceid=chrome&ie=UTF-8"
-          target="_blank"
-        >decade after decade</a>, without a headline or a
-        <span class="magenta">protest</span>.
-      </span>
-      <p>
-        Work will also
-        <span class="magenta">remain halted</span> for any company that can be
-        <span class="magenta">traced to Venture Capital</span> in:
-      </p>
-      <ul>
-        <li>
-          <a
-            href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwS0szMzBg9OKqyFTIyswryMxLBwBK9Qbs&q=xi+jinping&rlz=1C5CHFA_enUS847US847&oq=xi+jing&aqs=chrome.1.69i57j46j69i59j0l3j69i61j69i60.2003j0j7&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >China</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?q=vladimir+putin&rlz=1C5CHFA_enUS847US847&oq=vladimir+putin&aqs=chrome..69i57j46j0l5j69i60.2113j0j7&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Russia</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?q=andrzej+duda&rlz=1C5CHFA_enUS847US847&oq=andrzej+duda&aqs=chrome.0.69i59j46j0l4j69i60l2.6647j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Poland</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?q=jair+bolsonaro&rlz=1C5CHFA_enUS847US847&oq=Jair+Bolsonaro&aqs=chrome.0.0j46j0l5j69i60.2812j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Brazil</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?q=mbs&rlz=1C5CHFA_enUS847US847&oq=mbs&aqs=chrome..69i57j46j0l6.1034j0j7&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Saudi</a>
-        </li>
-      </ul>
-      <h3 class="bump magenta shadow">UNTIL</h3>
-      <ul>
-        <li>
-          <a
-            href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=ExEuX5D4INix0PEPjt2O8Aw&q=uighur+muslims+xi+jingping&oq=uighur+muslims+xi+jingping&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoFCAAQsQM6BwgAELEDEEM6AggAUJ8lWJozYNw2aAJwAXgAgAFbiAHRB5IBAjE0mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjQzcHgyorrAhXYGDQIHY6uA84Q4dUDCAw&uact=5"
-            target="_blank"
-          >Uighur Muslims in Xinjiang</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?q=hong+kong+protesters&rlz=1C5CHFA_enUS847US847&oq=hong+kong+protesters&aqs=chrome..69i57j0l7.5827j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Protestors and political opposition in Hong Kong</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?q=lgbtq+poland&rlz=1C5CHFA_enUS847US847&oq=lgbtq+poland&aqs=chrome..69i57j0l7.3937j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >LGBTQ in Poland</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=9RYuX9jyMfWx0PEPr_GoqAM&q=us+border+detained&oq=us+border+detained&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgUIABCxAzoLCC4QsQMQxwEQowI6BAgAEEM6BwgAELEDEEM6CAguEMcBEKMCOgIIADoICAAQFhAKEB5Q5j5YjEtg_UtoAHABeACAAVGIAfAEkgEBOZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiYweGu0IrrAhX1GDQIHa84CjUQ4dUDCAw&uact=5"
-            target="_blank"
-          >Central/South American refugees at the Southern US Border</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?q=bolsanaro+amazon&rlz=1C5CHFA_enUS847US847&oq=bolsanaro+amazon&aqs=chrome..69i57j0l7.2373j0j9&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Indigenous Peoples in Australia, Canada, Brazil and the US</a>
-        </li>
-        <li>
-          <a
-            href="https://www.google.com/search?q=russian+journalist&rlz=1C5CHFA_enUS847US847&oq=russian+journalist&aqs=chrome..69i57j0l5j46j0.2947j0j7&sourceid=chrome&ie=UTF-8"
-            target="_blank"
-          >Journalists, Critics, Medics, and Non-violent Protestors against:</a>
-        </li>
-      </ul>
-      <h3 class="shadow uppercase">=&gt; Xi Jingping</h3>
-      <h3 class="shadow uppercase">=&gt; Andrzej Duda</h3>
-      <h3 class="shadow uppercase">=&gt; Jair Bolsonaro</h3>
-      <h3 class="shadow uppercase">=&gt; MBS</h3>
-      <h3 class="shadow uppercase">=&gt; al-Assad</h3>
-      <h3 class="shadow uppercase">=&gt; Vladimir Putin</h3>
-      <h3 class="shadow uppercase">=&gt; Rodrigo Duterte</h3>
-      <h3 class="magenta">are no longer kidnapped, tortured, imprisoned, murdered, and disappeared.</h3>
-      <h3><a href="https://www.google.com/search?q=saas+pricing+models&rlz=1C5CHFA_enUS847US847&oq=saas+pricing&aqs=chrome.1.69i57j0l7.6457j0j7&sourceid=chrome&ie=UTF-8" target="_blank">SaaS</a> startups are the ideal target for a <span class="magenta">strike</span> because:</h3>
+        >SaaS</a> startups are the ideal target for a
+        <span class="magenta">strike</span> because:
+      </h3>
       <ul>
         <li>
           unlike other investments that require large factories for storage or processing,
@@ -257,11 +273,10 @@
             target="_blank"
           >massive concentration of capital</a> in these companies has allowed them to
           <span class="magenta">step over this crisis</span> and
-          <span class="magenta">maintain record growth</span> while the majority of us on <span class="magenta">earth</span> are
+          <span class="magenta">maintain record growth</span> while the majority of us on
+          <span class="magenta">earth</span> are
           <span class="magenta">struggling</span> to
-          <span
-            class="magenta"
-          >breathe</span> in the most real sense.
+          <span class="magenta">breathe</span> in the most real sense.
         </li>
         <li>
           <a
@@ -270,8 +285,9 @@
           >We control this capital.</a> The second we
           <span class="magenta">take our eyes off</span> their
           <span class="magenta">ads</span> and
-          <span class="magenta">stop writing code</span>, their 
-          <span class="magenta">money vanishes</span>. The <span class="magenta">only damage</span> will be to the
+          <span class="magenta">stop writing code</span>, their
+          <span class="magenta">money vanishes</span>. The
+          <span class="magenta">only damage</span> will be to the
           <a
             href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=zhsuX6PPM6CS0PEP692D-Ac&q=nasdaq+etf+growth+forecast&oq=nasdaq+etf+growth+forecast&gs_lcp=CgZwc3ktYWIQAzIFCAAQzQIyBQgAEM0CMgUIABDNAjIFCAAQzQI6BAgAEEc6BggAEAgQHlDpYFj4Z2DLamgAcAF4AIABYYgBowSSAQE3mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwij7sP-1IrrAhUgCTQIHevuAH8Q4dUDCAw&uact=5"
             target="_blank"
@@ -354,14 +370,13 @@ li {
   list-style: none;
   position: relative;
   &:before {
-    content: '#!';
+    content: "#!";
     color: magenta;
     position: absolute;
     left: -34px;
     top: 0;
     animation: blink-animation 2s steps(5, start) infinite;
     transform: scale(1.7);
-
   }
 }
 #end {
