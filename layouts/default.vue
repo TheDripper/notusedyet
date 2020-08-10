@@ -117,8 +117,12 @@ iframe {
 
 .shadow {
   color: white;
-  text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
-    5px -5px 0 #000;
+  text-shadow: 3px 3px 0 #000, -3px -3px 0 #000, -3px 3px 0 #000,
+      3px -3px 0 #000;
+  @screen md {
+    text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
+      5px -5px 0 #000;
+  }
   box-shadow: none !important;
   .black {
     color: black !important;
@@ -132,7 +136,7 @@ li {
   position: relative;
   padding-left: 34px;
   a {
-    border: 5px solid blue !important; 
+    border: 5px solid blue !important;
   }
   &:before {
     content: "#!";
@@ -142,6 +146,22 @@ li {
     top: 0;
     animation: blink-animation 2s steps(5, start) infinite;
     transform: scale(1.7);
+  }
+}
+.text-white {
+  color: white !important;
+}
+#until {
+  font-size: 80px !important;
+}
+#actual_patriarchy {
+  a {
+    color: white !important;
+  }
+}
+#occupy_venture_capital_until {
+  a {
+    color: white !important;
   }
 }
 </style>

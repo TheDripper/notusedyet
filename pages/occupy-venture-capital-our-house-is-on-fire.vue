@@ -978,14 +978,19 @@
         >international partners</a>.
       </li>
     </ul>
-    <h3 class="blink shadow uppercase">
-      No more unicorns. Our house is on
-      <a
-        id="greta_thunberg_is_fire"
-        href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8"
-        target="_blank"
-      >fire.</a>
-    </h3>
+    <h3 id="unicorns" class="blink shadow uppercase">
+        No more unicorns. Our house is on
+        <a
+          id="greta_thunberg_is_fire"
+          href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8"
+          target="_blank"
+        >fire.</a>No more unicorns. Our house is on
+        <a
+          id="greta_thunberg_is_fire"
+          href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8"
+          target="_blank"
+        >fire.</a>
+      </h3>
     <img alt="No alt text provided for this image" src="/nasdaq_fam.png" />
     <img alt="No alt text provided for this image" src="/nike_of_the_mind.png" />
     <img alt="No alt text provided for this image" src="/nasdaq.png" />
@@ -1107,17 +1112,17 @@ p {
 .bump {
   font-size: 40px;
 }
-.shadow {
-  color: white;
-  text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
-    5px -5px 0 #000;
-  box-shadow: none !important;
-  .black {
-    color: black !important;
-    text-shadow: 5px 5px 0 lime, -5px -5px 0 lime, -5px 5px 0 lime,
-      5px -5px 0 lime;
-  }
-}
+// .shadow {
+//   color: white;
+//   text-shadow: 5px 5px 0 #000, -5px -5px 0 #000, -5px 5px 0 #000,
+//     5px -5px 0 #000;
+//   box-shadow: none !important;
+//   .black {
+//     color: black !important;
+//     text-shadow: 5px 5px 0 lime, -5px -5px 0 lime, -5px 5px 0 lime,
+//       5px -5px 0 lime;
+//   }
+// }
 h3 {
   font-size: 34px;
   @screen md {
@@ -1189,20 +1194,5 @@ li {
   font-size: 60px;
   color: black !important;
 }
-.text-white {
-  color: white !important;
-}
-#until {
-    font-size: 80px !important;
-}
-#actual_patriarchy {
-  a {
-    color: white !important;
-  }
-}
-#occupy_venture_capital_until {
-  a {
-    color: white !important;
-  }
-}
+
 </style>

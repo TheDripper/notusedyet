@@ -161,91 +161,121 @@
           >decade after decade</a>, without a headline or a
           <span class="magenta">protest</span>.
         </span>
-        <p>
+        <h3 class="shadow uppercase">
           Work will also
-          <span class="magenta">remain halted</span> for any company that can be
-          <span class="magenta">traced to Venture Capital</span> in:
-        </p>
-        <ul>
+          <span class="black">remain halted</span> for any company doing business with the
+          <span class="black blink">fragile rich boys club</span>
+        </h3>
+        <ul id="actual_patriarchy">
           <li>
-            <a
-              href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwS0szMzBg9OKqyFTIyswryMxLBwBK9Qbs&q=xi+jinping&rlz=1C5CHFA_enUS847US847&oq=xi+jing&aqs=chrome.1.69i57j46j69i59j0l3j69i61j69i60.2003j0j7&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >China</a>
+            <h3 class="shadow uppercase">
+              <a href="https://en.wikipedia.org/wiki/Winnie-the-Pooh" target="_blank">Xi Jingping</a>
+            </h3>
           </li>
           <li>
-            <a
-              href="https://www.google.com/search?q=vladimir+putin&rlz=1C5CHFA_enUS847US847&oq=vladimir+putin&aqs=chrome..69i57j46j0l5j69i60.2113j0j7&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Russia</a>
+            <h3 class="shadow uppercase">
+              <a
+                href="https://www.google.com/search?q=andrzej+duda&rlz=1C5CHFA_enUS847US847&oq=andrzej+duda&aqs=chrome.0.69i59j46j0l4j69i60l2.6647j0j9&sourceid=chrome&ie=UTF-8"
+                target="_blank"
+              >Andrzej Duda</a>
+            </h3>
           </li>
           <li>
-            <a
-              href="https://www.google.com/search?q=andrzej+duda&rlz=1C5CHFA_enUS847US847&oq=andrzej+duda&aqs=chrome.0.69i59j46j0l4j69i60l2.6647j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Poland</a>
+            <h3 class="shadow uppercase">
+              <a
+                href="https://www.google.com/search?q=jair+bolsonaro&rlz=1C5CHFA_enUS847US847&oq=Jair+Bolsonaro&aqs=chrome.0.0j46j0l5j69i60.2812j0j9&sourceid=chrome&ie=UTF-8"
+                target="_blank"
+              >Jair Bolsonaro</a>
+            </h3>
           </li>
           <li>
-            <a
-              href="https://www.google.com/search?q=jair+bolsonaro&rlz=1C5CHFA_enUS847US847&oq=Jair+Bolsonaro&aqs=chrome.0.0j46j0l5j69i60.2812j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Brazil</a>
+            <h3 class="shadow uppercase">
+              <a
+                href="https://www.google.com/search?q=jamal+khashoggi&rlz=1C5CHFA_enUS847US847&oq=jamal+khashoggi&aqs=chrome..69i57j46j0l6.6502j0j9&sourceid=chrome&ie=UTF-8"
+                target="_blank"
+              >MBS</a>
+            </h3>
           </li>
           <li>
-            <a
-              href="https://www.google.com/search?q=mbs&rlz=1C5CHFA_enUS847US847&oq=mbs&aqs=chrome..69i57j46j0l6.1034j0j7&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Saudi</a>
+            <h3 class="shadow uppercase">
+              <a
+                href="https://www.google.com/search?q=al-assad&rlz=1C5CHFA_enUS847US847&oq=al-assad&aqs=chrome.0.69i59j46j0l2j46l2j0j69i60.1394j0j4&sourceid=chrome&ie=UTF-8"
+                target="_blank"
+              >al-Assad</a>
+            </h3>
+          </li>
+          <li>
+            <h3 class="shadow uppercase">
+              <a
+                href="https://www.google.com/search?q=vladimir+putin&rlz=1C5CHFA_enUS847US847&oq=vladimir+putin&aqs=chrome..69i57j46j0l6.3341j0j7&sourceid=chrome&ie=UTF-8"
+                target="_blank"
+              >Vladimir Putin</a>
+            </h3>
+          </li>
+          <li>
+            <h3 class="shadow uppercase">
+              <a
+                href="https://www.google.com/search?q=rodrigo+duterte&rlz=1C5CHFA_enUS847US847&oq=rodrigo+duterte&aqs=chrome..69i57j46j0l6.2868j0j9&sourceid=chrome&ie=UTF-8"
+                target="_blank"
+              >Rodrigo Duterte</a>
+            </h3>
           </li>
         </ul>
-        <h3 class="shadow blink">
+        <h3 id="until" class="shadow">
           <span class="black">UNTIL</span>
         </h3>
-        <ul>
-          <li>
-            <a
-              href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=ExEuX5D4INix0PEPjt2O8Aw&q=uighur+muslims+xi+jingping&oq=uighur+muslims+xi+jingping&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoFCAAQsQM6BwgAELEDEEM6AggAUJ8lWJozYNw2aAJwAXgAgAFbiAHRB5IBAjE0mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjQzcHgyorrAhXYGDQIHY6uA84Q4dUDCAw&uact=5"
-              target="_blank"
-            >Uighur Muslims in Xinjiang</a>
-          </li>
-          <li>
-            <a
-              href="https://www.google.com/search?q=hong+kong+protesters&rlz=1C5CHFA_enUS847US847&oq=hong+kong+protesters&aqs=chrome..69i57j0l7.5827j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Protestors and political opposition in Hong Kong</a>
-          </li>
-          <li>
-            <a
-              href="https://www.google.com/search?q=lgbtq+poland&rlz=1C5CHFA_enUS847US847&oq=lgbtq+poland&aqs=chrome..69i57j0l7.3937j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >LGBTQ in Poland</a>
-          </li>
-          <li>
-            <a
-              href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=9RYuX9jyMfWx0PEPr_GoqAM&q=us+border+detained&oq=us+border+detained&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgUIABCxAzoLCC4QsQMQxwEQowI6BAgAEEM6BwgAELEDEEM6CAguEMcBEKMCOgIIADoICAAQFhAKEB5Q5j5YjEtg_UtoAHABeACAAVGIAfAEkgEBOZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiYweGu0IrrAhX1GDQIHa84CjUQ4dUDCAw&uact=5"
-              target="_blank"
-            >Central/South American refugees at the Southern US Border</a>
-          </li>
-          <li>
-            <a
-              href="https://www.google.com/search?q=bolsanaro+amazon&rlz=1C5CHFA_enUS847US847&oq=bolsanaro+amazon&aqs=chrome..69i57j0l7.2373j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Indigenous Peoples in Australia, Canada, Brazil and the US</a>
-          </li>
-          <li>
-            <a
-              href="https://www.google.com/search?q=russian+journalist&rlz=1C5CHFA_enUS847US847&oq=russian+journalist&aqs=chrome..69i57j0l5j46j0.2947j0j7&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Journalists, Critics, Medics, and Non-violent Protestors against:</a>
-          </li>
-        </ul>
-        <h3 class="shadow uppercase">=&gt; Xi Jingping</h3>
-        <h3 class="shadow uppercase">=&gt; Andrzej Duda</h3>
-        <h3 class="shadow uppercase">=&gt; Jair Bolsonaro</h3>
-        <h3 class="shadow uppercase">=&gt; MBS</h3>
-        <h3 class="shadow uppercase">=&gt; al-Assad</h3>
-        <h3 class="shadow uppercase">=&gt; Vladimir Putin</h3>
-        <h3 class="shadow uppercase">=&gt; Rodrigo Duterte</h3>
+        <div class="flex justify-between items-center">
+          <ul id="occupy_venture_capital_until">
+            <li>
+              <h3 class="shadow uppercase">
+                <a
+                  href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=ExEuX5D4INix0PEPjt2O8Aw&q=uighur+muslims+xi+jingping&oq=uighur+muslims+xi+jingping&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoFCAAQsQM6BwgAELEDEEM6AggAUJ8lWJozYNw2aAJwAXgAgAFbiAHRB5IBAjE0mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjQzcHgyorrAhXYGDQIHY6uA84Q4dUDCAw&uact=5"
+                  target="_blank"
+                >Uighur Muslims in Xinjiang</a>
+              </h3>
+            </li>
+            <li>
+              <h3 class="shadow uppercase">
+                <a
+                  href="https://www.google.com/search?q=hong+kong+protesters&rlz=1C5CHFA_enUS847US847&oq=hong+kong+protesters&aqs=chrome..69i57j0l7.5827j0j9&sourceid=chrome&ie=UTF-8"
+                  target="_blank"
+                >Protestors and political opposition in Hong Kong</a>
+              </h3>
+            </li>
+            <li>
+              <h3 class="shadow uppercase">
+                <a
+                  href="https://www.google.com/search?q=lgbtq+poland&rlz=1C5CHFA_enUS847US847&oq=lgbtq+poland&aqs=chrome..69i57j0l7.3937j0j9&sourceid=chrome&ie=UTF-8"
+                  target="_blank"
+                >LGBTQ in Poland</a>
+              </h3>
+            </li>
+            <li>
+              <h3 class="shadow uppercase">
+                <a
+                  href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=9RYuX9jyMfWx0PEPr_GoqAM&q=us+border+detained&oq=us+border+detained&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgUIABCxAzoLCC4QsQMQxwEQowI6BAgAEEM6BwgAELEDEEM6CAguEMcBEKMCOgIIADoICAAQFhAKEB5Q5j5YjEtg_UtoAHABeACAAVGIAfAEkgEBOZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiYweGu0IrrAhX1GDQIHa84CjUQ4dUDCAw&uact=5"
+                  target="_blank"
+                >Central/South American refugees at the Southern US Border</a>
+              </h3>
+            </li>
+            <li>
+              <h3 class="shadow uppercase">
+                <a
+                  href="https://www.google.com/search?q=bolsanaro+amazon&rlz=1C5CHFA_enUS847US847&oq=bolsanaro+amazon&aqs=chrome..69i57j0l7.2373j0j9&sourceid=chrome&ie=UTF-8"
+                  target="_blank"
+                >Indigenous Peoples in Australia, Canada, Brazil and the US</a>
+              </h3>
+            </li>
+            <li>
+              <h3 class="shadow uppercase">
+                <a
+                  href="https://www.google.com/search?q=russian+journalist&rlz=1C5CHFA_enUS847US847&oq=russian+journalist&aqs=chrome..69i57j0l5j46j0.2947j0j7&sourceid=chrome&ie=UTF-8"
+                  target="_blank"
+                >Journalists, Critics, Medics, and Non-violent Protestors</a>
+              </h3>
+            </li>
+          </ul>
+        </div>
         <h3
           class="magenta"
         >are no longer kidnapped, tortured, imprisoned, murdered, and disappeared.</h3>
