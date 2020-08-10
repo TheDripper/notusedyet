@@ -70,12 +70,13 @@
           have your back.
         </span>
       </p>
+      <img id="verify_facts_help_others" src="/verify_facts_help_others_clip.gif" />
+      <img src="/nasdaq_fam_tokenism.jpg" />
       <div id="poc_need_proof">
-        <p>
-          <a href="https://en.wikipedia.org/wiki/Person_of_color" target="_blank">POC</a> need
-          <span class="magenta">real proof from the white professional community</span> that
-        </p>
-        <h3 class="blink shadow uppercase">we stand in solidarity with the BLM protests</h3>
+        <h3 class="black shadow uppercase">STRIKE NOW AGAINST TOKENISM FROM VC BILLIONAIRES</h3>
+        <h3 class="shadow uppercase">STRIKE NOW AGAINST THE <a href="https://www.google.com/search?q=relentless+dot+com&rlz=1C5CHFA_enUS847US847&oq=relentless+dot+com&aqs=chrome..69i57j0l4j5.11440j1j7&sourceid=chrome&ie=UTF-8" target="_blank">RELENTLESS</a> CONCENTRATION OF WEALTH BY WHITE MEN!</h3>
+        <h3 class="black shadow uppercase">STRIKE NOW TO SHOW POC IN THE USA:</h3>
+        <h3 class="blink shadow uppercase">WE ARE DIFFERENT!</h3>
         <span class="bump">
           and we
           <span class="magenta">never stop fighting</span> for:
@@ -502,5 +503,9 @@ li {
 #check {
   width: 300px;
   filter: saturate(500%) hue-rotate(-155deg);
+}
+#verify_facts_help_others {
+  width: 100%;
+  max-width: 800px;
 }
 </style>
