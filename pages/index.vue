@@ -9,7 +9,6 @@
       <div class="relative">
         <img src="/tyler_hill_white_kid_check.jpg" />
         <img id="dayjob" src="/dayjob.jpg" />
-        <img id="check" src="/check_press.jpg" />
       </div>
     </ul>
       <p>
