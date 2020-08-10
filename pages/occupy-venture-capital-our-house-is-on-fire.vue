@@ -675,12 +675,8 @@
         target="_blank"
       >deadass</a> about the following.
     </p>
-    <h3 class="shadow uppercase blink">posters &amp;&amp; #hashtags != solidarity.</h3>
-    <p class="bump">
-      <span class="magenta">White male</span> software engineers in
-      <span class="magenta">Silicon Valley</span> must strike now for
-      <span class="magenta">black lives</span>.
-    </p>
+    <h3 class="shadow uppercase blink">likes &amp;&amp; <span class="black">#</span>hashtags <span class="black">!</span>= solidarity.</h3>
+    <h3 class="shadow"><span class="black">White men in Silicon Valley must</span> <span class="uppercase">Occupy Venture Capital</span> <span class="black"> and</span> <span class="uppercase">STRIKE NOW</span> <span class="black">FOR</span> BLACK LIVES<span class="black blink">!</span></h3>
     <p>
       No more
       <a
