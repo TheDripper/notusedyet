@@ -81,7 +81,7 @@
     </p>
     <p>
       This experience of
-      <span class="magenta">fear being met with kindness</span> was repeated often as I came to become their neighbor. Later that night my (ex) girlfriend and I returned with a bunch of boxes. It was raining, and the only parking spot was directly in front 5 big dudes, nothing but black clothes on, staring me down as I pulled up.
+      <span class="magenta">fear being met with kindness</span> was repeated often as I grew to become their neighbor. Later that night my (ex) girlfriend and I returned with a bunch of boxes. It was raining, and the only parking spot was directly in front 5 big dudes, nothing but black clothes on, staring me down as I pulled up.
     </p>
     <p>
       <span class="magenta">
