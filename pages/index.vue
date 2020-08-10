@@ -10,7 +10,7 @@
         <img src="/tyler_hill_white_kid_check.jpg" />
         <img id="dayjob" src="/dayjob.jpg" />
         <img src="/tyler_hill_lives_here.jpg" />
-        <img src="/tyler_hill_resume.jpg" />
+        <img src="/tyler_hill_real_person.jpg" />
       </div>
     </ul>
       <p>
