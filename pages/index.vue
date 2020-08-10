@@ -3,15 +3,15 @@
     <div class="slide p-1">
       <h3 class="shadow uppercase blink">likes &amp;&amp; <span class="black">#</span>hashtags <span class="black">!</span>= solidarity.</h3>
     <h3 class="shadow uppercase blink">likes &amp;&amp; <span class="black">#</span>hashtags <span class="black">!</span>= solidarity.</h3>
-    <h3 class="shadow"><span class="black">White men in Silicon Valley must</span> <span class="uppercase">Occupy Venture Capital</span> <span class="black"> and</span> <span class="uppercase">STRIKE NOW</span> <span class="black">FOR</span> BLACK LIVES<span class="black blink">!</span></h3>
-      <h3 class="shadow">
-        <span class="black ">(i am one)</span>
-      </h3>
+    <h1 class="shadow"><span class="black">White men in Silicon Valley must</span> <span class="uppercase">Occupy Venture Capital</span> <span class="black"> and</span> <span class="uppercase">STRIKE NOW</span> <span class="black">FOR</span> BLACK LIVES<span class="black blink">!</span></h1>
+    <ul id="why_white_men_need_to_occupy_venture_capital">
+      <li><h3 class="shadow"><span class="black ">i am a white man and i write code for $$$ in SF</span></h3></li>
       <div class="relative">
-        <img src="/tyler_hill_white_kid.jpg" />
+        <img src="/tyler_hill_white_kid_check.jpg" />
         <img id="dayjob" src="/dayjob.jpg" />
+        <img id="check" src="/check_press.jpg" />
       </div>
-
+    </ul>
       <p>
         No more
         <a
@@ -390,6 +390,12 @@ p {
 .bump {
   font-size: 40px;
 }
+h1 {
+  font-size: 32px;
+  @screen md {
+    font-size: 60px;
+  }
+}
 h3 {
   font-size: 32px;
   @screen md {
@@ -491,5 +497,9 @@ li {
     top: 0;
     left: 0;
   }
+}
+#check {
+  width: 300px;
+  filter: saturate(500%) hue-rotate(-155deg);
 }
 </style>

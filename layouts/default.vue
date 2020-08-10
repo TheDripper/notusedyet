@@ -124,12 +124,13 @@ iframe {
       5px -5px 0 #000;
   }
   box-shadow: none !important;
-  .black {
+  
+}
+.black {
     color: black !important;
     text-shadow: 5px 5px 0 lime, -5px -5px 0 lime, -5px 5px 0 lime,
       5px -5px 0 lime;
   }
-}
 li {
   font-size: 30px;
   list-style: none;
