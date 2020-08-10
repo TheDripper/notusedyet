@@ -66,7 +66,7 @@
       <a
         href="https://en.wikipedia.org/wiki/The_Corner:_A_Year_in_the_Life_of_an_Inner-City_Neighborhood#Critical_response"
         target="_blank"
-      >the corner</a> and parked on Mead, my adrenaline was surging. There were 2 or 3 clusters of big, tall, serious-looking black men, sitting on their porch or listening to
+      >the corner</a> and parked on Mead, my adrenaline was surging. There were 2 or 3 clusters of big, tall, serious-looking black men, hanging out in their yard or listening to
       <a
         href="https://www.youtube.com/watch?v=e2QKlmMT8II"
         target="_blank"
