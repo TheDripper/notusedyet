@@ -3,7 +3,11 @@
     <div class="slide p-1">
       <h3 class="shadow uppercase blink">likes &amp;&amp; <span class="black">#</span>hashtags <span class="black">!</span>= solidarity.</h3>
     <h3 class="shadow uppercase blink">likes &amp;&amp; <span class="black">#</span>hashtags <span class="black">!</span>= solidarity.</h3>
-    <h1 class="shadow"><span class="black">White men in Silicon Valley must</span> <span class="uppercase">Occupy Venture Capital</span> <span class="black"> and</span> <span class="uppercase">STRIKE NOW</span> <span class="black">FOR</span> BLACK LIVES<span class="black blink">!</span></h1>
+    <h1 class="shadow"><span class="black">White men in Silicon Valley must</span> <span class="uppercase">Occupy Venture Capital</span> <span class="black"> and</span></h1>
+    <h1 class="shadow"><span class="uppercase">STRIKE NOW</span> <span class="black">FOR</span> BLACK LIVES<span class="black blink">!</span></h1>
+    <h1 class="shadow"><span class="uppercase">STRIKE NOW</span> <span class="black">FOR</span> HONG KONG!<span class="black blink">!</span></h1>
+    <h1 class="shadow"><span class="uppercase">STRIKE NOW</span> <span class="black">FOR</span> UIGHUR MUSLIMS!<span class="black blink">!</span></h1>
+    <h1 class="shadow"><span class="uppercase">STRIKE NOW</span> <span class="black">FOR</span> THE AMAZON!<span class="black blink">!</span></h1>
     <ul id="why_white_men_need_to_occupy_venture_capital">
       <li><h3 class="shadow"><span class="black ">i am a white man and <a href="https://www.google.com/search?q=average+salary+front+end+engineer&rlz=1C5CHFA_enUS847US847&oq=average+salary+front+end+engineer&aqs=chrome.0.69i59l2j0l2.5466j0j7&sourceid=chrome&ie=UTF-8" target="_blank">i write code for $$$</a> in SF</span></h3></li>
       <div class="relative">
