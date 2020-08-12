@@ -50,6 +50,9 @@ h1 {
 #agnes_chow {
     background: cyan;
     margin-left: 20px;
+    .copy {
+        margin-top: 20px;
+    }
 }
 .staticbg {
     background-image: url('/static.jpg');

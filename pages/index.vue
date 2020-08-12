@@ -176,6 +176,11 @@
         <ul id="actual_patriarchy">
           <li>
             <h3 class="shadow uppercase">
+              <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=Alexander+Lukashenko&stick=H4sIAAAAAAAAAONgVuLUz9U3MDTJTjJ6xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrGKOOakViTmpaQWKfiUZicWZ6TmZecDAHwIV1BbAAAA&biw=1745&bih=889" target="_blank">Alexander Lukashenko</a>
+            </h3>
+          </li>
+          <li>
+            <h3 class="shadow uppercase">
               <a href="https://en.wikipedia.org/wiki/Winnie-the-Pooh" target="_blank">Xi Jingping</a>
             </h3>
           </li>
