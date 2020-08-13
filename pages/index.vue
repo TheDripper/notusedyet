@@ -60,6 +60,7 @@
         </li>
         <li>
           <img src="/tyler_hill_real_person_ok.jpg" />
+          <img src="/terminal_proof_480.gif" />
         </li>
       </ul>
       <p>
