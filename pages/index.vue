@@ -1,7 +1,7 @@
 <template>
   <div id="root">
     <div class="slide p-1">
-      <div v-if="false" class="slide flex flex-col md:flex-row staticbg items-center justify-center">
+      <div class="slide flex flex-col md:flex-row staticbg items-center justify-center">
         <div id="sean_monterrosa" class="relative frame">
           <img v-for="src in black" :src="src" />
         </div>
