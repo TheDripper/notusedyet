@@ -1,7 +1,7 @@
 <template>
   <div id="root">
     <div class="slide p-1">
-      <div class="slide flex flex-col md:flex-row staticbg items-center justify-center">
+      <div v-if="false" class="slide flex flex-col md:flex-row staticbg items-center justify-center">
         <div id="sean_monterrosa" class="relative frame">
           <img v-for="src in black" :src="src" />
         </div>
@@ -47,24 +47,20 @@
         <span class="black">FOR</span> THE AMAZON!
         <span class="black blink">!</span>
       </h1>
-      <ul id="why_white_men_need_to_occupy_venture_capital">
+      <h1>tyler hill is a <span class="magenta">white man</span> and a <span class="magenta">real person</span></h1>
+      <ul id="why_white_men_need_to_occupy_venture_capital" class="flex flex-col md:flex-row">
         <li>
-          <h3 class="shadow">
-            <span class="black">
-              i am a white man and
-              <a
-                href="https://www.google.com/search?q=average+salary+front+end+engineer&rlz=1C5CHFA_enUS847US847&oq=average+salary+front+end+engineer&aqs=chrome.0.69i59l2j0l2.5466j0j7&sourceid=chrome&ie=UTF-8"
-                target="_blank"
-              >i write code for $$$</a> in SF
-            </span>
-          </h3>
+          <div class="relative">
+            <img src="/tyler_hill_white_kid_check.jpg" />
+            <img id="dayjob" src="/dayjob.jpg" />
+          </div>
         </li>
-        <div class="relative">
-          <img src="/tyler_hill_white_kid_check.jpg" />
-          <img id="dayjob" src="/dayjob.jpg" />
+        <li>
           <img src="/tyler_hill_lives_here.jpg" />
+        </li>
+        <li>
           <img src="/tyler_hill_real_person.jpg" />
-        </div>
+        </li>
       </ul>
       <p>
         No more
@@ -604,6 +600,7 @@ li {
   @apply text-right;
 }
 #dayjob {
+  width: 50%;
   @screen md {
     position: absolute;
     top: 0;
