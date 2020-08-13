@@ -47,7 +47,7 @@
         <span class="black">FOR</span> THE AMAZON!
         <span class="black blink">!</span>
       </h1>
-      <h1>tyler hill is a <span class="magenta">white man</span> and a <span class="magenta">real person</span></h1>
+      <h1>tyler hill is a <span class="magenta">white man</span> and a <a href="https://www.linkedin.com/in/tyler-hill-liberate-the-internet/" target="_blank">real person</a></h1>
       <ul id="why_white_men_need_to_occupy_venture_capital" class="flex flex-col md:flex-row">
         <li>
           <div class="relative">
@@ -59,7 +59,7 @@
           <img src="/tyler_hill_lives_here.jpg" />
         </li>
         <li>
-          <img src="/tyler_hill_real_person.jpg" />
+          <img src="/tyler_hill_real_person_ok.jpg" />
         </li>
       </ul>
       <p>
