@@ -47,7 +47,7 @@
         <span class="black">FOR</span> THE AMAZON!
         <span class="black blink">!</span>
       </h1>
-      <h1>tyler hill is a <span class="magenta">white man</span> and a <a href="https://www.linkedin.com/in/tyler-hill-liberate-the-internet/" target="_blank">real person</a></h1>
+      <h1><span class="magenta">tyler hill</span> is a <span class="magenta">white man</span> and a <a href="https://www.linkedin.com/in/tyler-hill-liberate-the-internet/" target="_blank">real person</a></h1>
       <ul id="why_white_men_need_to_occupy_venture_capital" class="flex flex-col md:flex-row">
         <li>
           <div class="relative">
@@ -63,6 +63,7 @@
           <img src="/terminal_proof_480.gif" />
         </li>
       </ul>
+      <img id="virtual_wellness" src="/virtual_wellness_clip_480.gif" />
       <p>
         No more
         <a
@@ -431,6 +432,89 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  mounted() {
+    let black = this.black;
+    for (let i = 0; i < black.length; i++) {
+      setTimeout(function () {
+        black.pop();
+      }, i * 1000);
+    }
+    let white = this.white;
+    for (let i = 0; i < white.length; i++) {
+      setTimeout(function () {
+        white.pop();
+      }, i * 1000);
+    }
+  },
+  data() {
+    return {
+      black: [
+        "/shooting_of_larry_jackson_jr.png",
+        "/shooting_of_anthony_lamar_smith.png",
+        "/shooting_of_trayvon_martin.png",
+        "/shooting_of_mark_duggan.png",
+        "/shooting_of_ramarley_graham.png",
+        "/death_of_kelly_thomas.png",
+        "/shooting_of_anthony_hill.png",
+        "/shooting_of_timothy_russell_and_malissa_williams.png",
+        "/shooting_of_jonathan_ferrell.png",
+        "/shooting_of_john_crawford_iii.png",
+        "/shooting_of_terence_crutcher.png",
+        "/shooting_of_amadou_diallo.png",
+        "/shooting_of_samuel_dubose.png",
+        "/death_of_freddie_gray.png",
+        "/shooting_of_rekia_boyd.png",
+        "/shooting_of_tamir_rice.png",
+        "/shooting_of_sean_bell.png",
+        "/shooting_of_oscar_grant.png",
+        "/shooting_of_michael_brown.png",
+        "/death_of_eric_garner.png",
+        "/death_of_sandra_bland.png",
+        "/shooting_of_walter_scott.png",
+        "/shooting_of_philando_castile.png",
+        "/shooting_of_nia_wilson.png",
+        "/shooting_of_breonna_taylor.png",
+        "/killing_of_george_floyd.png",
+        "/shooting_of_sean_monterrosa.png",
+      ],
+      white: [
+        "/nike_of_the_mind.png",
+        "/nasdaq_fam",
+        "/we_will_stop_this_now.png",
+        "/we_need_to_stop.png",
+        "/us_russia_tech_deals.png",
+        "/unicorns_such_rarity.png",
+        "/salesforce_cartoon_origami_asmr.png",
+        "/ruslan_fazlyev_oligarch_putin.png",
+        "/nasdaq_human_heartbeat.png",
+        "/musk_phone.png",
+        "/market_share.png",
+        "/thriver_wellness.jpg",
+        "/bezos_praying_to_money.png",
+        "/nasdaq_brp.png",
+        "/nasdaq_adaptive.png",
+        "/nasdaq_argenx.png",
+        "/nasdaq_docusign.png",
+        "/nasdaq_funko.png",
+        "/nasdaq_tillray.png",
+        "/nasdaq_can.png",
+        "/nasdaq_newtek.png",
+        "/nasdaq_blackbaud.png",
+        "/nasdaq_fluent.png",
+        "/nasdaq_pagerduty.png",
+        "/nasdaq_lyft.png",
+        "/nasdaq_ruhnn.png",
+        "/nasdaq_niu.png",
+        "/nasdaq_longfin.png",
+        "/nasdaq_paypal.png",
+      ],
+    };
+  },
+};
+</script>
 <style lang="scss" scoped>
 .frame {
   width: 400px;
@@ -620,86 +704,7 @@ li {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+#virtual_wellness {
+  width: 100%;
+}
 </style>
-<script>
-export default {
-  mounted() {
-    let black = this.black;
-    for (let i = 0; i < black.length; i++) {
-      setTimeout(function () {
-        black.pop();
-      }, i * 1000);
-    }
-    let white = this.white;
-    for (let i = 0; i < white.length; i++) {
-      setTimeout(function () {
-        white.pop();
-      }, i * 1000);
-    }
-  },
-  data() {
-    return {
-      black: [
-        "/shooting_of_larry_jackson_jr.png",
-        "/shooting_of_anthony_lamar_smith.png",
-        "/shooting_of_trayvon_martin.png",
-        "/shooting_of_mark_duggan.png",
-        "/shooting_of_ramarley_graham.png",
-        "/death_of_kelly_thomas.png",
-        "/shooting_of_anthony_hill.png",
-        "/shooting_of_timothy_russell_and_malissa_williams.png",
-        "/shooting_of_jonathan_ferrell.png",
-        "/shooting_of_john_crawford_iii.png",
-        "/shooting_of_terence_crutcher.png",
-        "/shooting_of_amadou_diallo.png",
-        "/shooting_of_samuel_dubose.png",
-        "/death_of_freddie_gray.png",
-        "/shooting_of_rekia_boyd.png",
-        "/shooting_of_tamir_rice.png",
-        "/shooting_of_sean_bell.png",
-        "/shooting_of_oscar_grant.png",
-        "/shooting_of_michael_brown.png",
-        "/death_of_eric_garner.png",
-        "/death_of_sandra_bland.png",
-        "/shooting_of_walter_scott.png",
-        "/shooting_of_philando_castile.png",
-        "/shooting_of_nia_wilson.png",
-        "/shooting_of_breonna_taylor.png",
-        "/killing_of_george_floyd.png",
-        "/shooting_of_sean_monterrosa.png",
-      ],
-      white: [
-        "/nike_of_the_mind.png",
-        "/nasdaq_fam",
-        "/we_will_stop_this_now.png",
-        "/we_need_to_stop.png",
-        "/us_russia_tech_deals.png",
-        "/unicorns_such_rarity.png",
-        "/salesforce_cartoon_origami_asmr.png",
-        "/ruslan_fazlyev_oligarch_putin.png",
-        "/nasdaq_human_heartbeat.png",
-        "/musk_phone.png",
-        "/market_share.png",
-        "/thriver_wellness.jpg",
-        "/bezos_praying_to_money.png",
-        "/nasdaq_brp.png",
-        "/nasdaq_adaptive.png",
-        "/nasdaq_argenx.png",
-        "/nasdaq_docusign.png",
-        "/nasdaq_funko.png",
-        "/nasdaq_tillray.png",
-        "/nasdaq_can.png",
-        "/nasdaq_newtek.png",
-        "/nasdaq_blackbaud.png",
-        "/nasdaq_fluent.png",
-        "/nasdaq_pagerduty.png",
-        "/nasdaq_lyft.png",
-        "/nasdaq_ruhnn.png",
-        "/nasdaq_niu.png",
-        "/nasdaq_longfin.png",
-        "/nasdaq_paypal.png",
-      ],
-    };
-  },
-};
-</script>
