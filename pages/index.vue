@@ -1,7 +1,7 @@
 <template>
   <div id="root">
     <div class="slide p-1">
-      <div class="slide flex staticbg items-center justify-center">
+      <div class="slide flex flex-col md:flex-row staticbg items-center justify-center">
         <div id="sean_monterrosa" class="relative frame">
           <img v-for="src in black" :src="src" />
         </div>
@@ -436,8 +436,12 @@
 </template>
 <style lang="scss" scoped>
 .frame {
-  height: 600px;
-  width: 600px;
+  width: 400px;
+  height: 400px;
+  @screen md {
+    height: 600px;
+    width: 600px;
+  }
   overflow: hidden;
   padding: 7px;
   @apply flex items-center justify-center;
@@ -618,7 +622,7 @@ li {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
 }
 </style>
 <script>
