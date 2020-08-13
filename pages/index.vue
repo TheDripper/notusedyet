@@ -602,11 +602,9 @@ li {
 }
 #dayjob {
   width: 50%;
-  @screen md {
     position: absolute;
     top: 0;
     left: 0;
-  }
 }
 #check {
   width: 300px;
