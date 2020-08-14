@@ -2,24 +2,7 @@
   <div id="root">
     <div class="slide p-1">
       <div class="slide flex flex-col md:flex-row staticbg items-center justify-center">
-        <div id="sean_monterrosa" class="relative frame">
-          <img v-for="src in black" :src="src" />
-        </div>
-        <div id="agnes_chow" class="relative frame">
-          <img 4 v-for="src in white" :src="src" />
-        </div>
-        <div id="strike_now_occupy_venture_capital">
-          <h3 class="shadow uppercase blink">
-            likes &amp;&amp;
-            <span class="black">#</span>hashtags
-            <span class="black">!</span>= solidarity.
-          </h3>
-          <h3 class="shadow uppercase blink">
-            likes &amp;&amp;
-            <span class="black">#</span>hashtags
-            <span class="black">!</span>= solidarity.
-          </h3>
-        </div>
+        <img id="likes_hashtags_not_solidarity" src="/solidarity_480.gif" />
       </div>
 
       <h1 class="shadow">
@@ -731,5 +714,8 @@ li {
 }
 #virtual_workplace_wellness_connection {
   overflow: hidden;
+}
+#likes_hashtags_not_solidarity {
+  width: 1200px;
 }
 </style>
