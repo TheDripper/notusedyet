@@ -717,5 +717,6 @@ li {
 }
 #likes_hashtags_not_solidarity {
   width: 1200px;
+  max-width: 100%;
 }
 </style>

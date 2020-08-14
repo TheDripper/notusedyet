@@ -31,8 +31,7 @@
     </div>
     <h3 id="begin" class="bump blink my-12">--:--:--</h3>
     <img src="/wrong_questions_pynchon_wikiquote.png" />
-    <img src="/verify_facts_help_others.gif" />
-    <img src="/wrong_questions_pynchon.gif" />
+    <img id="likes_hashtags_are_not_solidarity" src="/solidarity_clip_1.gif" />
     <p>
       I lived in
       <a
@@ -60,7 +59,7 @@
       At this point I was a 21-year-old
       <a href="/tyler_hill_white_kid.jpg" target="_blank">white kid</a> from
       <a
-        href="https://www.google.com/search?q=burlingame&rlz=1C5CHFA_enUS847US847&oq=burlingame&aqs=chrome..69i57j46j0j46l4j0.943j0j9&sourceid=chrome&ie=UTF-8"
+        href="https://www.google.com/maps/@37.5832012,-122.34998,3a,80y,235.03h,89.68t/data=!3m7!1e1!3m5!1srLY1s_UY4xYISEVKs5tU-g!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DrLY1s_UY4xYISEVKs5tU-g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D14.962511%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192"
         target="_blank"
       >Burlingame</a>, so the first time I turned
       <a
@@ -1190,5 +1189,8 @@ li {
   font-size: 60px;
   color: black !important;
 }
-
+#likes_hashtags_are_not_solidarity {
+  width: 1200px;
+  max-width: 100%;
+}
 </style>
