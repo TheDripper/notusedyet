@@ -47,7 +47,14 @@
         <span class="black">FOR</span> THE AMAZON!
         <span class="black blink">!</span>
       </h1>
-      <h1><span class="magenta">tyler hill</span> is a <span class="magenta">white man</span> and a <a href="https://www.linkedin.com/in/tyler-hill-liberate-the-internet/" target="_blank">real person</a></h1>
+      <h1>
+        <span class="magenta">tyler hill</span> is a
+        <span class="magenta">white man</span> and a
+        <a
+          href="https://www.linkedin.com/in/tyler-hill-liberate-the-internet/"
+          target="_blank"
+        >real person</a>
+      </h1>
       <ul id="why_white_men_need_to_occupy_venture_capital" class="flex flex-col md:flex-row">
         <li>
           <div class="relative">
@@ -63,7 +70,10 @@
           <img src="/terminal_proof_480.gif" />
         </li>
       </ul>
-      <img id="virtual_wellness" src="/virtual_wellness_clip_480.gif" />
+      <div id="virtual_workplace_wellness_connection" class="relative">
+        <img id="virtual_wellness" src="/virtual_wellness_clip_480.gif" />
+        <img id="emotional_connection" src="/gifs_emotional_connection_480.gif" />
+      </div>
       <p>
         No more
         <a
@@ -686,9 +696,9 @@ li {
 }
 #dayjob {
   width: 50%;
-    position: absolute;
-    top: 0;
-    left: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 #check {
   width: 300px;
@@ -706,5 +716,16 @@ li {
 }
 #virtual_wellness {
   width: 100%;
+}
+#emotional_connection {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 25%; 
+  filter: saturate(250%) hue-rotate(130deg);
+  transform: rotate(-30deg) scale(1.5);
+}
+#virtual_workplace_wellness_connection {
+  overflow: hidden;
 }
 </style>
