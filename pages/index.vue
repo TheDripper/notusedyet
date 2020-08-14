@@ -70,6 +70,10 @@
           <img src="/terminal_proof_480.gif" />
         </li>
       </ul>
+      <div class="flex flex-col md:flex-row justify-start">
+          <img src="/will_ginsberg_unauthorized.jpg" />
+          <img src="/will_ginsberg_additional_thought.jpg" />
+          </div>
       <div id="virtual_workplace_wellness_connection" class="relative">
         <img id="virtual_wellness" src="/virtual_wellness_clip_480.gif" />
         <img id="emotional_connection" src="/gifs_emotional_connection_480.gif" />
