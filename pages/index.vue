@@ -53,10 +53,9 @@
           <img src="/terminal_proof_480.gif" />
         </li>
       </ul>
-      <div class="flex flex-col md:flex-row justify-start relative">
+      <div id="will_ginsberg_samsara_people_ops" class="flex flex-col md:flex-row justify-start relative">
         <img src="/will_ginsberg_unauthorized.jpg" />
         <img src="/will_ginsberg_additional_thought.jpg" />
-        <img id="will_ginsberg_samsara_people_ops" src="/will_ginsberg_samsara_laptop_locked.jpg" />
         <h1 id="instant">INAPPROPRIATE</h1>
         <h1 id="instant_2">INAPPROPRIATE</h1>
         <h1 id="instant_3">INAPPROPRIATE</h1>
@@ -724,13 +723,7 @@ li {
   max-width: 100%;
 }
 #will_ginsberg_samsara_people_ops {
-  width: 100px;
-  animation: zoom 15s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  @apply absolute;
-  top: 50%;
-  left: 50%;
+  overflow: hidden;
 }
 #instant {
   font-size: 20px;
