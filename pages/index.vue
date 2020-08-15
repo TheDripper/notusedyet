@@ -47,7 +47,7 @@
         </li>
         <li class="scroll_frame">
           <img id="swat_me_bae" src="/tyler_hill_lives_here.jpg" />
-          <div id="swat_tyler_hill" class="flex">
+          <div id="swat_tyler_hill_2051_3rd_st" class="flex">
             <h1 class="shadow blink">SWAT_ME_BAE_</h1>
             <h1 class="colors_fast">SWAT_ME_BAE_</h1>
             <h1 class="shadow blink">SWAT_ME_BAE_</h1>
@@ -768,7 +768,7 @@ li {
   top: 50%;
   left: 50%;
 }
-#swat_tyler_hill {
+#swat_tyler_hill_2051_3rd_st {
   position: absolute;
   bottom: 30%;
   left: 0;
