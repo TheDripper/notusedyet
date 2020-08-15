@@ -2,7 +2,8 @@
   <div id="root">
     <div class="slide p-1">
       <div class="slide flex flex-col md:flex-row staticbg items-center justify-center">
-        <img id="likes_hashtags_not_solidarity" src="/solidarity_480.gif" />
+        <img class="md:hidden" id="occupy_venture_capital_solidarity" src="/occupy_venture_capital_vert_480.gif" />
+        <img class="hidden md:block" id="likes_hashtags_not_solidarity" src="/occupy_venture_capital_intro_720.gif" />
       </div>
 
       <h1 class="shadow">

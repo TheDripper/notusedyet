@@ -44,7 +44,7 @@
 </template>
 <style lang="scss" scoped>
 h1 {
-  font-size: 80px;
+  font-size: 100px;
   z-index: 2;
 }
 .slide {

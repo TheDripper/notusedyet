@@ -1,10 +1,10 @@
 <template>
-  <div class="slide flex staticbg">
+  <div class="slide flex flex-col md:flex-row staticbg">
     <div id="sean_monterrosa" class="relative frame">
-      <img v-for="src in black" :src="src" />
+      <img v-for="src in alt" :src="src" />
     </div>
     <div id="agnes_chow" class="relative frame">
-      <img v-for="src in white" :src="src" 4/>
+      <img v-for="src in alt" :src="src" />
     </div>
   </div>
 </template>
@@ -40,6 +40,10 @@ h1 {
     @apply absolute;
     top: 0;
     left: 0;
+
+    min-height: 100%;
+    min-width: 100%;
+    max-width: none;
   }
 }
 #agnes_chow {
@@ -52,7 +56,8 @@ h1 {
     @apply absolute;
     top: 0;
     left: 0;
-    height: 100%;
+    min-height: 100%;
+    min-width: 100%;
     max-width: none;
   }
 }
@@ -75,9 +80,98 @@ export default {
         white.pop();
       }, i * 1000);
     }
+    let alt = this.alt;
+    for (let i = 0; i < alt.length; i++) {
+      setTimeout(function () {
+        alt.pop();
+      }, i * 1000);
+    }
   },
   data() {
     return {
+      alt: [
+        "/nike_of_the_mind.png",
+
+        "/nasdaq_fam",
+        "/shooting_of_larry_jackson_jr.png",
+
+        "/we_will_stop_this_now.png",
+        "/shooting_of_anthony_lamar_smith.png",
+
+        "/we_need_to_stop.png",
+        "/shooting_of_trayvon_martin.png",
+
+        "/us_russia_tech_deals.png",
+        "/shooting_of_mark_duggan.png",
+
+        "/unicorns_such_rarity.png",
+        "/shooting_of_ramarley_graham.png",
+
+        "/salesforce_cartoon_origami_asmr.png",
+        "/death_of_kelly_thomas.png",
+
+        "/ruslan_fazlyev_oligarch_putin.png",
+        "/shooting_of_anthony_hill.png",
+
+        "/nasdaq_human_heartbeat.png",
+        "/shooting_of_timothy_russell_and_malissa_williams.png",
+
+        "/musk_phone.png",
+        "/shooting_of_jonathan_ferrell.png",
+
+        "/market_share.png",
+        "/shooting_of_john_crawford_iii.png",
+
+        "/thriver_wellness.jpg",
+        "/shooting_of_terence_crutcher.png",
+
+        "/bezos_praying_to_money.png",
+        "/shooting_of_amadou_diallo.png",
+
+        "/nasdaq_brp.png",
+        "/shooting_of_samuel_dubose.png",
+
+        "/nasdaq_adaptive.png",
+        "/death_of_freddie_gray.png",
+
+        "/nasdaq_argenx.png",
+        "/shooting_of_rekia_boyd.png",
+
+        "/nasdaq_docusign.png",
+        "/shooting_of_tamir_rice.png",
+
+        "/nasdaq_funko.png",
+        "/shooting_of_sean_bell.png",
+
+        "/nasdaq_tillray.png",
+        "/shooting_of_oscar_grant.png",
+
+        "/nasdaq_can.png",
+        "/shooting_of_michael_brown.png",
+
+        "/nasdaq_newtek.png",
+        "/death_of_eric_garner.png",
+
+        "/nasdaq_blackbaud.png",
+        "/death_of_sandra_bland.png",
+
+        "/nasdaq_fluent.png",
+        "/shooting_of_walter_scott.png",
+
+        "/nasdaq_pagerduty.png",
+        "/shooting_of_philando_castile.png",
+
+        "/nasdaq_lyft.png",
+        "/shooting_of_nia_wilson.png",
+
+        "/nasdaq_ruhnn.png",
+        "/shooting_of_breonna_taylor.png",
+        "/nasdaq_niu.png",
+        "/killing_of_george_floyd.png",
+        "/nasdaq_longfin.png",
+        "/shooting_of_sean_monterrosa.png",
+        "/nasdaq_paypal.png",
+      ],
       black: [
         "/shooting_of_larry_jackson_jr.png",
         "/shooting_of_anthony_lamar_smith.png",
@@ -115,12 +209,12 @@ export default {
         "/us_russia_tech_deals.png",
         "/unicorns_such_rarity.png",
         "/salesforce_cartoon_origami_asmr.png",
-        "/saas.png",
         "/ruslan_fazlyev_oligarch_putin.png",
         "/nasdaq_human_heartbeat.png",
         "/musk_phone.png",
         "/market_share.png",
-        "/elon_pulls_out_california.png",
+        "/thriver_wellness.jpg",
+        "/bezos_praying_to_money.png",
         "/nasdaq_brp.png",
         "/nasdaq_adaptive.png",
         "/nasdaq_argenx.png",
