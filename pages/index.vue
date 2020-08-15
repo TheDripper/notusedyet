@@ -744,7 +744,7 @@ li {
 }
 #instant_3 {
   font-size: 20px;
-  animation: zoom 5s, colors 5s;
+  animation: zoom 5s, colors 2s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
   @apply absolute;
