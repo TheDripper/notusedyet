@@ -165,4 +165,78 @@ li {
     color: white !important;
   }
 }
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+.off {
+  animation: off 1s;
+  animation-fill-mode: forwards;
+}
+@keyframes off {
+  to {
+    opacity: 0;
+  }
+}
+.sat {
+  animation: sat 1s;
+  animation-fill-mode: forwards;
+}
+@keyframes sat {
+  to {
+    filter: saturate(500) hue-rotate(90deg);
+  }
+}
+@keyframes fade {
+  to {
+    opacity: 0;
+    margin-bottom: -50px;
+  }
+}
+.fade {
+  animation: fade 1s;
+  animation-fill-mode: forwards;
+}
+@keyframes slide {
+  to {
+    margin-left: -3000px;
+  }
+}
+.slide-off {
+  animation: slide 1s;
+  animation-fill-mode: forwards;
+}
+@keyframes zoom {
+  to {
+    transform: scale(20) rotate(50deg);
+    filter: saturate(500%) hue-rotate(280deg) contrast(200%);
+    opacity: 0.3;
+  }
+}
+.zoom {
+  animation: zoom 1s;
+  animation-fill-mode: forwards;
+}
+.colors {
+  animation: colors 5s;
+}
+@keyframes colors {
+  0% {
+    color: magenta;
+  }
+  20% {
+    color: lime;
+  }
+  40% {
+    color: cyan;
+  }
+  60% {
+    color: red;
+  }
+  80% {
+    color: purple;
+  }
+  
+}
 </style>

@@ -1,4 +1,4 @@
-ffmpeg -i solidarity_480.mov -pix_fmt rgb8 -r 10 solidarity_480.gif && gifsicle -O3 solidarity_480.gif -o solidarity_480.gif
+ffmpeg -i solidarity_clip_1.mov -pix_fmt rgb8 -r 10 solidarity_clip_1.gif && gifsicle -O3 solidarity_clip_1.gif -o solidarity_clip_1.gif
 
 important work by #wikipedia that we can't take for granted: ensuring #facts maintain dominant #realestate on #serps re: #blacklivesmatter (and any other topic #influenced by #adsales) 
 

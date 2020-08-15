@@ -53,10 +53,14 @@
           <img src="/terminal_proof_480.gif" />
         </li>
       </ul>
-      <div class="flex flex-col md:flex-row justify-start">
-          <img src="/will_ginsberg_unauthorized.jpg" />
-          <img src="/will_ginsberg_additional_thought.jpg" />
-          </div>
+      <div class="flex flex-col md:flex-row justify-start relative">
+        <img src="/will_ginsberg_unauthorized.jpg" />
+        <img src="/will_ginsberg_additional_thought.jpg" />
+        <img id="will_ginsberg_samsara_people_ops" src="/will_ginsberg_samsara_laptop_locked.jpg" />
+        <h1 id="instant">INAPPROPRIATE</h1>
+        <h1 id="instant_2">INAPPROPRIATE</h1>
+        <h1 id="instant_3">INAPPROPRIATE</h1>
+      </div>
       <div id="virtual_workplace_wellness_connection" class="relative">
         <img id="virtual_wellness" src="/virtual_wellness_clip_480.gif" />
         <img id="emotional_connection" src="/gifs_emotional_connection_480.gif" />
@@ -708,7 +712,7 @@ li {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 25%; 
+  width: 25%;
   filter: saturate(250%) hue-rotate(130deg);
   transform: rotate(-30deg) scale(1.5);
 }
@@ -718,5 +722,41 @@ li {
 #likes_hashtags_not_solidarity {
   width: 1200px;
   max-width: 100%;
+}
+#will_ginsberg_samsara_people_ops {
+  width: 100px;
+  animation: zoom 15s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  @apply absolute;
+  top: 50%;
+  left: 50%;
+}
+#instant {
+  font-size: 20px;
+  animation: zoom 15s, colors 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  @apply absolute;
+  top: 50%;
+  left: 50%;
+}
+#instant_2 {
+  font-size: 20px;
+  animation: zoom 10s, colors 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  @apply absolute;
+  top: 50%;
+  left: 50%;
+}
+#instant_3 {
+  font-size: 20px;
+  animation: zoom 5s, colors 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  @apply absolute;
+  top: 50%;
+  left: 50%;
 }
 </style>
