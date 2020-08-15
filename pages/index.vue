@@ -56,8 +56,7 @@
       <div id="will_ginsberg_samsara_people_ops" class="flex flex-col md:flex-row justify-start relative">
         <img src="/will_ginsberg_unauthorized.jpg" />
         <img src="/will_ginsberg_additional_thought.jpg" />
-        <h1 id="instant">INAPPROPRIATE</h1>
-        <h1 id="instant_2">INAPPROPRIATE</h1>
+        <h1 id="instant" class="shadow">INAPPROPRIATE</h1>
         <h1 id="instant_3">INAPPROPRIATE</h1>
       </div>
       <div id="virtual_workplace_wellness_connection" class="relative">
