@@ -55,8 +55,6 @@ ul {
 }
 .blink {
   font-size: 60px;
-  color: blue;
-  @apply mx-auto py-8 w-full;
   animation: blink-animation 2s steps(5, start) infinite;
   -webkit-animation: blink-animation 2s steps(5, start) infinite;
 }
@@ -204,8 +202,9 @@ li {
   }
 }
 .slide-off {
-  animation: slide 1s;
+  animation: slide 30s;
   animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
 }
 @keyframes zoom {
   to {
@@ -218,8 +217,11 @@ li {
   animation: zoom 1s;
   animation-fill-mode: forwards;
 }
-.colors {
+.colors_fast {
   animation: colors 5s;
+}
+.colors_fast {
+  animation: colors 1s infinite;
 }
 @keyframes colors {
   0% {
@@ -238,5 +240,9 @@ li {
     color: purple;
   }
   
+}
+.scroll_frame {
+  position: relative;
+  overflow: hidden;
 }
 </style>

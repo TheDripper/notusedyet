@@ -45,15 +45,32 @@
             <img id="dayjob" src="/dayjob.jpg" />
           </div>
         </li>
-        <li>
-          <img src="/tyler_hill_lives_here.jpg" />
+        <li class="scroll_frame">
+          <img id="swat_me_bae" src="/tyler_hill_lives_here.jpg" />
+          <div id="swat_tyler_hill" class="flex">
+            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
+            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
+            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
+            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
+            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
+            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
+            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
+            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
+            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
+            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
+            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
+            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
+          </div>
         </li>
         <li>
           <img src="/tyler_hill_real_person_ok.jpg" />
           <img src="/terminal_proof_480.gif" />
         </li>
       </ul>
-      <div id="will_ginsberg_samsara_people_ops" class="flex flex-col md:flex-row justify-start relative">
+      <div
+        id="will_ginsberg_samsara_people_ops"
+        class="flex flex-col md:flex-row justify-start relative"
+      >
         <img src="/will_ginsberg_unauthorized.jpg" />
         <img src="/will_ginsberg_additional_thought.jpg" />
         <h1 id="instant" class="shadow">INAPPROPRIATE</h1>
@@ -750,5 +767,20 @@ li {
   @apply absolute;
   top: 50%;
   left: 50%;
+}
+#swat_tyler_hill {
+  position: absolute;
+  bottom: 30%;
+  left: 0;
+  width: 100%;
+  animation: slide 30s infinite;
+  h1 {
+    flex-shrink: 0;
+    font-size: 8rem !important;
+  }
+}
+#swat_me_bae {
+  object-fit: cover;
+  max-width: none;
 }
 </style>
