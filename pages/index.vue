@@ -52,7 +52,7 @@
       </h1>
       <div id="why_white_men_need_to_occupy_venture_capital" class="flex flex-col md:flex-row relative">
           <img class="md:hidden" src="/tyler_hill_is_white_vert.png" />
-          <img class="hidden" src="/tyler_hill_is_white.png" />
+          <img class="hidden md:block" src="/tyler_hill_is_white.png" />
       </div>
       <div id="gifs_or_it_didnt_happen" class="flex flex-col md:flex-row items-center">
           <img id="terminal_proof" src="/terminal_proof_480.gif" />
