@@ -220,14 +220,17 @@ li {
 }
 @keyframes zoom {
   to {
-    transform: scale(20) rotate(50deg);
+    transform: scale(20) rotate(250deg);
     filter: saturate(500%) hue-rotate(280deg) contrast(200%);
-    opacity: 0.3;
+    opacity: 0;
   }
 }
 .zoom {
-  animation: zoom 1s;
-  animation-fill-mode: forwards;
+  animation: zoom 5s;
+  animation-fill-mode:both;
+  animation-direction: alternate-reverse;
+  animation-iteration-count: infinite;
+  display: inline-block;
 }
 .colors_fast {
   animation: colors 5s;
