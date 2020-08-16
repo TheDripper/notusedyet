@@ -201,10 +201,22 @@ li {
     margin-left: -3000px;
   }
 }
+@keyframes slide-right {
+  to {
+    margin-left: 3000px;
+  }
+}
 .slide-off {
-  animation: slide 30s;
+  animation: slide 20s;
   animation-fill-mode: forwards;
   animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.slide-right {
+  animation: slide-right 20s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
 @keyframes zoom {
   to {

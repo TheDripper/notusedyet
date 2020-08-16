@@ -5,7 +5,7 @@
         <img class="md:hidden" id="occupy_venture_capital_solidarity" src="/occupy_venture_capital_vert_480.gif" />
         <img class="hidden md:block" id="likes_hashtags_not_solidarity" src="/occupy_venture_capital_intro_720.gif" />
       </div>
-
+      <h1>Are you a <span class="shadow">white man</span> that writes code for a VC-funded/#nasdaqlisted startup?!?</h1>
       <h1 class="shadow">
         <span class="black">White men in Silicon Valley must</span>
         <span class="uppercase">Occupy Venture Capital</span>
