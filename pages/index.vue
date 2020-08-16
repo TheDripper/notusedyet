@@ -1,21 +1,10 @@
 <template>
   <div id="root">
-    <div class="slide p-1">
-      <div class="slide flex flex-col md:flex-row staticbg items-center justify-center">
-        <img
-          class="md:hidden"
-          id="occupy_venture_capital_solidarity"
-          src="/occupy_venture_capital_vert_480.gif"
-        />
-        <img
-          class="hidden md:block"
-          id="likes_hashtags_not_solidarity"
-          src="/occupy_venture_capital_intro_720.gif"
-        />
-      </div>
+        <img class="occupy_venture_capital_intro md:hidden" id="occupy_venture_capital_solidarity" src="/1min_intro_480.gif" />
+        <img class="occupy_venture_capital_intro hidden md:block" id="likes_hashtags_not_solidarity" src="/1min_intro_720.gif" />
       <h1>
         Are you a
-        <span class="shadow">white man</span> that writes code for a VC-funded/#nasdaqlisted startup?!?
+        <span class="shadow">white man</span> that writes code for a VC-funded/<a href="https://www.google.com/search?q=nasdaq+listed&rlz=1C5CHFA_enUS847US847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwipwNGZ9aDrAhWCCjQIHXlpBT4Q_AUoA3oECCIQBQ&biw=1745&bih=845" target="_blank">#nasdaq</a><span class="colors_fast">listed</span> startup?!?
       </h1>
       <h1 class="shadow">
         <span class="black">White men in Silicon Valley must</span>
@@ -50,20 +39,23 @@
           target="_blank"
         >real person</a>
       </h1>
-      <div id="why_white_men_need_to_occupy_venture_capital" class="flex flex-col md:flex-row relative">
-          <img class="md:hidden" src="/tyler_hill_is_white_vert.png" />
-          <img class="hidden md:block" src="/tyler_hill_is_white.png" />
+      <div
+        id="why_white_men_need_to_occupy_venture_capital"
+        class="flex flex-col md:flex-row relative"
+      >
+        <img class="md:hidden" src="/tyler_hill_is_white_vert.png" />
+        <img class="hidden md:block" src="/tyler_hill_is_white.png" />
       </div>
       <div id="gifs_or_it_didnt_happen" class="flex flex-col md:flex-row items-center">
-          <img id="terminal_proof" src="/terminal_proof_480.gif" />
-          <img id="swat_me_bae" src="/swat_me_bae.gif" />
+        <img id="terminal_proof" src="/terminal_proof_480.gif" />
+        <img id="swat_me_bae" src="/swat_me_bae.gif" />
       </div>
       <div
         id="will_ginsberg_samsara_people_ops"
         class="flex flex-col md:flex-row justify-start relative"
       >
-        <img src="/will_ginsberg_unauthorized.jpg" />
         <img src="/will_ginsberg_additional_thought.jpg" />
+        <img src="/will_ginsberg_unauthorized.jpg" />
         <h1 id="instant" class="shadow">INAPPROPRIATE</h1>
         <h1 id="instant_3">INAPPROPRIATE</h1>
       </div>
@@ -71,6 +63,10 @@
       <div id="virtual_workplace_wellness_connection" class="relative">
         <img id="virtual_wellness" src="/virtual_wellness_clip_480.gif" />
         <img id="emotional_connection" src="/gifs_emotional_connection_480.gif" />
+      </div>
+      <div class="flex flex-col md:flex-row justify-start relative">
+        <img id="relentless_logo" src="/relentless_yung_baezos.jpg" />
+        <img id="relentless_yung_baezos" src="/yung_baezos.gif" />
       </div>
       <p>
         No more
@@ -726,10 +722,6 @@ li {
 #virtual_workplace_wellness_connection {
   overflow: hidden;
 }
-#likes_hashtags_not_solidarity {
-  width: 1200px;
-  max-width: 100%;
-}
 #will_ginsberg_samsara_people_ops {
   overflow: hidden;
 }
@@ -776,15 +768,34 @@ li {
   object-fit: cover;
   max-width: none;
   width: 100%;
-  @media(min-width: 1000px) {
+  @media (min-width: 1000px) {
     width: 50%;
   }
 }
-#terminal_proof {
+#terminal_proof,
+ {
+  flex-shrink: 0;
+  width: 100%;
+  @media (min-width: 1000px) {
+    width: 50%;
+  }
+}
+#relentless_yung_baezos,
+#relentless_logo {
   flex-shrink: 0;
   width: 100%;
   @media(min-width: 1000px) {
     width: 50%;
   }
+}
+#occupy_venture_capital_intro {
+  img {
+    width: 100vw !important; 
+  }
+}
+
+html, body {
+  width: 100vw;
+  overflow-y: hidden;
 }
 </style>

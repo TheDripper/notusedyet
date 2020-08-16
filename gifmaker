@@ -1,4 +1,15 @@
-ffmpeg -i swat_me_bae.mov -pix_fmt rgb8 -r 10 swat_me_bae.gif && gifsicle -O3 swat_me_bae.gif -o swat_me_bae.gif
+ffmpeg -i 1min_intro_480.mov -pix_fmt rgb8 -r 10 1min_intro_480.gif && gifsicle -O3 1min_intro_480.gif -o 1min_intro_480.gif
+ffmpeg -i mbs.mov -pix_fmt rgb8 -r 10 mbs.gif && gifsicle -O3 mbs.gif -o 1min_intro_480.gif
+ffmpeg -i assad_driving.mov -pix_fmt rgb8 -r 10 assad_driving.gif && gifsicle -O3 assad_driving.gif -o assad_driving.gif
+ffmpeg -i assad_tank.mov -pix_fmt rgb8 -r 10 assad_tank.gif && gifsicle -O3 assad_tank.gif -o assad_tank.gif
+
+
+
+
+1min_intro_480.mov
+mbs.mov
+assad_driving.mov
+assad_tank.mov
 
 important work by #wikipedia that we can't take for granted: ensuring #facts maintain dominant #realestate on #serps re: #blacklivesmatter (and any other topic #influenced by #adsales) 
 
