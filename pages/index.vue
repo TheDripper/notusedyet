@@ -2,10 +2,21 @@
   <div id="root">
     <div class="slide p-1">
       <div class="slide flex flex-col md:flex-row staticbg items-center justify-center">
-        <img class="md:hidden" id="occupy_venture_capital_solidarity" src="/occupy_venture_capital_vert_480.gif" />
-        <img class="hidden md:block" id="likes_hashtags_not_solidarity" src="/occupy_venture_capital_intro_720.gif" />
+        <img
+          class="md:hidden"
+          id="occupy_venture_capital_solidarity"
+          src="/occupy_venture_capital_vert_480.gif"
+        />
+        <img
+          class="hidden md:block"
+          id="likes_hashtags_not_solidarity"
+          src="/occupy_venture_capital_intro_720.gif"
+        />
       </div>
-      <h1>Are you a <span class="shadow">white man</span> that writes code for a VC-funded/#nasdaqlisted startup?!?</h1>
+      <h1>
+        Are you a
+        <span class="shadow">white man</span> that writes code for a VC-funded/#nasdaqlisted startup?!?
+      </h1>
       <h1 class="shadow">
         <span class="black">White men in Silicon Valley must</span>
         <span class="uppercase">Occupy Venture Capital</span>
@@ -39,35 +50,14 @@
           target="_blank"
         >real person</a>
       </h1>
-      <ul id="why_white_men_need_to_occupy_venture_capital" class="flex flex-col md:flex-row">
-        <li>
-          <div class="relative">
-            <img src="/tyler_hill_white_kid_check.jpg" />
-            <img id="dayjob" src="/dayjob.jpg" />
-          </div>
-        </li>
-        <li class="scroll_frame">
-          <img id="swat_me_bae" src="/tyler_hill_lives_here.jpg" />
-          <div id="swat_tyler_hill_2051_3rd_st" class="flex">
-            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
-            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
-            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
-            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
-            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
-            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
-            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
-            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
-            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
-            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
-            <h1 class="shadow blink">SWAT_ME_BAE_</h1>
-            <h1 class="colors_fast">SWAT_ME_BAE_</h1>
-          </div>
-        </li>
-        <li>
-          <img src="/tyler_hill_real_person_ok.jpg" />
-          <img src="/terminal_proof_480.gif" />
-        </li>
-      </ul>
+      <div id="why_white_men_need_to_occupy_venture_capital" class="flex flex-col md:flex-row relative">
+          <img class="md:hidden" src="/tyler_hill_is_white_vert.png" />
+          <img class="hidden" src="/tyler_hill_is_white.png" />
+      </div>
+      <div id="gifs_or_it_didnt_happen" class="flex flex-col md:flex-row items-center">
+          <img id="terminal_proof" src="/terminal_proof_480.gif" />
+          <img id="swat_me_bae" src="/swat_me_bae.gif" />
+      </div>
       <div
         id="will_ginsberg_samsara_people_ops"
         class="flex flex-col md:flex-row justify-start relative"
@@ -77,6 +67,7 @@
         <h1 id="instant" class="shadow">INAPPROPRIATE</h1>
         <h1 id="instant_3">INAPPROPRIATE</h1>
       </div>
+
       <div id="virtual_workplace_wellness_connection" class="relative">
         <img id="virtual_wellness" src="/virtual_wellness_clip_480.gif" />
         <img id="emotional_connection" src="/gifs_emotional_connection_480.gif" />
@@ -774,7 +765,8 @@ li {
   bottom: 30%;
   left: 0;
   width: 100%;
-  animation: slide 30s infinite;
+  animation: slide 10s infinite;
+  animation-timing-function: linear;
   h1 {
     flex-shrink: 0;
     font-size: 8rem !important;
@@ -783,5 +775,16 @@ li {
 #swat_me_bae {
   object-fit: cover;
   max-width: none;
+  width: 100%;
+  @media(min-width: 1000px) {
+    width: 50%;
+  }
+}
+#terminal_proof {
+  flex-shrink: 0;
+  width: 100%;
+  @media(min-width: 1000px) {
+    width: 50%;
+  }
 }
 </style>

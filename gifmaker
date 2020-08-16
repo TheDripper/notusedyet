@@ -1,4 +1,4 @@
-ffmpeg -i lobby.mov -pix_fmt rgb8 -r 10 lobby.gif && gifsicle -O3 lobby.gif -o lobby.gif
+ffmpeg -i swat_me_bae.mov -pix_fmt rgb8 -r 10 swat_me_bae.gif && gifsicle -O3 swat_me_bae.gif -o swat_me_bae.gif
 
 important work by #wikipedia that we can't take for granted: ensuring #facts maintain dominant #realestate on #serps re: #blacklivesmatter (and any other topic #influenced by #adsales) 
 
