@@ -13,8 +13,7 @@ export default {
         console.log("tick");
       }, 1000);
     }, 200);
-  },
-  data() {},
+  }
 };
 </script>
 <style lang="scss" scoped>
@@ -48,7 +47,7 @@ h1 {
 
 img {
   max-width: none !important;
-  animation: nasdaq 12s infinite linear;
+//   animation: nasdaq 12s infinite linear;
 }
 .staticbg {
   background-image: url("/static.jpg");
