@@ -1,11 +1,8 @@
 <template>
   <div class="slide flex flex-col md:flex-row staticbg">
-    <div id="sean_monterrosa" class="relative frame">
-      <img v-for="src in alt" :src="src" />
-    </div>
-    <div id="agnes_chow" class="relative frame">
-      <img v-for="src in alt" :src="src" />
-    </div>
+    <video loop autoplay>
+      <source src="/grief.mp4" type="video/mp4">
+    </video>
   </div>
 </template>
 <style lang="scss" scoped>

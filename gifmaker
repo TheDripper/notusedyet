@@ -1,12 +1,12 @@
-ffmpeg -i 1min_intro_480.mov -pix_fmt rgb8 -r 10 1min_intro_480.gif && gifsicle -O3 1min_intro_480.gif -o 1min_intro_480.gif
-ffmpeg -i mbs.mov -pix_fmt rgb8 -r 10 mbs.gif && gifsicle -O3 mbs.gif -o 1min_intro_480.gif
+ffmpeg -i spend_it_clip.mov -pix_fmt rgb8 -r 10 spend_it_clip.gif && gifsicle -O3 spend_it_clip.gif -o spend_it_clip.gif
+ffmpeg -i mbs.mov -pix_fmt rgb8 -r 10 mbs.gif && gifsicle -O3 mbs.gif -o spend_it_clip.gif
 ffmpeg -i assad_driving.mov -pix_fmt rgb8 -r 10 assad_driving.gif && gifsicle -O3 assad_driving.gif -o assad_driving.gif
 ffmpeg -i assad_tank.mov -pix_fmt rgb8 -r 10 assad_tank.gif && gifsicle -O3 assad_tank.gif -o assad_tank.gif
 
 
 
 
-1min_intro_480.mov
+spend_it_clip.mov
 mbs.mov
 assad_driving.mov
 assad_tank.mov
