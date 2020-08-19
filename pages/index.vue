@@ -9,6 +9,7 @@
         allowfullscreen
       ></iframe>
     </div>
+    <img src="/intro_single_frame.gif" />
     <!-- <img
       class="occupy_venture_capital_intro md:hidden"
       id="occupy_venture_capital_solidarity"
