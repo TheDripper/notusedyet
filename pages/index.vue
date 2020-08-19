@@ -19,11 +19,49 @@
       class="occupy_venture_capital_intro hidden md:block"
       id="likes_hashtags_not_solidarity"
       src="/1min_intro_720.gif"
-    /> -->
-    <h1><a href="https://www.google.com/search?q=early+seed&rlz=1C5CHFA_enUS847US847&oq=early+seed&aqs=chrome.0.69i59j0l2j69i59j0l4.1180j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Early Seed VC</a> in the <span class="magenta">US / Brazil / Russia / China</span> <span class="shadow colors_fast block py-2 text-center huge">DGAF</span> about <span class="magenta">Trump</span> <span class="shadow uppercase">or</span> <span class="magenta">BLM</span> because <a href="https://brrr.money/" target="_blank">Money Printer Still Go Brrr</a> as long as y'all keep giving yourself <span class="shadow uppercase">Depression</span> with <span class="shadow uppercase">Netflix</span> and <span class="shadow uppercase">Instagram</span>.</h1>
+    />-->
     <h1>
-      The <a href="https://www.google.com/search?q=nasdaq+name&rlz=1C5CHFA_enUS847US847&oq=nasdaq+name&aqs=chrome.0.69i59j0l7.1339j0j9&sourceid=chrome&ie=UTF-8" target="_blank">NASDAQ</a> is <a href="https://www.google.com/search?q=fannie+freddie+2008&rlz=1C5CHFA_enUS847US847&oq=fannie+freddie+2008&aqs=chrome..69i57j0l5.3396j0j9&sourceid=chrome&ie=UTF-8" target="_blank">Fannie/Freddie</a> and <a href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=3vc5X8j1AYiu0PEPx9a90As&q=social+commerce+edtech&oq=social+commerce+edtech&gs_lcp=CgZwc3ktYWIQAzoECAAQR1CGBViYDmDsEmgBcAF4AIABS4gB1gGSAQEzmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjI3J6zpKHrAhUIFzQIHUdrD7oQ4dUDCAw&uact=5" target="_blank">Social Commerce/Workplace Collab/EdTech</a> are the US <a href="https://www.google.com/search?q=cdo&rlz=1C5CHFA_enUS847US847&oq=cdo&aqs=chrome..69i57j0l3j46j0l3.706j0j9&sourceid=chrome&ie=UTF-8" target="_blank">Housing Market/CDOs</a>.
-      It's <span class="shadow">2008 <span class="colors_fast">2.0</span></span> and <a href="https://en.wikipedia.org/wiki/All_the_Devils_Are_Here" target="_blank">All the Devils Are Here</a>.
+      <a
+        href="https://www.google.com/search?q=early+seed&rlz=1C5CHFA_enUS847US847&oq=early+seed&aqs=chrome.0.69i59j0l2j69i59j0l4.1180j0j7&sourceid=chrome&ie=UTF-8"
+        target="_blank"
+      >Early Seed VC</a> in the
+      <span class="magenta">US / Brazil / Russia / China</span>
+      <span class="shadow colors_fast block py-2 text-center huge">DGAF</span> about
+      <span class="magenta">Trump</span>
+      <span class="shadow uppercase">or</span>
+      <span class="magenta">BLM</span> because
+      <a href="https://brrr.money/" target="_blank">Money Printer Still Go Brrr</a> as long as y'all keep giving yourself
+      <span class="shadow uppercase">Depression</span> with
+      <span class="shadow uppercase">Netflix</span> and
+      <span class="shadow uppercase">Instagram</span>.
+    </h1>
+    <h1>
+      The
+      <a
+        href="https://www.google.com/search?q=nasdaq+name&rlz=1C5CHFA_enUS847US847&oq=nasdaq+name&aqs=chrome.0.69i59j0l7.1339j0j9&sourceid=chrome&ie=UTF-8"
+        target="_blank"
+      >NASDAQ</a> is
+      <a
+        href="https://www.google.com/search?q=fannie+freddie+2008&rlz=1C5CHFA_enUS847US847&oq=fannie+freddie+2008&aqs=chrome..69i57j0l5.3396j0j9&sourceid=chrome&ie=UTF-8"
+        target="_blank"
+      >Fannie/Freddie</a> and
+      <a
+        href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=3vc5X8j1AYiu0PEPx9a90As&q=social+commerce+edtech&oq=social+commerce+edtech&gs_lcp=CgZwc3ktYWIQAzoECAAQR1CGBViYDmDsEmgBcAF4AIABS4gB1gGSAQEzmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjI3J6zpKHrAhUIFzQIHUdrD7oQ4dUDCAw&uact=5"
+        target="_blank"
+      >Social Commerce / Workplace Collab / EdTech</a> are the US
+      <a
+        href="https://www.google.com/search?q=cdo&rlz=1C5CHFA_enUS847US847&oq=cdo&aqs=chrome..69i57j0l3j46j0l3.706j0j9&sourceid=chrome&ie=UTF-8"
+        target="_blank"
+      >Housing Market/CDOs</a>.
+      It's
+      <span class="shadow">
+        2008
+        <span class="colors_fast">2.0</span>
+      </span> and
+      <a
+        href="https://en.wikipedia.org/wiki/All_the_Devils_Are_Here"
+        target="_blank"
+      >All the Devils Are Here</a>.
     </h1>
     <h1>
       Are you a
@@ -39,23 +77,39 @@
       <span class="black">and</span>
     </h1>
     <h1 class="shadow">
-      <span class="uppercase">STRIKE <span class="colors_fast">NOW</span></span>
-      <span class="black">FOR</span> <span class="shadow huge">BLACK LIVES</span>
+      <span class="uppercase">
+        STRIKE
+        <span class="colors_fast">NOW</span>
+      </span>
+      <span class="black">FOR</span>
+      <span class="shadow huge">BLACK LIVES</span>
       <span class="magenta blink huge">!</span>
     </h1>
     <h1 class="shadow">
-      <span class="uppercase">STRIKE <span class="colors_fast">NOW</span></span>
-      <span class="black">FOR</span><span class="huge"> HONG KONG</span>
+      <span class="uppercase">
+        STRIKE
+        <span class="colors_fast">NOW</span>
+      </span>
+      <span class="black">FOR</span>
+      <span class="huge">HONG KONG</span>
       <span class="magenta blink huge">!</span>
     </h1>
     <h1 class="shadow">
-      <span class="uppercase">STRIKE <span class="colors_fast">NOW</span></span>
-      <span class="black">FOR</span> <span class="huge">UIGHUR MUSLIMS</span>
+      <span class="uppercase">
+        STRIKE
+        <span class="colors_fast">NOW</span>
+      </span>
+      <span class="black">FOR</span>
+      <span class="huge">UIGHUR MUSLIMS</span>
       <span class="magenta blink huge">!</span>
     </h1>
     <h1 class="shadow">
-      <span class="uppercase">STRIKE <span class="colors_fast">NOW</span></span>
-      <span class="black">FOR</span> <span class="huge">THE AMAZON</span>
+      <span class="uppercase">
+        STRIKE
+        <span class="colors_fast">NOW</span>
+      </span>
+      <span class="black">FOR</span>
+      <span class="huge">THE AMAZON</span>
       <span class="magenta blink huge">!</span>
     </h1>
     <h1>
@@ -625,7 +679,7 @@ p {
   font-size: 40px;
 }
 h1 {
-  font-size: 32px;
+  font-size: 42px;
   @screen md {
     font-size: 60px;
   }
@@ -836,6 +890,9 @@ body {
   overflow-y: hidden;
 }
 .huge {
-  font-size: 120px;
+  font-size: 60px;
+  @screen md {
+    font-size: 120px;
+  }
 }
 </style>
