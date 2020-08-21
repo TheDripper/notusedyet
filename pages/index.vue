@@ -885,7 +885,7 @@ body {
   overflow-y: hidden;
 }
 .huge {
-  font-size: 60px;
+  font-size: 55px;
   @screen md {
     font-size: 120px;
   }
