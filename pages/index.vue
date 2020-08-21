@@ -1,7 +1,13 @@
 <template>
   <div id="root">
     <div class="iframe_frame">
-      <iframe class="mx-auto py-8" src="https://www.youtube.com/embed/4gyoLBz_ucQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe
+        class="mx-auto py-8"
+        src="https://www.youtube.com/embed/4gyoLBz_ucQ"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
     </div>
     <img src="/intro_single_frame.gif" />
     <!-- <img
@@ -49,7 +55,9 @@
         <span class="colors_fast">NOW</span>
       </span>
       <span class="black">FOR</span>
-      <span class="shadow huge"><span class="black">BLACK</span> LIVES</span>
+      <span class="shadow huge">
+        <span class="black">BLACK</span> LIVES
+      </span>
       <span class="magenta blink huge">!</span>
     </h1>
     <h1 class="shadow">
@@ -58,28 +66,39 @@
         <span class="colors_fast">NOW</span>
       </span>
       <span class="black">FOR</span>
-      <span class="shadow huge">THE <span class="black">GREEN</span> NEW DEAL</span>
+      <span class="shadow huge">
+        THE
+        <span class="black">GREEN</span> NEW DEAL
+      </span>
       <span class="magenta blink huge">!</span>
     </h1>
-    
+
     <h1 class="shadow">
       <span class="uppercase blink huge magenta">
-        ENOUGH<span class="colors_fast">!</span>
+        ENOUGH
+        <span class="colors_fast">!</span>
       </span>
-      <span class="huge"><span class="black">RED</span> RIVERS OF <span class="black">INDIGENOUS BLOOD</span> FLOWING FROM <span class="magenta blink huge">BOLSONARO'S FIRES</span> AND <span class="magenta blink huge">JINGPING'S CAMPS</span></span>
+      <span class="huge">
+        <span class="black">RED</span> RIVERS OF
+        <span class="black">INDIGENOUS BLOOD</span> FLOWING FROM
+        <span class="magenta blink huge">BOLSONARO'S FIRES</span> AND
+        <span class="magenta blink huge">JINGPING'S CAMPS</span>
+      </span>
       <span class="magenta blink huge">!</span>
     </h1>
-    <h1 class="shadow uppercase huge">allow <span class="magenta">white oligarchs</span> to <span class="magenta">murder</span> our <span class="black">family</span> and <span class="magenta">burn</span> <span class="shadow black uppercase">the earth</span> for <span class="magenta">profit?</span></h1>
-    <h1 class="shadow huge colors_fast blink">
-      NO WE WON'T!
+    <h1 class="shadow uppercase huge">
+      allow
+      <span class="magenta">white oligarchs</span> to
+      <span class="magenta">murder</span> our
+      <span class="black">family</span> and
+      <span class="magenta">burn</span>
+      <span class="shadow black uppercase">the earth</span> for
+      <span class="magenta">profit?</span>
     </h1>
-    <h1 class="shadow huge colors_fast blink">
-      NO WE WON'T!
-    </h1>
-    <h1 class="shadow huge colors_fast blink">
-      NO WE WON'T!
-    </h1>
-        <h1>
+    <h1 class="shadow huge colors_fast blink">NO WE WON'T!</h1>
+    <h1 class="shadow huge colors_fast blink">NO WE WON'T!</h1>
+    <h1 class="shadow huge colors_fast blink">NO WE WON'T!</h1>
+    <h1>
       The
       <a
         href="https://www.google.com/search?q=nasdaq+name&rlz=1C5CHFA_enUS847US847&oq=nasdaq+name&aqs=chrome.0.69i59j0l7.1339j0j9&sourceid=chrome&ie=UTF-8"
@@ -192,31 +211,59 @@
       >manager</a>, tell your team to
       <span class="magenta">direct any questions from leadership to you</span>, and stop assigning tasks. Make sure ELT knows
       <span class="magenta">you are a true leader</span>, and that
-      <span class="magenta">their beef is with you</span>.
-    </p>
-    <p>
-      Millions of people around
-      <span class="magenta bump">
-        the world will
-        have your back.
-      </span>
+      <span class="magenta bump uppercase">their beef is with you</span>.
     </p>
     <div id="poc_need_proof">
-      <h3
-        class="black shadow uppercase"
-      >STRIKE NOW AGAINST THE FARCE OF DIVERSITY FROM EARLY-SEED OLIGARCHS!</h3>
+      <h3 class="black shadow uppercase">
+        STRIKE NOW AGAINST THE
+        <span class="colors_fast uppercase huge shadow">FARCE</span> OF DIVERSITY FROM EARLY-SEED OLIGARCHS!
+      </h3>
       <h3 class="shadow uppercase">
         STRIKE NOW AGAINST THE
         <a
           href="https://www.google.com/search?q=relentless+dot+com&rlz=1C5CHFA_enUS847US847&oq=relentless+dot+com&aqs=chrome..69i57j0l4j5.11440j1j7&sourceid=chrome&ie=UTF-8"
           target="_blank"
+          class="huge"
         >RELENTLESS</a> CONCENTRATION OF WEALTH BY WHITE MEN!
       </h3>
-      <h3 class="black shadow uppercase">STRIKE NOW TO SHOW POC IN THE USA:</h3>
-      <h3 class="blink shadow uppercase">WE ARE DIFFERENT!</h3>
-      <span class="bump">
-        and we
-        <span class="magenta">never stop fighting</span> for:
+      <h3 class="shadow uppercase huge">
+        <span class="black">THE EARTH AND HER CHILDREN OF COLOR</span> ARE
+        <span class="shadow huge black">
+          UNDER ATTACK
+          <span class="colors_fast shadow huge">!</span>
+        </span>
+      </h3>
+      <h3 class="blink shadow uppercase huge">
+        <span class="black">WE</span> ARE THE
+        <span class="colors_fast">BACKUP!</span>
+      </h3>
+      <h1 class="shadow uppercase huge">
+        ALLOW OUR
+        <a
+          href="https://www.google.com/search?q=say+her+name&rlz=1C5CHFA_enUS847US847&oq=say+her+name&aqs=chrome.0.0l5j46l2j0.979j0j7&sourceid=chrome&ie=UTF-8"
+          target="_blank"
+        >sisters</a> and
+        <a
+          href="https://www.google.com/search?q=men+of+color+killed&rlz=1C5CHFA_enUS847US847&oq=men+of+color+killed&aqs=chrome..69i57.3082j0j7&sourceid=chrome&ie=UTF-8"
+          target="_blank"
+        >brothers</a> and
+        <a
+          href="https://www.hrc.org/resources/violence-against-the-trans-and-gender-non-conforming-community-in-2020"
+          target="_blank"
+        >cousins</a> TO BE
+        <span class="blink colors_fast huge">CONSUMED</span> BY
+        <span class="black">FIRE</span>,
+        <span class="magenta">year after year</span>,
+        <a
+          href="https://www.google.com/search?q=tough+on+crime&rlz=1C5CHFA_enUS847US847&oq=tough+on+crime&aqs=chrome.0.0j46j0l6.1080j0j9&sourceid=chrome&ie=UTF-8"
+          target="_blank"
+          class="blink huge"
+        >decade after decade?</a>
+      </h1>
+      <h1 class="shadow huge colors_fast blink">NO WE WON'T!</h1>
+      <h1 class="shadow huge colors_fast blink">NO WE WON'T!</h1>
+      <h1 class="shadow huge colors_fast blink">NO WE WON'T!</h1>
+      <span class="huge shadow uppercase">
         <h3>
           <a
             href="https://www.google.com/search?q=oscar+grant&rlz=1C5CHFA_enUS847US847&oq=oscar+&aqs=chrome.0.69i59j69i57j69i59j46l2j0j46j69i60.890j0j7&sourceid=chrome&ie=UTF-8"
@@ -259,7 +306,6 @@
             target="_blank"
           >Nia Wilson</a>
         </h3>
-        <span class="magenta">and now</span>
         <h3>
           <a
             href="https://www.google.com/search?q=breonna+taylor&rlz=1C5CHFA_enUS847US847&oq=breonna+taylor&aqs=chrome.0.69i59j0l5j69i60l2.3679j0j9&sourceid=chrome&ie=UTF-8"
@@ -277,167 +323,21 @@
             href="https://www.google.com/search?q=sean+monterrosa&rlz=1C5CHFA_enUS847US847&oq=Sean+Monterrosa&aqs=chrome.0.69i59j0l7.841j0j7&sourceid=chrome&ie=UTF-8"
             target="_blank"
           >Sean Monterrosa</a>
-        </h3>and the
-        <a
-          href="https://www.chicagotribune.com/news/breaking/ct-overnight-shootings-05272020-20200527-ehwgqp6qxjg6hb3declx7mnyji-story.html"
-          target="_blank"
-        >hundreds</a> of
-        <a
-          href="https://www.google.com/search?q=say+her+name&rlz=1C5CHFA_enUS847US847&oq=say+her+name&aqs=chrome.0.0l5j46l2j0.979j0j7&sourceid=chrome&ie=UTF-8"
-          target="_blank"
-        >sisters</a> and
-        <a
-          href="https://www.google.com/search?q=men+of+color+killed&rlz=1C5CHFA_enUS847US847&oq=men+of+color+killed&aqs=chrome..69i57.3082j0j7&sourceid=chrome&ie=UTF-8"
-          target="_blank"
-        >brothers</a> and
-        <a
-          href="https://www.hrc.org/resources/violence-against-the-trans-and-gender-non-conforming-community-in-2020"
-          target="_blank"
-        >cousins</a> that continue to be taken by violence
-        <span class="magenta">year after year</span>,
-        <a
-          href="https://www.google.com/search?q=tough+on+crime&rlz=1C5CHFA_enUS847US847&oq=tough+on+crime&aqs=chrome.0.0j46j0l6.1080j0j9&sourceid=chrome&ie=UTF-8"
-          target="_blank"
-        >decade after decade</a>, without a headline or a
-        <span class="magenta">protest</span>.
+        </h3>
       </span>
-      <h3 class="shadow uppercase">
-        Work will also
-        <span class="black">remain halted</span> for any company doing business with the
-        <span class="black blink">fragile rich boys club</span>
-      </h3>
-      <ul id="actual_patriarchy">
-        <li>
-          <h3 class="shadow uppercase">
-            <a
-              href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&q=Alexander+Lukashenko&stick=H4sIAAAAAAAAAONgVuLUz9U3MDTJTjJ6xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrGKOOakViTmpaQWKfiUZicWZ6TmZecDAHwIV1BbAAAA&biw=1745&bih=889"
-              target="_blank"
-            >Alexander Lukashenko</a>
-          </h3>
-        </li>
-        <li>
-          <h3 class="shadow uppercase">
-            <a href="https://en.wikipedia.org/wiki/Winnie-the-Pooh" target="_blank">Xi Jingping</a>
-          </h3>
-        </li>
-        <li>
-          <h3 class="shadow uppercase">
-            <a
-              href="https://www.google.com/search?q=andrzej+duda&rlz=1C5CHFA_enUS847US847&oq=andrzej+duda&aqs=chrome.0.69i59j46j0l4j69i60l2.6647j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Andrzej Duda</a>
-          </h3>
-        </li>
-        <li>
-          <h3 class="shadow uppercase">
-            <a
-              href="https://www.google.com/search?q=jair+bolsonaro&rlz=1C5CHFA_enUS847US847&oq=Jair+Bolsonaro&aqs=chrome.0.0j46j0l5j69i60.2812j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Jair Bolsonaro</a>
-          </h3>
-        </li>
-        <li>
-          <h3 class="shadow uppercase">
-            <a
-              href="https://www.google.com/search?q=jamal+khashoggi&rlz=1C5CHFA_enUS847US847&oq=jamal+khashoggi&aqs=chrome..69i57j46j0l6.6502j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >MBS</a>
-          </h3>
-        </li>
-        <li>
-          <h3 class="shadow uppercase">
-            <a
-              href="https://www.google.com/search?q=al-assad&rlz=1C5CHFA_enUS847US847&oq=al-assad&aqs=chrome.0.69i59j46j0l2j46l2j0j69i60.1394j0j4&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >al-Assad</a>
-          </h3>
-        </li>
-        <li>
-          <h3 class="shadow uppercase">
-            <a
-              href="https://www.google.com/search?q=vladimir+putin&rlz=1C5CHFA_enUS847US847&oq=vladimir+putin&aqs=chrome..69i57j46j0l6.3341j0j7&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Vladimir Putin</a>
-          </h3>
-        </li>
-        <li>
-          <h3 class="shadow uppercase">
-            <a
-              href="https://www.google.com/search?q=rodrigo+duterte&rlz=1C5CHFA_enUS847US847&oq=rodrigo+duterte&aqs=chrome..69i57j46j0l6.2868j0j9&sourceid=chrome&ie=UTF-8"
-              target="_blank"
-            >Rodrigo Duterte</a>
-          </h3>
-        </li>
-      </ul>
-      <h3 id="until" class="shadow">
-        <span class="black">UNTIL</span>
-      </h3>
-      <div class="flex justify-between items-center">
-        <ul id="occupy_venture_capital_until">
-          <li>
-            <h3 class="shadow uppercase">
-              <a
-                href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=ExEuX5D4INix0PEPjt2O8Aw&q=uighur+muslims+xi+jingping&oq=uighur+muslims+xi+jingping&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoFCAAQsQM6BwgAELEDEEM6AggAUJ8lWJozYNw2aAJwAXgAgAFbiAHRB5IBAjE0mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjQzcHgyorrAhXYGDQIHY6uA84Q4dUDCAw&uact=5"
-                target="_blank"
-              >Uighur Muslims in Xinjiang</a>
-            </h3>
-          </li>
-          <li>
-            <h3 class="shadow uppercase">
-              <a
-                href="https://www.google.com/search?q=hong+kong+protesters&rlz=1C5CHFA_enUS847US847&oq=hong+kong+protesters&aqs=chrome..69i57j0l7.5827j0j9&sourceid=chrome&ie=UTF-8"
-                target="_blank"
-              >Protestors and political opposition in Hong Kong</a>
-            </h3>
-          </li>
-          <li>
-            <h3 class="shadow uppercase">
-              <a
-                href="https://www.google.com/search?q=lgbtq+poland&rlz=1C5CHFA_enUS847US847&oq=lgbtq+poland&aqs=chrome..69i57j0l7.3937j0j9&sourceid=chrome&ie=UTF-8"
-                target="_blank"
-              >LGBTQ in Poland</a>
-            </h3>
-          </li>
-          <li>
-            <h3 class="shadow uppercase">
-              <a
-                href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=9RYuX9jyMfWx0PEPr_GoqAM&q=us+border+detained&oq=us+border+detained&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgUIABCxAzoLCC4QsQMQxwEQowI6BAgAEEM6BwgAELEDEEM6CAguEMcBEKMCOgIIADoICAAQFhAKEB5Q5j5YjEtg_UtoAHABeACAAVGIAfAEkgEBOZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiYweGu0IrrAhX1GDQIHa84CjUQ4dUDCAw&uact=5"
-                target="_blank"
-              >Central/South American refugees at the Southern US Border</a>
-            </h3>
-          </li>
-          <li>
-            <h3 class="shadow uppercase">
-              <a
-                href="https://www.google.com/search?q=bolsanaro+amazon&rlz=1C5CHFA_enUS847US847&oq=bolsanaro+amazon&aqs=chrome..69i57j0l7.2373j0j9&sourceid=chrome&ie=UTF-8"
-                target="_blank"
-              >Indigenous Peoples in Australia, Canada, Brazil and the US</a>
-            </h3>
-          </li>
-          <li>
-            <h3 class="shadow uppercase">
-              <a
-                href="https://www.google.com/search?q=russian+journalist&rlz=1C5CHFA_enUS847US847&oq=russian+journalist&aqs=chrome..69i57j0l5j46j0.2947j0j7&sourceid=chrome&ie=UTF-8"
-                target="_blank"
-              >Journalists, Critics, Medics, and Non-violent Protestors</a>
-            </h3>
-          </li>
-        </ul>
-      </div>
-      <h3 class="magenta">are no longer kidnapped, tortured, imprisoned, murdered, and disappeared.</h3>
     </div>
     <h3>
       <a
         href="https://www.google.com/search?q=saas+pricing+models&rlz=1C5CHFA_enUS847US847&oq=saas+pricing&aqs=chrome.1.69i57j0l7.6457j0j7&sourceid=chrome&ie=UTF-8"
         target="_blank"
-      >SaaS</a> startups are the ideal target for a
+      >SaaS</a> <span class="colors_fast">startups</span> are the ideal <span class="magenta">target</span> for a
       <span class="magenta">strike</span> because:
     </h3>
     <ul>
       <li>
-        unlike other investments that require large factories for storage or processing,
-        <em>e.g. food distribution or scientific research</em>,
-        Slack / Jira / Instagram / etc.
+        <span class="magenta">unlike other investments</span> that require large factories for storage or processing,
+        (e.g. food distribution or scientific research),
+        <span class="bump uppercase colors_fast">Slack / Jira / Instagram</span> / etc.
         <span
           class="magenta"
         >suffer no damage from being turned off</span> for a few months.
@@ -447,6 +347,7 @@
         <a
           href="https://www.google.com/search?q=top+tech+companies+market+cap&rlz=1C5CHFA_enUS847US847&oq=top+tech+companies+market&aqs=chrome.0.0j69i57j0l6.3498j0j9&sourceid=chrome&ie=UTF-8"
           target="_blank"
+          class="bump uppercase"
         >massive concentration of capital</a> in these companies has allowed them to
         <span class="magenta">step over this crisis</span> and
         <span class="magenta">maintain record growth</span> while the majority of us on
@@ -458,33 +359,37 @@
         <a
           href="https://www.google.com/search?q=online+ad+market+share&rlz=1C5CHFA_enUS847US847&oq=online+ad+&aqs=chrome.1.69i57j0l7.4319j0j9&sourceid=chrome&ie=UTF-8"
           target="_blank"
+          class="bump uppercase"
         >We control this capital.</a> The second we
-        <span class="magenta">take our eyes off</span> their
-        <span class="magenta">ads</span> and
-        <span class="magenta">stop writing code</span>, their
-        <span class="magenta">money vanishes</span>. The
+        <span class="black uppercase huge">take our eyes off their ads</span> and
+        <span class="black uppercase huge">stop writing code</span>, their
+        <span class="colors_fast huge uppercase shadow">money vanishes</span>. The
         <span class="magenta">only damage</span> will be to the
         <a
           href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=zhsuX6PPM6CS0PEP692D-Ac&q=nasdaq+etf+growth+forecast&oq=nasdaq+etf+growth+forecast&gs_lcp=CgZwc3ktYWIQAzIFCAAQzQIyBQgAEM0CMgUIABDNAjIFCAAQzQI6BAgAEEc6BggAEAgQHlDpYFj4Z2DLamgAcAF4AIABYYgBowSSAQE3mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwij7sP-1IrrAhUgCTQIHevuAH8Q4dUDCAw&uact=5"
           target="_blank"
+          class="bump uppercase"
         >growth forecasts of early-seed white men</a> in SF and their
         <a
           href="https://news.crunchbase.com/news/q2-2020-global-venture-report-funding-through-the-pandemic/"
           target="_blank"
+          class="bump uppercase"
         >international partners</a>.
       </li>
     </ul>
-    <h3 id="unicorns" class="blink shadow uppercase">
+    <h3 id="unicorns" class="huge shadow uppercase black">
       No more unicorns. Our house is on
       <a
         id="greta_thunberg_is_fire"
         href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8"
         target="_blank"
+        class="huge blink"
       >fire.</a>No more unicorns. Our house is on
       <a
         id="greta_thunberg_is_fire"
         href="https://www.google.com/search?q=greta+thunberg&rlz=1C5CHFA_enUS847US847&oq=gre&aqs=chrome.0.69i59j69i57j69i59j46l2j69i61l2j69i60.2026j0j7&sourceid=chrome&ie=UTF-8"
         target="_blank"
+        class="huge blink"
       >fire.</a>
     </h3>
     <div
@@ -496,16 +401,17 @@
         src="/occupy_silicon_valley_cisco_thousand_eyes.jpg"
       />
     </div>
-    <p>
+    <h3>
       To learn more, search
       <span class="magenta">@hep_cat</span> on Twitter, or
-      <span class="magenta subnow blink">read this essay</span>:
-    </p>
+      <span class="shadow blink uppercase">read this essay</span>:
+    </h3>
     <h1 class="shadow text-center">
       <a
         id="occupy_silicon_valley"
         href="/occupy-venture-capital-our-house-is-on-fire"
-      >White Men in Silicon Valley must Occupy Venture Capital to prove Black Lives Matter</a>
+        class="uppercase colors_fast huge"
+      >White Men in Silicon Valley must Occupy Venture Capital to prove Black Lives Matter and Save the Earth</a>
     </h1>
   </div>
 </template>
@@ -745,9 +651,7 @@ li {
   height: 11vw;
 }
 #greta_thunberg_is_fire {
-  color: magenta !important;
   border: none !important;
-  text-decoration: none !important;
   text-shadow: none !important;
 }
 #tyler_hill_occupy_silicon_valley {
@@ -889,5 +793,14 @@ body {
   @screen md {
     font-size: 120px;
   }
+  h3 {
+    font-size: 55px;
+    @screen md {
+      font-size: 120px;
+    }
+  }
+}
+a {
+  color: magenta;
 }
 </style>
