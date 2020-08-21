@@ -29,7 +29,57 @@
       <span class="shadow uppercase">Netflix</span> and
       <span class="shadow uppercase">Instagram</span>.
     </h1>
+
     <h1>
+      Are you a
+      <span class="shadow uppercase">white man</span> that writes code for a VC-funded/
+      <a
+        href="https://www.google.com/search?q=nasdaq+listed&rlz=1C5CHFA_enUS847US847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwipwNGZ9aDrAhWCCjQIHXlpBT4Q_AUoA3oECCIQBQ&biw=1745&bih=845"
+        target="_blank"
+      >#nasdaq</a>
+      <span class="colors_fast">listed</span> startup?!?
+    </h1>
+    <h1 class="shadow">
+      <span class="uppercase">Occupy Venture Capital</span>
+      <span class="black">and</span>
+    </h1>
+    <h1 class="shadow">
+      <span class="uppercase">
+        STRIKE
+        <span class="colors_fast">NOW</span>
+      </span>
+      <span class="black">FOR</span>
+      <span class="shadow huge"><span class="black">BLACK</span> LIVES</span>
+      <span class="magenta blink huge">!</span>
+    </h1>
+    <h1 class="shadow">
+      <span class="uppercase">
+        STRIKE
+        <span class="colors_fast">NOW</span>
+      </span>
+      <span class="black">FOR</span>
+      <span class="shadow huge">THE <span class="black">GREEN</span> NEW DEAL</span>
+      <span class="magenta blink huge">!</span>
+    </h1>
+    
+    <h1 class="shadow">
+      <span class="uppercase blink huge magenta">
+        ENOUGH<span class="colors_fast">!</span>
+      </span>
+      <span class="huge"><span class="black">RED</span> RIVERS OF <span class="black">INDIGENOUS BLOOD</span> FLOWING FROM <span class="magenta blink huge">BOLSONARO'S FIRES</span> AND <span class="magenta blink huge">JINGPING'S CAMPS</span></span>
+      <span class="magenta blink huge">!</span>
+    </h1>
+    <h1 class="shadow uppercase huge">allow <span class="magenta">white oligarchs</span> to <span class="magenta">murder</span> our <span class="black">family</span> and <span class="magenta">burn</span> <span class="shadow black uppercase">the earth</span> for <span class="magenta">profit?</span></h1>
+    <h1 class="shadow huge colors_fast blink">
+      NO WE WON'T!
+    </h1>
+    <h1 class="shadow huge colors_fast blink">
+      NO WE WON'T!
+    </h1>
+    <h1 class="shadow huge colors_fast blink">
+      NO WE WON'T!
+    </h1>
+        <h1>
       The
       <a
         href="https://www.google.com/search?q=nasdaq+name&rlz=1C5CHFA_enUS847US847&oq=nasdaq+name&aqs=chrome.0.69i59j0l7.1339j0j9&sourceid=chrome&ie=UTF-8"
@@ -56,55 +106,6 @@
         href="https://en.wikipedia.org/wiki/All_the_Devils_Are_Here"
         target="_blank"
       >All the Devils Are Here</a>.
-    </h1>
-    <h1>
-      Are you a
-      <span class="shadow uppercase">white man</span> that writes code for a VC-funded/
-      <a
-        href="https://www.google.com/search?q=nasdaq+listed&rlz=1C5CHFA_enUS847US847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwipwNGZ9aDrAhWCCjQIHXlpBT4Q_AUoA3oECCIQBQ&biw=1745&bih=845"
-        target="_blank"
-      >#nasdaq</a>
-      <span class="colors_fast">listed</span> startup?!?
-    </h1>
-    <h1 class="shadow">
-      <span class="uppercase">Occupy Venture Capital</span>
-      <span class="black">and</span>
-    </h1>
-    <h1 class="shadow">
-      <span class="uppercase">
-        STRIKE
-        <span class="colors_fast">NOW</span>
-      </span>
-      <span class="black">FOR</span>
-      <span class="shadow huge">BLACK LIVES</span>
-      <span class="magenta blink huge">!</span>
-    </h1>
-    <h1 class="shadow">
-      <span class="uppercase">
-        STRIKE
-        <span class="colors_fast">NOW</span>
-      </span>
-      <span class="black">FOR</span>
-      <span class="huge">HONG KONG</span>
-      <span class="magenta blink huge">!</span>
-    </h1>
-    <h1 class="shadow">
-      <span class="uppercase">
-        STRIKE
-        <span class="colors_fast">NOW</span>
-      </span>
-      <span class="black">FOR</span>
-      <span class="huge">UIGHUR MUSLIMS</span>
-      <span class="magenta blink huge">!</span>
-    </h1>
-    <h1 class="shadow">
-      <span class="uppercase">
-        STRIKE
-        <span class="colors_fast">NOW</span>
-      </span>
-      <span class="black">FOR</span>
-      <span class="huge">THE AMAZON</span>
-      <span class="magenta blink huge">!</span>
     </h1>
     <h1>
       <span class="magenta">tyler hill</span> is a
