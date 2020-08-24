@@ -1,14 +1,5 @@
 <template>
   <div id="root">
-    <div class="iframe_frame">
-      <iframe
-        class="mx-auto py-8"
-        src="https://www.youtube.com/embed/4gyoLBz_ucQ"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
-    </div>
     <img src="/intro_single_frame.gif" />
     <!-- <img
       class="occupy_venture_capital_intro md:hidden"
@@ -79,21 +70,22 @@
         <span class="colors_fast">!</span>
       </span>
       <span class="huge">
-        <span class="black">RED</span> RIVERS OF
-        <span class="black">INDIGENOUS BLOOD</span> FLOWING FROM
-        <span class="magenta blink huge">BOLSONARO'S FIRES</span> AND
-        <span class="magenta blink huge">JINGPING'S CAMPS</span>
+        <span class="black">RED RIVERS</span> OF
+        <span class="black">INDIGENOUS BLOOD</span> AND <span class="colors_fast shadow buge">BUNKER FUEL</span> FLOWING FROM
+        <span class="magenta blink huge">BOLSONARO'S </span><span class="colors_fast huge">FIRES</span>
+        <span class="magenta blink huge">JINGPING'S </span><span class="colors_fast huge">CAMPS</span> AND
+        <span class="magenta blink huge">PUTIN'S </span><span class="colors_fast huge">SILENT SMIRK</span>
       </span>
       <span class="magenta blink huge">!</span>
     </h1>
     <h1 class="shadow uppercase huge">
       allow
-      <span class="magenta">white oligarchs</span> to
+      <span class="magenta">oligarchs</span> to
       <span class="magenta">murder</span> our
       <span class="black">family</span> and
       <span class="magenta">burn</span>
       <span class="shadow black uppercase">the earth</span> for
-      <span class="magenta">profit?</span>
+      <span class="magenta huge blink">profit?</span>
     </h1>
     <h1 class="shadow huge colors_fast blink">NO WE WON'T!</h1>
     <h1 class="shadow huge colors_fast blink">NO WE WON'T!</h1>
@@ -229,12 +221,11 @@
       <h3 class="shadow uppercase huge">
         <span class="black">THE EARTH AND HER CHILDREN OF COLOR</span> ARE
         <span class="shadow huge black">
-          UNDER ATTACK
-          <span class="colors_fast shadow huge">!</span>
+          UNDER ATTACK<span class="colors_fast shadow huge">!</span>
         </span>
       </h3>
       <h3 class="blink shadow uppercase huge">
-        <span class="black">WE</span> ARE THE
+        <span class="black">WE</span> ARE THEIR
         <span class="colors_fast">BACKUP!</span>
       </h3>
       <h1 class="shadow uppercase huge">
@@ -268,61 +259,61 @@
           <a
             href="https://www.google.com/search?q=oscar+grant&rlz=1C5CHFA_enUS847US847&oq=oscar+&aqs=chrome.0.69i59j69i57j69i59j46l2j0j46j69i60.890j0j7&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Oscar Grant</a>
+          >Oscar Grant🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?q=michael+brown&rlz=1C5CHFA_enUS847US847&oq=michael+brown&aqs=chrome.0.69i59j0l4j46l2j0.2328j0j7&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Michael Brown</a>
+          >Michael Brown🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?q=eric+garner&rlz=1C5CHFA_enUS847US847&oq=eric+garner&aqs=chrome..69i57j0l7.1833j0j9&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Eric Garner</a>
+          >Eric Garner🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?q=sandra+bland&rlz=1C5CHFA_enUS847US847&oq=sandra+bland&aqs=chrome..69i57j0l4j46j0j69i60.2386j0j9&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Sandra Bland</a>
+          >Sandra Bland🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?rlz=1C5CHFA_enUS847US847&ei=hAwuX5b2CraT0PEP1oaqiAM&q=walter+scott+shooting&oq=walter+scott+shooting&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BwgAELEDEEM6BAgAEEM6CAguEMcBEK8BOgIILjoECC4QQ1D9JFiMLmCeMmgAcAB4AIABcIgB1wWSAQM5LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwiWyO-zxorrAhW2CTQIHVaDCjEQ4dUDCAw&uact=5"
             target="_blank"
-          >Walter Scott</a>
+          >Walter Scott🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?q=philando+castile&rlz=1C5CHFA_enUS847US847&oq=philando&aqs=chrome.0.69i59j69i57j0l6.1290j0j9&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Philando Castile</a>
+          >Philando Castile🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?q=nia+wilson&rlz=1C5CHFA_enUS847US847&oq=nia+wilson&aqs=chrome..69i57j46j0l6.1348j0j9&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Nia Wilson</a>
+          >Nia Wilson🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?q=breonna+taylor&rlz=1C5CHFA_enUS847US847&oq=breonna+taylor&aqs=chrome.0.69i59j0l5j69i60l2.3679j0j9&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Breonna Taylor</a>
+          >Breonna Taylor🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?q=george+floyd&rlz=1C5CHFA_enUS847US847&oq=george+floyd&aqs=chrome..69i57j46j0l5j69i60.3212j0j9&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >George Floyd</a>
+          >George Floyd🖤</a>
         </h3>
         <h3>
           <a
             href="https://www.google.com/search?q=sean+monterrosa&rlz=1C5CHFA_enUS847US847&oq=Sean+Monterrosa&aqs=chrome.0.69i59j0l7.841j0j7&sourceid=chrome&ie=UTF-8"
             target="_blank"
-          >Sean Monterrosa</a>
+          >Sean Monterrosa🖤</a>
         </h3>
       </span>
     </div>
@@ -402,8 +393,8 @@
       />
     </div>
     <h3>
-      To learn more, search
-      <span class="magenta">@hep_cat</span> on Twitter, or
+      To learn more, 
+      <span class="magenta">@drownlux</span> on IG, then
       <span class="shadow blink uppercase">read this essay</span>:
     </h3>
     <h1 class="shadow text-center">
@@ -801,6 +792,17 @@ body {
   }
 }
 a {
-  color: magenta;
+  color: blue;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  &:after {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    content: '';
+    width: 100%;
+    border-bottom: 4px solid magenta;
+  }
 }
 </style>
